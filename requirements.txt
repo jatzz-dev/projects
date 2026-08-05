@@ -1,0 +1,13 @@
+numpy>=2.0
+pandas>=2.2
+scikit-learn>=1.5
+joblib>=1.4
+requests>=2.31
+shapely>=2.0
+pyproj>=3.6
+plotly>=5.20
+streamlit>=1.35
+pypdf>=5.0
+cdsapi>=0.7
+xarray>=2024.1
+netCDF4>=1.6
