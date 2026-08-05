@@ -1,0 +1,18 @@
+{
+  "generated_at_utc": "2026-08-05T10:34:48.291756+00:00",
+  "target": "BMC dispensary diarrhoea cases aggregated to 24 administrative wards",
+  "raw_disease_coverage": "2008-01 through 2018-12 monthly",
+  "annual_disease_extension": "2019 through 2023 from Praja Foundation 2024 Table 19",
+  "weather_coverage": "2008-01-01 through 2019-01-01",
+  "ward_count": 24,
+  "sources": {
+    "praja_raw": "User-provided Praja/BMC CSV",
+    "praja_health_2022": "https://praja.org/praja_docs/praja_downloads/Mumbai%20Health%20White%20Paper%202022_Final.pdf",
+    "praja_health_2024": "https://www.praja.org/praja_docs/praja_downloads/Mumbai%20Health%20White%20Paper%202024.pdf",
+    "era5_cds": "https://cds.climate.copernicus.eu/datasets/reanalysis-era5-single-levels-timeseries?tab=download",
+    "noaa_nino34": "https://www.cpc.ncep.noaa.gov/products/analysis_monitoring/ensostuff/detrend.nino34.ascii.txt",
+    "ward_boundaries": "https://github.com/datameet/Municipal_Spatial_Data/tree/master/Mumbai"
+  },
+  "api_keys_required": true,
+  "api_key_note": "Copernicus CDS Personal Access Token is required for ERA5 download and is not stored in this project."
+}

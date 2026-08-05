@@ -1,0 +1,9 @@
+{
+  "created_at_utc": "2026-08-05T11:15:19.258887+00:00",
+  "climate_source": "Copernicus Climate Data Store ERA5 hourly time-series",
+  "climate_archive": "/home/user/data/raw/era5_timeseries_2008_2018.zip",
+  "climate_coverage": "2008-01-01 through 2018-12-31",
+  "disease_source": "/home/user/data/raw/praja_raw.csv",
+  "model": "random_forest",
+  "api_key_saved": false
+}

@@ -1,0 +1,4502 @@
+
+
+=== PAGE 1 ===
+WHITE PAPER 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The State of Health in Mumbai 
+ 
+July 2022 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+
+
+=== PAGE 2 ===
+ 
+State of Health in Mumbai                                                                                                                                                2 
+ 
+Table of Contents 
+ 
+Table of Contents 
+I. Foreword 5 
+II. Acknowledgement 7 
+III. Sources of Data 8 
+Section A: Health Status of Mumbai 9 
+1. Status of SDG Goal 3 in Mumbai from 2015 to 2021 9 
+2. Total Deaths, Causes of Death and Occurrences of Diseases in Mumbai 10 
+Table 1: Total Deaths registered in Mumbai from 2014 to 2021 10 
+Table 2: Major Causes of Death in Mumbai from 2012 to 2020 10 
+Table 3: Major Occurrences of Diseases from 2012 to 2021 in Government Hospitals and Dispensary 11 
+3. Facilities, Human and Financial Resources for Healthcare Systems in Mumbai 12 
+3.1. Health Facilities 12 
+Figure 1: Number of Government Hospitals and Dispensaries in Mumbai 12 
+Table 4: Availability of Government Health Facilities in Mumbai in 2021 13 
+Table 5: Ward wise Dispensary timings as on 31st December 21 14 
+3.2. Human Resources 15 
+Table 6: Sanctioned and Available Personnel in State Hospitals in Mumbai in 2018, 2020 and 2021 15 
+Table 7: Sanctioned and Available Personnel in Municipal Hospitals in Mumbai in 2018,2020 and 2021 15 
+Table 8: Sanctioned and Available Personnel in BMC Dispensaries as on 31st Dec 2021 16 
+Table 9: Sanctioned and Available Personnel in Maternity Homes under BMC as on 31st Dec 2021 17 
+3.3. Aapli Chikitsa 17 
+3.4. Health Budgets 18 
+Table 10: Total Budget Estimates and Actuals of BMC Health Budget from 2018-19 to 2022-23 (in crores)18 
+Table 11: Revenue Budget Estimates and Actuals of BMC Health Department from 2018-19 to 2022-23 (in 
+crores) 19 
+Table 12: Revenue Budget Estimates and Actuals of BMC Hospitals from 2018-19 to 2022-23 (in crores) 20 
+4. Deliberations by Elected Representatives on Health in Mumbai 21 
+Table 13: Total of Meetings, Attendance and Questions from 2012 to 2021 of Councillors in BMC Public 
+Health Committee 21 
+Table 14: Health issues raised by Public Health Committee Councillors from 2012 to 2021 22 
+
+=== PAGE 3 ===
+ 
+State of Health in Mumbai                                                                                                                                                3 
+ 
+Table 15: Health issues raised by Municipal Councillors in All Committees from 2012 to 2021 23 
+Table 16: Health issues raised by MLAs from 2012 to 2021 24 
+5. Recommendations 25 
+Section B. Status of Registered Diseases/Ailments in Govt. Hospitals and Dispensaries in Mumbai 26 
+A. Communicable Diseases 26 
+Table 17: Number of Malaria cases registered in government dispensaries and hospitals in Mumbai from 
+2012 to 2021 26 
+Table 18: Ward Wise Malaria Cases Registered in BMC dispensaries for the years 2012 to 2021 27 
+Table 19: Age-wise deaths due to Malaria in Mumbai for the years 2012 to 2021 28 
+Table 20: Number of Dengue cases registered in government dispensaries and hospitals in Mumbai from 
+2019 to 2021 28 
+Table 21: Ward Wise Dengue Cases Registered in BMC dispensaries for the years 2012 to 2021 29 
+Table 22: Age-wise deaths due to Dengue in Mumbai for the years 2012 to 2020 30 
+Table 23: Number of Tuberculosis cases registered in government dispensaries and hospitals in Mumbai 
+from 2012 to 2021 30 
+Table 24: Implementation Status of RNTCP programme in Mumbai from 2018 to 2021 31 
+Table 25: Ward Wise TB Cases Registered in BMC dispensaries for the years 2012 to 2021 32 
+Table 26: Age-wise deaths due to TB in Mumbai for the years 2012 to 2020 33 
+Table 27: Number of HIV/AIDS cases registered in government dispensaries and hospitals in Mumbai from 
+2012 to 2021 33 
+Table 28: Ward Wise HIV Cases Registered in BMC dispensaries for the years 2012 to 2021 34 
+Table 29: Age-wise deaths due to HIV in Mumbai for the years 2012 to 2020 35 
+Table 30: Number of Diarrhoea cases registered in government dispensaries and hospitals in Mumbai 
+from 2012 to 2021 35 
+Table 31: Ward Wise Diarrhoea Cases Registered in BMC dispensaries for the years 2012 to 2021 36 
+Table 32: Age-wise deaths due to Diarrhoea in Mumbai for the years 2012 to 2020 37 
+Table 33: Number of Cholera cases registered in government dispensaries and hospitals in Mumbai from 
+2019 to 2021 37 
+Table 34: Age-wise deaths due to Cholera in Mumbai for the years 2012 to 2020 37 
+Table 35: Number of Typhoid cases registered in government dispensaries and hospitals in Mumbai from 
+2012 to 2021 38 
+Table 36: Ward Wise Typhoid Cases Registered in BMC dispensaries for the years 2012 to 2021 39 
+Table 37: Age-wise deaths due to Typhoid in Mumbai for the years 2012 to 2020 40 
+B. Non-Communicable Diseases 41 
+
+=== PAGE 4 ===
+ 
+State of Health in Mumbai                                                                                                                                                4 
+ 
+Table 38: Number of Diabetes cases registered in government dispensaries and hospitals in Mumbai from 
+2012 to 2021 41 
+Table 39: Ward Wise Diabetes Cases Registered in BMC dispensaries for the years 2012 to 2021 42 
+Table 40: Age-wise deaths due to Diabetes in Mumbai for the years 2012 to 2020 43 
+Table 41: Number of Hypertension cases registered in government dispensaries and hospitals in Mumbai 
+from 2012 to 2021 43 
+Table 42: Ward Wise Hypertension Cases Registered in BMC dispensaries for the years 2012 to 2021 44 
+Table 43: Age-wise deaths due to Hypertension in Mumbai for the years 2012 to 2020 45 
+C. Diseases Causing Infant and Children Deaths 46 
+Table 44: Total deaths from Age 0 to 19 in Mumbai from 2012 to 2019 46 
+Table 45: Some Causes of deaths from Age 0 to 19 from 2012 to 2020 46 
+D. Key Mortality Rates 48 
+Table 46: Births and Deaths Rate in Mumbai from 2017 to 2021 48 
+Table 47: Mother and Child Death Indicators in Mumbai from 2017 to 2021 48 
+E. Recommendations 49 
+IV. Ward Wise Factsheet 50 
+V. Annexures 75 
+1. List of Government dispensaries/hospitals 75 
+2. Aapli Chikitsa 76 
+3. List of Basic and Advanced Tests under Aapli Chikitsa scheme 77 
+4. Causes of deaths from Age 0 to 19 from 2012 to 2020 80 
+5. Deaths Due to Other Non-Communicable Diseases 84 
+Table 48: Age-wise Deaths due Other Non-Communicable Diseases in Mumbai from 2012 to 2020 84 
+6. Mumbai MLA Deliberations 85 
+Table 49: Questions asked on health issues by MLAs from Winter 2019 to Budget 2021 85 
+7. Note on BMCs Public Health Committee 86 
+ 
+ 
+  
+
+=== PAGE 5 ===
+ 
+State of Health in Mumbai                                                                                                                                                5 
+ 
+I. Foreword 
+ 
+Primary healthcare provides a decentralised approach which acts as a first level of public healthcare services 
+and in turn can reduce pressure on government hospitals.  This has been emphasised by global organisations 
+such as the World Health Organisation (WHO) as well as in India’s healthcare polic ies like the National Urban 
+Health Mission (NUHM). In addition, the central government has created standards such as the National Building 
+Code (NBC) and Urban Design Plan Formulation and Implementation (UDPFI) which provide benchmarks to 
+assess primary healthcare services in cities.    
+  
+The NBC and UDPFI norms prescribes one dispensary per 15,000 population and moreover, the BMC 
+dispensaries are largely accessed by the slum population. According to said norms, BMC needs 13 3 more 
+dispensaries in city region which has 27% slum population; western suburbs needs 31 5 more dispensaries with 
+a 43% slum population; and 211 more dispensaries in eastern suburbs with 51% slum population. In all, there is 
+a shortage of 659 dispensaries in BMC’s healthcare system as per the norms. In addition to this, vacancy in BMC 
+dispensaries personnel has risen from 10% 2012 to 30% 2021. Moreover, only 6% (12 out of 187) of BMC 
+dispensaries are accessible for 14 hours i.e. from 9:00 AM to 11:00 PM. 
+  
+Due to such deficiencies, citizens are forced to access private healthcare services resulting in increase in Out-Of-
+Pocket (OOP) cost, which further leads to poverty. It was emphasised in Praja’s 2019 survey, commissioned to a 
+reputed market research agency, that 31% of people belonging to the lowest Socio – Economic Classes (SEC E) 
+access private healthcare services and  76% of SEC E respondents  spend more than 10% of their household 
+expenses on medical expenses. 
+  
+This analysis is further supported by World Health Organisation (WHO) repo rt published on 30 th March 2022 
+stating; “household Out-Of-Pocket (OOP) expenses on health services, continues to push over 5.5 crore people 
+in India into poverty every year, with over 17% of Indian households incurring catastrophic levels of health 
+expenditures annually”. 
+  
+There arises a question whether BMC is falling short of resources to overcome these deficiencies. An analysis of 
+BMC’s health budget shows an increase by 196% from 2012-13 to 2022-23. Which means BMC has an adequate 
+budget however, the issue lies in prioritising its allocation. Out of the total 2022-23 BMC health budget, 73% are 
+allocated to hospitals whereas, 27% on primary healthcare facilities. Although hospitals bear the load of 
+secondary and tertiary healthcare and need signif icant budgetary allocation yet, there is a need to lower the 
+burden of citizens’ Out-Of-Pocket expenditure on medical expenses by allocating a reasonable budget towards 
+strengthening BMC’s primary healthcare services. 
+  
+In addition to improving primary hea lthcare, Mumbai needs to put in extra effort to meet its Sustainable 
+Development Goals (SDG) 2030. Since the SDGs were adopted by India in 2015, we only have eight more years 
+to achieve these targets. The target for communicable diseases like tuberculosis is 0 TB cases / 1 lakh population. 
+However, there were 248 TB cases / 1 lakh population reported in 2021. Similarly, despite SDG Goals’ target to 
+reduce one-third of mortality due to non-communicable diseases, deaths due to diabetes and hypertension have 
+increased by 530% and 33% respectively from 2015 to 2020.     
+   
+Effective deliberations can help to bring about an improvement in BMC’s health systems. However, out of the 
+total questions asked in all committees from 2012 to 2021, only 2% was on BMC dispen saries/hospitals. 
+Moreover, only 3% of questions were related to diseases like diabetes, hypertension, TB from 2012 to 2021, 
+which have led to some of the highest deaths in the city. While, 5% of overall deliberations were on naming and 
+renaming hospitals/PHCs/etc.    
+
+=== PAGE 6 ===
+ 
+State of Health in Mumbai                                                                                                                                                6 
+ 
+   
+During COVID-19, BMC proved its efficiency when they introduced decentralised COVID -19 war rooms in all 24 
+wards, with real-time ward-wise data management. However, BMC should now in the same manner utilise the 
+learnings from the recent pas t to strengthen its overall primary healthcare services which are closest to the 
+citizens.    
+   
+If Mumbai wishes to successfully achieve the SDG health targets, it is  important health data on deaths and 
+diseases are maintained effectively and in real -time. This can enable data driven interventions in framing and 
+implementation of health schemes and policies. Moreover, with effective citizen centric deliberations and 
+resourceful utilisation of the budget, appropriate allotment of infrastructure and human re sources need to be 
+ensured, especially in wards catering to a larger population and low socio-economic classes. This can effectively 
+strengthen BMC’s primary healthcare services and in turn encourage citizens to trust these facilities to provide 
+them with proper care and treatment.  
+ 
+ 
+ 
+ 
+ 
+NITAI MEHTA 
+Founder Trustee, Praja Foundation 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+=== PAGE 7 ===
+ 
+State of Health in Mumbai                                                                                                                                                7 
+ 
+ 
+II. Acknowledgement 
+ 
+Praja has obtained the data used in compiling this white paper through Right to Information Act, 2005. Hence it 
+is very important to acknowledge the RTI Act and everyone involved, especially the officials who have provided 
+us this information diligently. 
+ 
+We would like to appreciate our stakeholders; particularly, our Elected Representatives & government officials, 
+the Civil Society Organisations (CSOs) and the journalists who utilise and publicise our data and, by doing so, 
+ensure that awareness regarding various issues that we discuss is distributed to a wide-ranging population. We 
+would like to take this opportunity to specifically  extend our gratitude to all government officials for their 
+continuous cooperation and support. 
+ 
+Praja Foundation appreciates the support given by our supporters and donors, namely Friedrich Naumann 
+Foundation, A.T.E Chandra Foundation, Lal Family Foundati on, Madhu Mehta Foundation, Rohini Nilekani 
+Philanthropies, Unichem Laboratories Ltd., Bellwether Capital Pvt Ltd. and numerous other individual 
+supporters. Their support has made it possible for us to conduct our study & publish this white paper.  
+ 
+We would also like to thank our group of Advisors & Trustees and lastly but not the least, we would like to 
+acknowledge the contributions of all members of Praja’s team as well as Interns, who worked to make this white 
+paper a reality. 
+ 
+ 
+ 
+ 
+Note: Due to the COVID-19 pandemic and the subsequent difficulty in receiving complete data from the related 
+BMC departments the paper suffers from the limitation of not including certain data points. Attempt is however 
+made to portray the holistic situation of Mumbai using p ublished data from online sources and to suggest 
+changes in strengthening civic services in the city. 
+ 
+  
+
+
+=== PAGE 8 ===
+ 
+State of Health in Mumbai                                                                                                                                                8 
+ 
+III. Sources of Data 
+ 
+The sources of information for this study have been collected by filing RTIs (Right to Information) to the 
+relevant departments and through Government Websites: 
+Data Points Year Source 
+Cause of Death 2012 to 2020 State Bureau of Health Intelligence and Vital Statistics 
+(SBHIVS), Maharashtra State through RTI 
+Aapli Chikitsa 
+Diagnostic Tests in 
+Maternity Homes 2019-20 to 2020-21 Public Health Department (BMC) through RTI 
+Diagnostic Tests in 
+Municipal 
+Dispensaries 
+2019-20 to 2020-21 Public Health Department (BMC) through RTI 
+Health Facilities 
+Density of 
+Dispensary per 
+population 
+2019-20 BMC ESR Report 2019-20 
+Dispensary Timings As on 31st December 2021 Public Health Department (BMC) through RTI 
+Human Resource 
+Municipal Health 
+Department and 
+Hospitals 
+2019  to 2021 BMC HR module through RTI 
+State Hospitals 2021 Through RTI filed in State Hospitals 
+Health Budget 2017-18 to 2021-22 BMC Budget Books (BMC Portal) 
+ER Deliberations 
+Councillor 
+Questions 2017-18 to 2021-22 MS Department (BMC) through RTI 
+MLA Questions 2012 to 2021 Vidhan Bhavan through RTI 
+Government Health Programmes  & Schemes 
+RNTCP 2017 to 2021 Nikshay Portal as on 20.05.2022 and Mumbai TB cell (RTI) 
+ 
+ 
+Note: Due to the COVID-19 pandemic and the subsequent difficulty in receiving complete data from the related 
+BMC and state departments, the paper suffers from the limitation of not including certain data points and/or 
+different data points reported of varying periods. An attempt is however made to portray the holistic situation 
+of Mumbai using published data from online sources and to suggest changes in strengthening health services in 
+the city.  
+ 
+ 
+ 
+
+=== PAGE 9 ===
+ 
+State of Health in Mumbai                                                                                                                                                9 
+ 
+Section A: Health Status of Mumbai 
+ 
+1. Status of SDG Goal 3 in Mumbai from 2015 to 2021 
+Diseases Target for 2030 2015  % change 2021 
+Tuberculosis 0 TB cases/1 lakh 
+population 325 cases  Decrease by 24% 248 cases 
+HIV Incidence of 0/per 1,000 
+uninfected population  0.11%  Incidence Increase 
+by 84% 0.21% 
+Malaria 
+End the epidemics of 
+malaria and neglected 
+tropical diseases and 
+combat hepatitis, water-
+borne diseases and other 
+communicable diseases 
+14,977 Decrease by 34% 9,959 
+Dengue 15,341 Decrease by 50% 7,683 
+Typhoid 5,209 Decrease by 9% 4746 
+Diarrhoea 118,446 Decrease by 51% 58,108 
+Hepatitis A 1582 Decrease by 72% 446 
+Hepatitis B 542 Increase by 39% 754 
+Hepatitis C 62 Increase by 458% 346 
+Diabetes 
+Reduce by one third 
+premature mortality from 
+non-communicable 
+diseases through 
+prevention and treatment 
+and promote mental 
+health and well-being 
+2,544 deaths Increase by 530% 16,021 deaths 
+(in 2020) 
+Hypertension 4,486 deaths Increase by 33% 5,965 deaths  
+(in 2020) 
+Neo-natal Mortality 
+Rate 12 per 1,000 live births 16 Decrease by 6% 15 
+Under 5 Mortality 
+Rate 25 per 1,000 live births 32 Decrease by 9% 29 
+Maternal Mortality 
+Rate 
+70 deaths per 1,00,000 
+live births 180 Decrease by 54%  83 
+ 
+
+=== PAGE 10 ===
+ 
+State of Health in Mumbai                                                                                                                                                10 
+ 
+2. Total Deaths, Causes of Death and Occurrences of Diseases in Mumbai 
+Table 1: Total Deaths registered in Mumbai from 2014 to 20211 
+Type 2014 2015 2016 2017 2018 2019 2020 2021 
+Total Death 93,254 94,706 86,642 89,037 88,852 91,223 112,906 108,113 
+Covid -19 Death  - - - - - - 14,137 7,007 
+Total Death 93,254 94,706 86,642 89,037 88,852 91,223 127,043 115,120 
+ 
+ 
+Table 2: Major Causes of Death in Mumbai from 2012 to 20202 
+Cause of Death 2012 2013 2014 2015 2016 2017 2018 2019 2020 Total 
+Malaria (B50 TO 
+B54) 271 204 112 92 125 100 69 69 121 1,111 
+Dengue (A97) 82 107 104 129 7 348 239 281 57 1,346 
+Diarrhoea (A09) 246 265 262 169 340 225 251 203 228 2,142 
+Cholera (A00) 15 8 1 5 1 0 0 1 0 25 
+Typhoid (A01) 8 11 3 8 8 8 6 11 42 104 
+Tuberculosis (A-
+15,16,17,18,19,) 8,247 7,372 6,589 5,693 6,660 5,449 4,940 4,899 3,720 50,735 
+Diabetes (E10-E14) 2,553 2,460 2,428 2,544 9,088 9,525 10,458 11,491 16,021 65,957 
+Hypertension (I10-
+I15) 4,063 4,449 5,030 4,486  3,557 3,693 3,731 4,066 5,965 37,930 
+HIV / AIDS (B20 to 
+B24) 698 509 379 346 852 881 822 685 581 5,496 
+Other Cause of 
+deaths 79,295 75,042 74,663 68,497 70,857 68,608 69,652 70,731 69,640 622,821 
+COVID-19 - - - - - - - - 14,137 14,137 
+Total Deaths 95,478 90,427 89,571 81,969 91,495 88,837 90,168 92,437 110,512 801,804 
+* COD data is provided year wise.  
+ 
+Inference: 
+ Total deaths increased by 16% from 93,254 in 2014 to 1,08,113 in 2021.  
+ Data on total deaths registered has increased by 21% from 93,254 deaths in 2014 to 112,906 deaths in 
+2020, while data on COD has increased by 23% 89,571 deaths in 2014 to 110,512 deaths in 2020. 
+ There is a discrepancy the number of deaths registered as the COD data does not match the total deaths 
+registered in Mumbai. Thus, on an average from 2014 to 2020, the cause of death of 1,662 deaths is 
+unknown. 
+ From 2012 to 2020, maximum deaths in Mumbai w ere related to Diabetes (65,957), TB (50,735) and 
+Hypertension (37,930). 
+ Moreover, deaths due to typhoid have increased by 500% from 7 deaths in 2012 to 42 deaths in 2020, 
+while deaths due to diarrhoea has increased by 15% from 199 deaths in 2012 to 228 deaths in 2020. 
+                                                 
+1 Data as per RTI in BMC 
+2 Data Received from State Bureau of Health Intelligence and Vital Statistics (SBHIVS)  
+
+=== PAGE 11 ===
+ 
+State of Health in Mumbai                                                                                                                                                11 
+ 
+Table 3: Major Occurrences of Diseases from 2012 to 2021 in Government Hospitals and Dispensary 
+Disease 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 Total 
+Malaria 22,499 18,600 16,117 14,977 11,827 11,320 11,799 8,921 8,503 9,959 1,34,522 
+Dengue 4,421 7,083 10,421 15,341 17,523 14,585 19,516 21,769 2,543 7,683 1,20,885 
+Diarrhoea 97,087 113,685 119,248 118,446 104,923 96,200 99,444 93,671 64,189 58,108 9,65,001 
+Cholera 61 225 38 198 112 27 19 11 8 9 708 
+Typhoid 4,966 7,445 4,785 5,209 4,640 4,487 5,206 6,879 3,905 4,746 52,268 
+Tuberculosis 34,335 40,069 42,585 41,825 46,422 55,145 49,234 38,943 28,136 31,874 4,08,568 
+Diabetes 26,688 36,822 45,657 35,098 32,866 31,305 31,480 35,275 28,858 36,616 3,40,665 
+Hypertension 28,595 33,762 36,361 36,273 37,918 34,673 33,970 33,341 26,478 30,011 3,31,382 
+HIV/ AIDS 1,793 1,961 2,898 1,462 2,901 4,472 5,905 8,765 5,130 2,696 37,983 
+Hepatitis A 2,055 2,098 1,974 1,582 1,043 1,235 1,240 1,346 464 446 13,483 
+Hepatitis B 736 649 624 542 567 627 718 793 513 754 6,523 
+Hepatitis C 36 120 66 62 81 114 142 148 223 346 1,338 
+Total 2,23,272 2,62,519 2,80,774 2,71,015 2,60,823 2,54,190 2,58,673 2,49,862 1,68,950 1,83,248 24,13,326 
+COVID-19 - - - - - - - - 80,351 92,048 1,72,399 
+Grand Total 2,23,272 2,62,519 2,80,774 2,71,015 2,60,823 2,54,190 2,58,673 2,49,862 2,49,301 2,75,296 25,85,725 
+ 
+Inferences:  
+ From 2012 to 2021, the highest number of diseases registered were for Diarrhoea  (9,65,001), TB 
+(408,568), Diabetes (3,40,665), Hypertension (3,31,382), Malaria (1,34,522) and Dengue (1,20,885). 
+ From 2019 to 2021, during the COVID years, the number of registered diseases had decreased from 
+2,49,862 in 2019 to 1,68,950 and 1,83,248 in 2020 and 2021 respectively.  
+ Moreover, from 2012 to 2019, the year-on-year trend (with baseline 2012) showed that communicable 
+diseases like malaria, diarrhoea and cholera decreased by 56%, 40% and 85% respectively.  
+ However, from 2012 to 2019, the trend showed that dengue, Diabetes and HIV increased by 74%, 37% 
+and 50% respectively.  
+ Furthermore, from 2012 to 2019, non -communicable diseases like Di abetes, Hypertension, HIV/AIDS, 
+Hepatitis B increased by 37%, 5%, 50% and 2 % respectively. Except HIV/AIDS  and Diabetes (increased 
+by 186% and 8%  respectively from 2012 to 2020), all these diseases showed a decrease in cases 
+registered in 2020.  
+ Hepatitis C increased by a large proportion of 3 11% from 2012 to 2019 and further increased by 861% 
+in 2021. 
+ 
+
+=== PAGE 12 ===
+ 
+State of Health in Mumbai                                                                                                                                                12 
+ 
+3. Facilities, Human and Financial Resources for Healthcare Systems in Mumbai 
+ 
+An imperative aspect of a strong, well-functioning healthcare system is the strength and adequacy of its budget, 
+infrastructure, and personnel. 
+ 
+3.1. Health Facilities 
+ 
+Figure 1: Number of Government Hospitals and Dispensaries in Mumbai3 
+ 
+ 
+National Building Code (NBC)  contains regulations which can be adopted or enacted for use by various 
+departments municipal administrations and public bodies. The NBC code has also been incorporated in the 
+Greater Mumbai Report on Draft Development Plan 2034 (May 2016), BMC. As per the norms it is 
+recommended there should be 1 dispensary for every 15,000 population.  
+ 
+The Urban Design Plan Formulation and Implementation (UDPFI) by the Ministry of Housing and Urban Affairs 
+also recommends this norm for cities.  Furthermore, in the BMC B udget 2022 -23, ₹400 crores have been 
+allocated to developing 200 Hinduhridayasamrat Balasaheb Thackeray primary health centres (PHC) closer to 
+a citizen’s residence. 
+ 
+ 
+ 
+  
+                                                 
+3 Refer Annexure 1 for complete list of dispensaries and hospitals 
+
+
+=== PAGE 13 ===
+ 
+State of Health in Mumbai                                                                                                                                                13 
+ 
+Table 4: Availability of Government Health Facilities in Mumbai in 2021 
+Ward 
+Mid-Year election 
+list of population 
+2019 
+Slum 
+Population 
+(in %)4 
+No. of 
+Government 
+Hospitals 
+Available 
+Government 
+Dispensaries 
+Density of 
+government 
+dispensaries to 
+population 
+Dispensa
+ry  
+ (1 for 
+50,000)5 - 
+RC* 
+Dispensary 
+(1 For 15,000)6 
+- NBC/UDPFI* 
+A 1,91,450 34% 4 7 27,350 4 13 
+B 1,31,718 11% 0 5 26,344 3 9 
+C 1,71,941 - 0 5 34,388 3 11 
+D 3,58,933 10% 0 8 44,867 7 24 
+E 4,06,967 20% 6 12 33,914 8 27 
+F/N 5,47,438 58% 2 8 68,430 11 36 
+F/S 3,73,529 26% 5 10 37,353 7 25 
+G/N 6,19,878 32% 0 10 61,988 12 41 
+G/S 3,90,890 21% 1 14 27,921 8 26 
+H/E 5,76,624 42% 1 8 72,078 12 38 
+H/W 3,18,281 39% 1 5 63,656 6 21 
+K/E 8,52,546 49% 2 13 65,580 17 57 
+K/W 7,74,733 15% 1 7 1,10,676 15 52 
+L 9,33,611 54% 1 16 58,351 19 62 
+M/E 8,35,819 30% 1 11 75,984 17 56 
+M/W 4,26,222 53% 1 6 71,037 9 28 
+N 6,44,521 62% 2 9 71,613 13 43 
+P/N 9,74,114 54% 3 12 81,176 19 65 
+P/S 4,79,631 57% 1 3 1,59,877 10 32 
+R/C 5,81,718 19% 2 7 83,103 12 39 
+R/N 4,46,374 51% 0 5 89,275 9 30 
+R/S 7,15,275 58% 2 7 1,02,182 14 48 
+S 7,69,657 72% 1 8 96,207 15 51 
+T 3,53,343 33% 3 3 1,17,781 7 24 
+Total 1,28,75,213 42% 40 199 64,700 258 858 
+*RC: Rindani Committee; NBC: National Building Code; UDPFI: Urban Design Plan Formulation and Implementation 
+ 
+Inference:  
+• Based on the NBC and UDPFI norm (one dispensary for 15,000 population), Mumbai requires 858 
+dispensaries, while in 2021, had only 199 public/government dispensaries. 
+• In 202 1, not a single ward in Mumbai met the criteria of 1 dispensary for 15,000 population (NBC) 
+criteria. 
+• Wards li ke S (8 dispensaries) and N (9 dispensaries) with more than 60% of slum population have a 
+smaller number of dispensaries in the area. 
+• Wards K/W, P/S, R/S and T have only 1 dispensary for more than one lakh population. 
+ 
+                                                 
+4 Source: Greater Mumbai Report on Draft Development Plan 2034 (May 2016), BMC 
+5 Rindani committee in 1977 
+6Urban Design Plan Formulation and Implementation (UDPFI) and the National Building Code (NBC) 
+
+=== PAGE 14 ===
+ 
+State of Health in Mumbai                                                                                                                                                14 
+ 
+Table 5: Ward wise Dispensary timings as on 31st December 21 
+Ward 
+Slum 
+Population 
+(in %) 
+10:00 
+am 
+to 
+3:00 
+pm 
+(5 
+hrs) 
+9:00 
+am 
+to 
+4:00 
+pm 
+(7 
+hrs) 
+8.30 
+am to 
+4.30 
+pm 
+(8 hrs) 
+10:00 
+am to 
+6:00 pm 
+(8 hrs) 
+9:00 am 
+to 4:00 
+pm & 
+7:00pm 
+to 11:00 
+pm 
+(11hrs) 
+9:00 
+am to 
+11:00 
+pm 
+(14 hrs) 
+Total   
+BMC 
+Dispensaries 
+Norms for 
+Dispensary 
+(1 For 
+15,000)7 - 
+NBC/UDPFI* 
+A 34%   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+3   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+2  1 6 13 
+B 11% 4 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+1 5 9 
+C - 5  5 11 
+D 10% 5 1 6 24 
+E 20% 12  12 27 
+FN 58% 5 2 7 36 
+FS 26% 10  10 25 
+GN 32% 9 9 41 
+GS 21% 12 1 13 26 
+HE 42% 6 1 7 38 
+HW 39% 4 1 5 21 
+KE 49% 11  11 57 
+KW 15% 6 1 7 52 
+L 54% 14 1 15 62 
+ME 30% 11 
+ 
+11 56 
+MW 53% 6 6 28 
+N 62%   8 8 43 
+PN 54% 1 10   
+  
+  
+  
+  
+  
+  
+1 12 65 
+PS 57%   
+  
+  
+  
+  
+  
+3 
+ 
+3 32 
+RC 19% 6 1 7 39 
+RN 51% 5  5 30 
+RS 58% 6 6 48 
+S 72% 7 1 8 51 
+T 33% 3  3 24 
+Total 42% 1 163 8 2 1 12 187 858 
+ 
+Inference: 
+ Out of the 187 public BMC dispensaries, only 12 dispensaries are accessible for 14 hours, 1 for 11 hours, while 
+174 dispensaries are open for only 5 to 7 hrs. 
+ In 2020, 115 dispensaries were open for 14 hours and in 2021, it reduced to only 12. 
+ The wards R/N, M/W, L, P/N, P/S, F/N, R/S, N, and S have more than 50% slum population, however these 
+wards have only 8 dispensaries on an average.  
+ K/E and M/E require 57 and 56 dispensaries according to the NBC norms, however, in these wards not even 
+1 dispensary is open for more than 7 hours. 
+ Timings of dispensaries should be decided according to the requirement of the wards population and 
+standards set by the government.  
+                                                 
+7Urban Design Plan Formulation and Implementation (UDPFI) and the National Building Code (NBC) 
+
+=== PAGE 15 ===
+ 
+State of Health in Mumbai                                                                                                                                                15 
+ 
+3.2. Human Resources 
+ 
+Table 6: Sanctioned and Available Personnel in State Hospitals in Mumbai in 2018, 2020 and 20218 
+Post 
+2018 2020 2021 
+S A 
+% of 
+Vacant 
+Post 
+S A 
+% of 
+Vacant 
+Post 
+S A 
+% of 
+Vacant 
+Post 
+Medical 150 67 55% 132 73 45% 153 32 79% 
+Lecturer 236 80 66% 73 15 79% 396 212 46% 
+Para- Medical 436 320 27% 418 292 30% 431 290 33% 
+Nursing Staff 2,654 2,189 18% 2,577 1,980 23% 3,082 1,985 36% 
+Total 3,476 2,656 24% 3,200 2,360 26% 4,062 2,519 38% 
+Administration 341 239 30% 324 223 31% 317 209 34% 
+Labour 2,307 1,832 21% 1,572 1,135 28% 1,536 1,081 30% 
+Total 2,648 2,071 22% 1,896 1,358 28% 1,853 1,290 30% 
+Grand Total 6,124 4,727 23% 5,096 3,718 27% 5,915 3,809 36% 
+*2019 data was not acquired in 2020, during COVID time; Note: S-Sanctioned, A-Available 
+Inferences: 
+ Vacancy in state hospitals increased from 23% in 2019 to 36% in 2021.  
+ Vacancy in medical post increased from 55% in 2018 to 79% in 2021, while vacancy in para medical 
+increased from 2 7% in 2018 to 33% in 2021  and nursing staff increased from 18% in 2018 t o 36% in 
+2021. 
+ The overall vacant posts in the medical personnel staff have increased from 24% in 2018 to 38% in 2021. 
+ 
+Table 7: Sanctioned and Available Personnel in Municipal Hospitals in Mumbai in 2018,2020 and 2021   
+Post 
+2018 2020 2021 
+S A % of Vacant 
+Post S A % of Vacant 
+ Post S A % of Vacant  
+Post 
+Medical 2,194 1,259 43% 2,149 1,232 43% 2,451 1,510 38% 
+Lecturer 1,431 893 38% 1,431 893 38% 998 511 49% 
+Para- Medical 2,121 1,421 33% 2,121 1,421 33% 2,109 1,197 43% 
+Nursing Staff 6,296 5,483 13% 6,283 5,464 13% 6,709 5,765 14% 
+Total 12,042 9,056 25% 11,984 9,010 25% 12,267 8,983 27% 
+Administration 1,407 1,002 29% 1,414 1,003 29% 1,439 923 36% 
+Labour 10,077 7,253 28% 10,039 7,234 28% 9,967 5,351 46% 
+Total 11,484 8,255 28% 11,453 8,237 28% 11,406 6,274 45% 
+Grand Total 23,526 17,311 26% 23,437 17,247 26% 23,673 15,257 36% 
+ *2019 data was not acquired in 2020, during COVID time; Note: S-Sanctioned, A-Available 
+ 
+Inference: 
+ Proportion of vacant posts in the overall BMC Health facilities increased from 26% in 201 8 to 36% in 
+2021. 
+                                                 
+8 J. J Hospital’s personnel data of one establishment is in appeal, hence not included in the above table. 
+
+=== PAGE 16 ===
+ 
+State of Health in Mumbai                                                                                                                                                16 
+ 
+ Of which 38% vacant post are in medical staff (directly treating patients) and a 43% and 14% vacant post 
+are in para-medical and nursing staff respectively as on 2021.  
+ The vacancy in labour staff in BMC health facilities increased from 28% in 2018 to 46% in 2021, which 
+can impact the cleanliness and hygiene of BMC’s facilities.  
+ 
+Table 8: Sanctioned and Available Personnel in BMC Dispensaries as on 31st Dec 2021 
+Ward 
+  
+Medical Para Medical Admin Labour 
+S A 
+% of 
+Vacant 
+Post 
+S A 
+% of 
+Vacant 
+Post 
+S A 
+% of 
+Vacant 
+Post 
+S A 
+% of 
+Vacant 
+Post 
+A 13 11 15% 9 5 44% 32 21 34% 12 6 50% 
+B 8 6 25% 9 6 33% 0 0 0% 15 11 27% 
+C 17 12 29% 8 3 63% 44 29 34% 36 18 50% 
+D 12 6 50% 11 7 36% 4 4 0% 18 11 39% 
+E 20 16 20% 23 15 35% 2 1 50% 38 21 45% 
+F/S 16 12 25% 13 7 46% 39 27 31% 43 29 33% 
+F/N 10 10 0% 9 10 -11% 0 0 0% 12 13 -8% 
+G/S 15 9 40% 18 13 28% 0 0 0% 33 23 30% 
+G/N 19 13 32% 16 10 38% 40 26 35% 59 42 29% 
+H/E 9 9 0% 10 7 30% 0 0 0% 15 12 20% 
+H/W 13 10 23% 11 3 73% 34 29 15% 32 20 38% 
+K/E 13 8 38% 16 9 44% 42 28 33% 42 26 38% 
+K/W 13 12 8% 22 7 68% 2 0 100% 30 13 57% 
+L 14 13 7% 16 14 13% 25 15 40% 44 35 20% 
+M/W 8 6 25% 8 5 38% 0 0 0% 11 6 45% 
+M/E 10 9 10% 9 9 0% 24 19 21% 39 34 13% 
+N 11 9 18% 11 9 18% 0 0 0% 16 10 38% 
+P/N 12 11 8% 14 7 50% 0 0 0% 28 12 57% 
+P/S 3 2 33% 3 1 67% 1 1 0% 6 1 83% 
+R/C 14 10 29% 9 6 33% 31 29 6% 41 28 32% 
+R/N 5 5 0% 5 4 20% 0 0 0% 7 4 43% 
+R/S 6 6 0% 8 9 -13% 0 0 0% 12 9 25% 
+S 9 8 11% 11 8 27% 0 0 0% 19 14 26% 
+T 8 8 0% 4 3 25% 19 19 0% 18 13 28% 
+Total 278 221 21% 273 177 35% 339 248 27% 626 411 34% 
+ 
+Inference: 
+ There is a 21% vacancy on medical personnel and 35% vacancy in para-medical staff in BMC dispensaries 
+as on Dec 2021. 
+ D, G/S and K/E ward dispensaries have a 50%, 40% and 38% vacancy in medical staff as one 2021. 
+ 
+ 
+ 
+ 
+
+=== PAGE 17 ===
+ 
+State of Health in Mumbai                                                                                                                                                17 
+ 
+Table 9: Sanctioned and Available Personnel in Maternity Homes under BMC as on 31st Dec 2021 
+Post Sanctioned  Available Gap % 
+Medical  181 69 62% 
+Para-Medical 50 29 42% 
+Nursing Staff 438 343 22% 
+Administration 71 60 15% 
+Labour 700 464 34% 
+Total 1440 965 33% 
+ 
+Inference: 
+ Proportion of vacant posts in the overall BMC maternity homes facilities was 33% in 2021. 
+ Of which 62% vacant post are in medical staff (directly treating patients) and a 42% and 22% vacant post 
+are in para-medical and nursing staff respectively as on 2021.  
+ 
+3.3. Aapli Chikitsa 
+Background: The Standing Committee of the Brihanmumbai Municipal Corporation (BMC) approved the 'Aapli 
+Chikitsa' scheme on 16th January 2019. Under this scheme, Mumbaikars can avail pathology/diagnostic facilities 
+at a low cost.  Experts are considering it as a mileston e in the field of health.  After much deliberations, it has 
+been approved.  
+ 
+Objective: In the new system, along with dispensaries, 16 hospitals in the suburbs (where facilities are not 
+available now) will have the facility of blood tests. This service will be available 24 hours in these hospitals. There 
+are 139 types of tests included in the scheme; comprising of 101 basic tests and 38 advance tests. Patients from 
+low-income groups can avail this facility free of cost and while the rest would have to pay a minimum cost (refer 
+to Annexure 6 for rates). This reduced the burden and overcrowding in hospitals as well. 
+ 
+The time taken for each test varies accordingly; the test report is received in 6 hours to 5 weeks.   Under the 
+Aapli Chikitsa scheme, Thyrocare and Metropolis have been given contracts as service providers , of which 
+Thyrocare caters to the Central and Western suburban areas of Mumbai city, while Eastern suburban a reas are 
+managed by Metropolis. 
+ 
+Inferences: 
+• In 2019-2020, under the Aapli Chikitsa scheme for Municipal Dispensaries, a total of 6,57,055 tests were 
+conducted for a total of 1,08,974 samples collected. 
+• Number of blood sample collected increased from 70,508 in 2019 to 2,03,867 in 2021. 
+• Data on tests are not being maintained after 2019-20 and moreover, BMC does not maintain the type 
+of tests taken by the citizens, which can help in identifying the rising cases or disease in an area.  
+ 
+ 
+ 
+ 
+ 
+ 
+
+=== PAGE 18 ===
+ 
+State of Health in Mumbai                                                                                                                                                18 
+ 
+3.4. Health Budgets9 
+ 
+Table 10: Total Budget Estimates and Actuals10 of BMC Health Budget from 2018-19 to 2022-23 (in 
+crores) 
+Heads 
+2018-19 2019-20 2020-21 2021-
+22 
+2022-
+23 
+Budge
+t 
+Estima
+tes 
+Actual
+s 
+Utilis
+ation 
+(%) 
+Budget 
+Estimat
+es 
+Actuals 
+Utilisa
+tion 
+(%) 
+Budge
+t 
+Estima
+tes 
+Actua
+ls 
+Utilis
+ation 
+(%) 
+Budg
+et 
+Estim
+ates 
+Budg
+et 
+Estim
+ates 
+BMC Health Department11 
+Revenue 
+Expenditure 717 598 83% 837 691 83% 808 1,811 224% 940 1,164 
+Municipal Hospitals 
+Revenue 
+Expenditure 2,180 1,889 87% 2,499 2,163 87% 2,396 2,380 99% 2,574 3,100 
+Other12 
+Revenue 
+Expenditure 8 5 60% 9 7 76% 8 7 90% 9 8 
+Total 
+Revenue 
+Expenditure 
+2,905 2,492 86% 3,345 2,861 86% 3,211 4,198 131% 3,522 4,273 
+Total Capital 
+Expenditure 732 339 46% 806 395 49% 1,049 599 57% 1,206 2,661 
+Total Health 3,637 2,832 78% 4,151 3,256 78% 4,260 4,797 113% 4,729 6,934 
+ 
+Inference: 
+ Out of the total budget estimates of 2022-23, (Rs. 45,940 crores), 15% (6,934 crores) has been allocated 
+for the health budget. 
+ The budget trend shows that revenue expenditure on primary healthcare (dispensaries and programmes 
+that falls under the BMC Health department) is considerably lesser than the revenue expenditure on 
+hospitals. 
+ During COVID-19 in 2020-21, the budget utilisation of revenue expenditure in BMC health department 
+was 224% and the budget utilisation of Municipal Hospitals was 99% in the same period. 
+ Total Capital Expenditure Budget Estimates increased by 263% from 732 crores 2018-19 to 2,661 crores 
+in 2022-23. However, the utilisation of these funds has remained low from 46% in 2018 -19 to 57% in 
+2020-21.  
+ 
+ 
+ 
+                                                 
+9 https://portal.mcgm.gov.in/irj/portal/anonymous/qlBudgetapp  
+10 Actuals are from Budget Estimate Books of the BMC of subsequent years.  
+11 Includes preventive and primary public healthcare, dispensaries, burials and cremation. 
+12 Includes other departments to which health budget allocated for certain related services, for example, environment dept.  
+
+=== PAGE 19 ===
+ 
+State of Health in Mumbai                                                                                                                                                19 
+ 
+Table 11: Revenue Budget Estimates and Actuals13 of BMC Health Department from 2018-19 to 2022-
+23 (in crores)  
+Heads 
+2018-19 2019-20 2020-21 2021-
+22 
+2022-
+23 
+Budg
+et 
+Estim
+ates 
+Actu
+als 
+Utilisati
+on (%) 
+Budget 
+Estima
+tes 
+Actu
+als 
+Utilisati
+on (%) 
+Budget 
+Estima
+tes 
+Actu
+als 
+Utilisati
+on (%) 
+Budget 
+Estima
+tes 
+Budget 
+Estima
+tes 
+BMC Health Department 
+Establishme
+nt expenses 454 437 96% 577 506 88% 510 498 98% 557 592 
+Administrati
+ve expenses 56 36 65% 65 34 52% 107 101 95% 103 135 
+Operation 
+and 
+maintenanc
+e 
+106 75 71% 127 86 67% 117 1,050 901% 112 265 
+Interest and 
+Finance 
+charges 
+0.8 0.8 100% 0.7 1.1 145% 0.7 0 0% 0 0 
+Programme 
+expenses 7 1 16% 8 2 28% 8 3 34% 6 10 
+Revenue 
+grants 
+contribution 
+and 
+subsidies 
+92 36 39% 57 55 97% 65 135 207% 161 162 
+Transfer to 
+reserve 
+funds  
+1 1 100% 1 9 1,064% 1 0 0% 0 0 
+Total 
+Revenue 
+Expenditure 
+717 598 83% 837 691 83% 808 1,811 224% 940 1,164 
+ 
+Inference: 
+ Budget estimates of the Total Revenue Expenditure for 2018-19 has increased by 62% from 2022-23.  
+ Budget estimates of Administration expenses increased by 141% while Operations & maintenance 
+increased only by 5% from 2018-19 to 2022-23 in BMC Health Department. 
+ The utilisation of programme expenses of the health department is consistently low, at 16% in 2018-19 
+to 34% in 2020-21. 
+ 
+ 
+                                                 
+13 Actuals are from Budget Estimate Books of the BMC of subsequent years.  
+
+=== PAGE 20 ===
+ 
+State of Health in Mumbai                                                                                                                                                20 
+ 
+Table 12: Revenue Budget Estimates and Actuals14 of BMC Hospitals from 2018-19 to 2022-23 (in 
+crores)  
+Heads 
+2018-19 2019-20 2020-21 2021-
+22 
+2022-
+23 
+Budget 
+Estima
+tes 
+Actuals 
+Utilis
+ation 
+(%) 
+Budget 
+Estima
+tes 
+Actual
+s 
+Utilis
+ation 
+(%) 
+Budget 
+Estima
+tes 
+Actua
+ls 
+Utilisa
+tion 
+(%) 
+Budget 
+Estima
+tes 
+Budge
+t 
+Estima
+tes 
+BMC Hospitals  
+Establish
+ment 
+expenses 
+1,527 1,353 89% 1,771 1,604 91% 1,658 1,710 103% 1,943 2,259 
+Administr
+ative 
+expenses 
+146 78 53% 166 112 68% 183 100 54% 154 313 
+Operation 
+and 
+maintena
+nce 
+495 362 73% 551 341 62% 543 442 81% 469 519 
+Interest 
+and 
+Finance 
+charges 
+0 0 0% 0 0 0% 0 0 0% 0 0 
+Program
+me 
+expenses 
+11 4 33% 11 4 34% 11 4 33% 8 9 
+Revenue 
+grants 
+contributi
+on and 
+subsidies 
+0.7 0.36 52% 0.7 0.34 49% 0.7 0.43 61% 0.42 1.20 
+Transfer 
+to reserve 
+funds  
+0 0 0% 0 0 0% 0 0 0% 0 0 
+Total 
+Revenue 
+Expenditu
+re 
+2,180 1,889 87% 2,499 2,163 87% 2,396 2,380 99% 2,574 3,100 
+Inference: 
+ Utilisation of Programme expenses has remained almost the same, 33% in 2018-19 but to 33% in 2020-
+21. Establishment expenses was over utilised in 2020-21 at 103%.  
+ Total Revenue Expenditure utilisation increased from 87% in 2018-19 to 99% in 2020-21. 
+ 
+ 
+ 
+                                                 
+14 Actuals are from Budget Estimate Books of the BMC of subsequent years.  
+
+=== PAGE 21 ===
+ 
+State of Health in Mumbai                                                                                                                                                21 
+ 
+4. Deliberations by Elected Representatives on Health in Mumbai 
+ 
+Table 13: Total of Meetings, Attendance and Questions from 2012 to 2021 of Councillors in BMC 
+Public Health Committee 
+Year Total Meetings Attendance (%) Total Questions 
+Asked 
+2012 16 62% 48 
+2013 19 70% 133 
+2014 19 58% 95 
+2015 23 65% 153 
+2016 14 64% 141 
+2017 13 60% 137 
+2018 14 71% 176 
+2019 24 70% 118 
+2020 9 70% 49 
+2021 17 71% 111 
+ 
+Inference: 
+ The meetings of BMC health committees have almost remained the same from 16 in 2012 to 17 in 2021. 
+From 2019 to 2021, number of meetings decreased from 24 to 17. 
+ The attendance of councillors in the health committee increased from 62% in 2012 to 71% in 2021.  
+ Total questions asked increased by 131% from 48 questions to 111 in 2021. However, the questions 
+asked decreased by 36% from 176 in 2018 to 111 in 2021.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+=== PAGE 22 ===
+ 
+State of Health in Mumbai                                                                                                                                                22 
+ 
+Table 14: Health issues raised by Public Health Committee Councillors from 2012 to 2021 
+Issues 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 
+Total Questions Asked 48 133 95 153 141 137 176 118 49 111 
+Budget 0 0 0 0 0 2 0 1 0 1 
+Bio Medical Waste 0 0 0 0 0 0 1 1 0 0 
+Cemeteries / Crematorium related 5 2 3 2 3 2 8 4 1 1 
+Compensation/Rehabilitation 0 0 0 0 0 0 0 0 0 0 
+Epidemic/Sensitive Diseases 0 2 7 3 10 5 3 2 2 3 
+Malaria/Dengue 3 6 7 14 6 1 1 2 0 1 
+Diabetic/Hypertension 0 3 0 0 0 0 1 0 0 1 
+Diarrhoea/Typhoid/Cholera 1 1 2 0 2 0 1 1 0 0 
+Tuberculosis 0 2 2 0 2 3 4 4 0 0 
+Dispensary/Municipal 
+Hospital/State Hospital 0 0 0 1 5 4 0 16 0 0 
+Equipment’s 5 5 8 8 10 11 2 6 4 4 
+Eradication programme 0 1 0 0 2 0 0 0 0 0 
+Fogging 0 1 3 2 1 1 1 0 0 0 
+Health Related 0 1 5 4 2 1 5 6 2 5 
+Human Resource 5 33 10 27 23 23 31 15 6 10 
+Health Service Related 4 5 1 0 11 3 19 16 9 26 
+Health Education/Institute 
+Related 0 0 1 3 2 3 0 0 0 2 
+Infrastructure 2 11 9 33 28 37 39 11 4 16 
+Issue of Birth/Death certificates 1 1 1 1 1 1 0 0 0 0 
+License Related 1 2 0 1 3 3 4 0 0 0 
+Medical Examination Report 0 0 0 2 0 0 0 0 0 0 
+Maternity homes / Primary Health 
+Centre(PHC) 3 8 1 6 6 11 15 6 5 2 
+BMC related 0 2 2 5 6 1 3 1 0 0 
+Mortality rate 0 1 0 0 0 0 0 0 0 3 
+Naming/ Renaming 
+Hospital/Health 
+Centre/Cemeteries  
+7 9 5 5 6 7 21 18 10 22 
+Nuisance due to Pest Rodents, 
+stray dogs, monkeys etc. 1 0 1 0 0 1 2 0 1 0 
+Negligence of officers 0 0 0 0 0 0 0 0 0 0 
+Private health services 0 1 0 3 1 1 1 0 1 1 
+Quacks 0 1 0 1 1 0 0 0 0 0 
+Reforms in health policies 0 0 0 0 0 0 0 0 0 0 
+Schemes / Policies in Health 9 39 32 33 12 5 11 5 2 6 
+Vaccination 1 2 3 0 0 0 0 1 0 0 
+Treatment/Medicines 4 6 3 13 8 15 10 9 2 9 
+(Note: One question/issue may be related to multiple sub-issues in health and is counted issue wise, hence total questions raised does 
+not equal issue wise total) 
+ 
+Inference: 
+ Out of the total issues in Public Health Committee from 2012 to 2021, 2% was on BMC 
+dispensaries/hospitals, and only 5% were raised on Maternity homes / Primary Health Centre(PHC). 
+ Only 3% of questions were related to diseases like malaria, diabetes, hypertension, TB from 2012 to 
+2021, which have led to some of the highest deaths in the city. 
+
+=== PAGE 23 ===
+ 
+State of Health in Mumbai                                                                                                                                                23 
+ 
+Table 15: Health issues raised by Municipal Councillors in All Committees from 2012 to 2021 
+Issues 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 
+Total Questions Asked 157 331 374 468 362 392 460 363 152 318 
+Budget 0 1 0 1 0 2 0 1 1 1 
+Bio Medical Waste 0 0 0 2 9 5 2 1 0 0 
+Cemeteries / Crematorium related 20 14 22 11 8 9 24 13 6 6 
+Compensation/Rehabilitation 0 0 0 2 1 0 0 1 0 1 
+Epidemic/Sensitive Diseases 17 42 68 89 74 60 55 56 23 35 
+Malaria/Dengue 23 37 46 48 33 25 14 20 4 15 
+Tuberculosis 1 6 14 5 5 5 24 16 5 0 
+Diarrhoea/Typhoid/Cholera 3 2 3 4 2 4 1 5 0 0 
+Diabetic/Hypertension 0 5 0 6 1 5 3 1 2 4 
+Dispensary/Municipal Hospital/State 
+Hospital 0 0 0 1 5 10 10 28 0 2 
+Equipment 7 12 17 12 15 14 5 6 4 4 
+Eradication programme 0 2 1 1 4 2 0 0 0 2 
+Fogging 8 13 29 17 11 17 16 28 4 17 
+Health Related 7 7 34 43 27 69 47 40 29 56 
+Human Resource 14 59 32 53 40 30 60 28 15 27 
+Health Service Related 11 6 7 13 22 12 38 38 13 42 
+Health Education/Institute Related 0 3 2 6 8 4 1 0 1 3 
+Infrastructure 7 23 23 66 48 51 64 26 14 27 
+Issue of Birth/Death certificates 3 4 7 4 4 1 3 2 3 0 
+License Related 1 4 6 14 6 14 9 13 3 3 
+Medical Examination Report 0 0 0 3 0 0 0 0 0 0 
+Maternity homes / Primary Health 
+Centre(PHC) 6 26 8 13 16 28 34 12 8 12 
+BMC related 0 5 4 7 6 1 3 3 0 0 
+Mortality rate 1 1 1 0 0 3 0 0 0 3 
+Naming/ Renaming Hospital/Health 
+Centre/Cemeteries  8 17 18 14 9 7 31 22 11 34 
+Nuisance due to Pest Rodents, stray 
+dogs, monkeys etc. 1 0 4 1 0 3 8 2 1 0 
+Negligence of officers 0 0 0 2 1 0 0 0 0 0 
+Private health services 2 4 3 4 4 1 1 1 3 4 
+Quacks 0 1 0 1 1 0 0 0 0 0 
+Reforms in health policies 0 0 0 0 0 1 3 0 0 0 
+Schemes / Policies in Health 34 75 77 66 31 22 25 24 9 10 
+Vaccination 2 3 3 2 1 0 0 1 0 2 
+Treatment/Medicines 8 9 8 20 11 26 21 17 4 27 
+(Note: One question/issue may be related to multiple sub-issues in health and is counted issue wise, hence total questions 
+raised does not equal issue wise total) 
+ 
+Inference: 
+ Issues on Epidemic/Sensitive Diseases and infrastructure-related were raised in other committees than 
+the public health committee in 2021.  
+ For example, only 3 questions in the public health committee in 2021 were raised for Epidemic/Sensitive 
+Diseases while 35 questions were raised in other committees for the same.  
+ 
+
+=== PAGE 24 ===
+ 
+State of Health in Mumbai                                                                                                                                                24 
+ 
+Table 16: Health issues raised by MLAs from 2012 to 2021 
+Issues 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 
+Bio Medical Waste 4 0 0 0 0 0 0 0 0 0 
+Budget 0 0 0 1 0 1 0 0 0 0 
+Cemeteries/Crematorium related 1 4 2 13 13 4 9 1 0 0 
+Epidemic/Sensitive Diseases 35 48 9 70 61 27 67 50 12 0 
+Diabetic/Hypertension 0 9 0 2 0 1 1 0 1 0 
+Malaria/Dengue 2 17 6 9 6 9 14 2 1 0 
+Diarrhoea/Typhoid/Cholera 0 3 0 0 7 0 0 0 0 0 
+Tuberculosis 2 2 0 14 7 3 18 1 7 0 
+Compensation/Rehabilitation 0 0 0 0 1 0 0 1 0 0 
+Dispensary/Municipal Hospital/State 
+Hospital 9 0 0 6 1 1 0 15 0 0 
+Equipment 13 9 4 6 4 23 12 0 8 0 
+Fogging 0 3 0 0 0 1 2 0 0 0 
+Food Poison 0 0 0 0 3 0 2 0 0 0 
+Health Education/Institute 0 0 0 3 6 4 1 1 1 0 
+Health Insurance 0 0 0 0 0 0 2 0 0 0 
+Health Related Issues 48 42 15 27 45 28 58 18 9 0 
+Health Service Related 5 14 0 10 10 27 16 3 41 0 
+Human Resource 7 57 9 20 24 12 19 20 4 1 
+Infrastructure 25 42 22 45 14 35 67 4 15 6 
+License Related 0 1 7 2 5 4 16 0 0 0 
+Maternity homes / Primary Health 
+Centre(PHC) 0 2 0 5 0 1 2 0 2 0 
+Malnutrition 4 2 0 1 0 0 0 0 0 0 
+Medical Examination of Students 0 0 0 0 1 0 0 0 0 0 
+Mortality Rate 6 8 1 1 6 1 3 4 0 0 
+Pollution 0 0 0 0 1 1 0 0 0 0 
+Private Health Services 1 1 1 2 16 13 5 2 0 1 
+Quacks 0 1 0 0 0 0 3 2 10 0 
+Reforms in health policies 0 0 0 0 0 0 1 0 0 0 
+Schemes / Policies in Health 109 57 6 2 5 3 2 13 0 0 
+Scams/Corruption 35 18 0 7 1 0 0 2 2 3 
+Treatment/Medicines 6 5 8 15 11 6 22 5 10 1 
+Total (related to Mumbai) 308 314 84 236 228 192 309 141 114 12 
+Health Questions (State) 723 664 237 526 487 571 641 172 175 107 
+Total Questions Asked 1,031 978 321 762 715 763 950 313 289 119 
+ (Note: One question/issue may be related to multiple sub-issues in health and is counted issue wise, hence total 
+questions raised does not equal issue wise total) 
+Inference: 
+ From 2012 to 2021, a total of 379 questions were raised by MLAs on Epidemic/Sensitive Diseases, which was 
+only 6% of the overall 10-year deliberation, while only 1% (32) of questions were related to State Hospitals, 
+dispensaries, etc. 
+ Only 3% and 1% of MLA deliberations were on health policies and treatment medicines respectively from 
+2012 to 2021.  
+
+=== PAGE 25 ===
+ 
+State of Health in Mumbai                                                                                                                                                25 
+ 
+5. Recommendations 
+ 
+Data Management 
+ There is a need for a robust and open Health Management Information System (HMIS) that maintains 
+data on various diseases, patients registered and other health related services and indicators. 
+ Cause of Death data should be maintained on a real -time basis. Furthermore, data should also be 
+accessible to all tiers of the government.  
+ Duplication of data through various agencies within the BMC (such as TB cell,  EPID cell, ward wise 
+Medical Officer of Health, etc.) needs to be streamlined to ensure that uniform data for a particular 
+disease is made available across agencies. 
+ Additionally, all health data that is maintained, must be effectively utilised by various health policy & 
+planning agencies.  
+ 
+Improve Access to Healthcare Facilities in Mumbai 
+ While Aapli Chitksa is being implemented at the Municipal dispensaries, there i s a need to further 
+improve primary healthcare facilities in the city. 
+ The norms recommended by the NBC and UDPFI should be followed to ensure that there are adequate 
+number of dispensaries available for the public.  
+ To ensure dispensaries are accessible to the working population, they should be open before and after 
+office hours, from 8 am in the morning to 11 pm at night. 
+ There is a need to understand the actual requirement of healthcare services in all wards so that an 
+adequate number of medical personne l are available in all of BMCs Healthcare Departments. This will 
+further increase access to primary healthcare services in the city. 
+ 
+Budget Allocation and Spending:  
+ An outcome-based budget should be incorporated to ensure a targeted development in the ov erall 
+healthcare sector of the city.  
+ The budget must focus on allocating sufficient funds to improve the primary and preventive healthcare 
+services by increasing the number of dispensaries, the timings, as well as the available medical 
+personnel.  
+ The cap ital budget should also be utilised effectively to create efficient and adequate health 
+infrastructure in the city. 
+ 
+Deliberations 
+ Elected Representatives (ERs) must carry out citizen-centric deliberations in the public health committee 
+meetings that target the existing major issues related to health in the city. 
+ Deliberations should also include data-centric discussion on the diseases that lead to the highest deaths 
+in Mumbai, such as diabetes, malaria, tuberculosis, etc.  
+ ERs must advocate for better primary healthcare infrastructure and adequate number of medical 
+personnel while also ensuring that these services are accessible to the citizens for longer hours, to 
+increase access for the working populace. 
+
+=== PAGE 26 ===
+ 
+State of Health in Mumbai                                                                                                                                                26 
+ 
+Section B. Status of Registered Diseases/Ailments in Govt. Hospitals and 
+Dispensaries15 in Mumbai 
+ 
+A. Communicable Diseases16 
+ 
+1. Malaria 
+ 
+Table 17: Number of Malaria cases registered in government dispensaries and hospitals in Mumbai 
+from 2012 to 2021 
+ 
+Years 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 
+BMC dispensaries 7,239 4,224 4,131 3,453 2,997 3,223 3,222 2,576 3,681 3,609 
+BMC hospitals 12,591 12,092 10,082 9,526 6,802 6,529 6,670 4,770 3,091 4,072 
+State hospitals 1,306 1,095 861 1,179 1,309 927 1,347 1,112 940 1,579 
+Other government 
+dispensaries/hospitals 1,363 1,189 1,043 819 719 641 560 463 791 699 
+Total Cases 22,499 18,600 16,117 14,977 11,827 11,320 11,799 8,921 8,503 9,959 
+ 
+Inference: 
+ Total malaria cases have reduced by 56% from 22,499 in 2012 to 8,503 in 2021. 
+ The proportion of cases registered  in BMC dispensaries  increased from 32%  (7,239) in 2012 to 50% 
+(3,609) in 2021. 
+ However, proportion of malaria cases registered in BMC hospitals remained high; from 56% (12,591) in 
+2012 to 41% (4,072) in 2021.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                 
+15 B ward, M/W ward and T ward data was received via RTI from Epid cell and MIS cell, while other ward data was 
+received via individual RTIs. 
+16 Communicable diseases are infectious diseases transmissible (as from person to person) by direct contact with an 
+affected individual or the individual's discharges or by indirect means (as by a vector). 
+
+=== PAGE 27 ===
+ 
+State of Health in Mumbai                                                                                                                                                27 
+ 
+Table 18: Ward Wise Malaria Cases Registered in BMC dispensaries for the years 2012 to 2021 
+  2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 Total 
+Average 
+Cases*/ 
+1,00,000 
+Population 
+A 642 334 199 160 134 248 430 372 383 309 3,211 167.7 
+B 102 50 31 26 31 27 80 20 28 24 419 31.8 
+C 159 110 119 86 84 168 137 87 159 77 1,186 69.0 
+D 138 108 88 103 60 46 33 22 45 91 734 20.4 
+E 278 151 118 43 93 107 148 210 398 368 1,914 47.0 
+F/N 423 222 190 168 147 113 84 71 116 123 1,657 30.3 
+F/S 914 565 986 842 481 838 679 421 710 528 6,964 186.4 
+G/N 352 304 284 165 170 121 117 119 180 277 2,089 33.7 
+G/S 277 127 66 74 152 83 416 312 940 655 3,102 79.4 
+H/E 246 151 199 138 146 103 90 44 33 46 1,196 20.7 
+H/W 196 196 193 123 120 100 114 76 48 42 1,208 38.0 
+K/E 711 330 322 325 142 156 130 95 70 99 2,380 27.9 
+K/W 421 225 139 139 165 268 235 198 106 64 1,960 25.3 
+L 435 336 271 213 130 119 78 43 14 24 1,663 17.8 
+M/E 570 119 155 87 204 62 70 72 52 60 1,451 17.4 
+M/W 155 81 62 55 36 45 33 42 25 42 576 13.5 
+N 245 212 162 149 97 89 56 44 36 39 1,129 17.5 
+P/N 141 78 88 87 166 170 90 56 67 66 1,009 10.4 
+P/S 69 41 50 52 26 34 24 135 153 528 1,112 23.2 
+R/C 131 83 105 95 90 54 34 30 45 32 699 12.0 
+R/N 107 67 74 84 69 45 28 18 1 14 507 11.4 
+R/S 164 82 70 79 70 87 32 20 22 32 658 9.2 
+S 207 148 122 121 132 90 50 44 39 38 991 12.9 
+T 156 104 38 39 52 50 34 25 11 31 540 15.3 
+*Calculated as per capita ward population 
+Inferences: 
+ The ward wise malaria cases stated that F/N  (6,964), A (3,211) and G/S (3,102) wards have registered 
+some of the highest malaria cases in relation to the ward’s population. 
+ Furthermore, in wards P/S and G/S, malaria cases have increased by 636% and 136% from 2012 to 2021. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+=== PAGE 28 ===
+ 
+State of Health in Mumbai                                                                                                                                                28 
+ 
+ Table 19: Age-wise deaths due to Malaria in Mumbai for the years 2012 to 2021 
+Cause of Death Year 0-4 
+Years 
+5-19 
+Years 
+20-39 
+Years 
+40-59 
+Years 
+60 Years and 
+Above Not Stated Total 
+Malaria (B50-
+B54) 
+2012 1 25 97 74 74 0 271 
+2013 155 3 3 9 8 26 204 
+2014 17 13 36 28 18 0 112 
+2015 4 8 27 31 22 0 92 
+2016 3 11 33 42 36 0 125 
+2017 1 9 23 25 42 0 100 
+2018 5 3 16 16 29 0 69 
+2019 1 3 20 18 27 0 69 
+2020 0 4 21 38 58 0 121 
+ 
+Inferences: 
+ Total deaths due to malaria decreased by 55% from 271 in 2012 to 121 in 2020. 
+ The proportion of malaria deaths between the ages of 20 to 59 years was the highest at 49% in 2020.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2. Dengue 
+ 
+Table 20: Number of Dengue cases registered in government dispensaries and hospitals in Mumbai 
+from 2019 to 2021 
+Years 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 
+BMC dispensaries 6 96 651 1,371 941 732 1,085 2,544 332 1,200 
+BMC hospitals 4,013 5,941 7,847 11,592 13,039 11,276 15,926 17,361 1,465 4,908 
+State hospitals 278 707 1,515 1,788 2,541 1,674 1,471 1,141 454 1,019 
+Other government 
+dispensaries/hospitals 124 339 408 590 1,002 903 1,034 723 292 556 
+Total Cases 4,421 7,083 10,421 15,341 17,523 14,585 19,516 21,769 2,543 7,683 
+ 
+Inference: 
+ Total dengue cases increased by 74% from 4,421 in 2012 to 7,683 in 2021. 
+ The proportion of dengue cases registered in BMC dispensaries increased from 0.14% (6) in 2012 to 16% 
+(1,200) in 2021. 
+ However, proportion of dengue  cases registered in BMC hospitals remained high; from  91% (4,013) in 
+2012 to 64% (4,908) in 2021.  
+ 
+ 
+ 
+ 
+
+=== PAGE 29 ===
+ 
+State of Health in Mumbai                                                                                                                                                29 
+ 
+Table 21: Ward Wise Dengue Cases Registered in BMC dispensaries for the years 2012 to 2021 
+  2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 Total 
+Average 
+Cases*/ 
+1,00,000 
+Population 
+A  0 0  47 137 42 36 19 71 3 4 359 23.4 
+B 0  26 52 42 25 25 27 0   0 0  197 24.9 
+C  0 2 18 14 26 45 52 25 5 14 201 13.0 
+D  0 0  33 53 89 32 25 61 1  0 294 11.7 
+E  0 1 25 42 3 6 11 31 21 62 202 5.5 
+F/N 3 2 53 28 35 45 45 72 18 93 394 7.2 
+F/S 0   34 22 11 20 7 31 3 89 217 7.3 
+G/N 0 10 64 32 9 17 19 112 28 92 383 6.9 
+G/S 0 0 0 1 9 13 46 120 12 22 223 8.1 
+H/E 0  0 22 67 0  21 59 90 24 30 313 7.8 
+H/W 0 2 12 13 16 73 30 45 3 5 199 6.9 
+K/E 0 12 52 164 193 144 180 233 6 130 1,114 14.5 
+K/W 0 3 34 11 2 0 0 8 4 2 64 1.2 
+L 0 2 9 31 125 14 15 253 9 11 469 5.6 
+M/E 0  0 24 2 0  21 23 311 35 30 446 7.6 
+M/W 1 14 3 3 27  0 6 0 0 0 54 2.1 
+N 0 2 26 155 64 6 56 267 10 91 677 11.7 
+P/N 0  0 12 56 3 12 62 201 22 82 450 5.8 
+P/S 1 11 2 15 3 2  0 46 67 84 231 5.4 
+R/C 0 0 19 31 53 37 33 68 2 17 260 5.6 
+R/N 0 0 23 131 111 106 154 222 11 140 898 25.1 
+R/S 0 3 58 9 0 0 75 191 6 60 402 8.0 
+S 1 0  28 308 95 52 115 56 39 103 797 11.5 
+T 0  6 1 4 0  5 26 4  1 18 65 2.3 
+*Calculated as per capita ward population 
+ 
+Inferences: 
+ The ward wise dengue cases registered in BMC dispensaries stated that R/N (898), A (359) and B (197) 
+wards have registered some of the highest malaria cases in relation to the ward’s population. 
+ Furthermore, in wards R/N, K/E and S, dengue cases have increased by 14000%, 11500% and 10200% 
+from 2012 to 2021. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+=== PAGE 30 ===
+ 
+State of Health in Mumbai                                                                                                                                                30 
+ 
+Table 22: Age-wise deaths due to Dengue in Mumbai for the years 2012 to 2020 
+Cause of Death Year 0-4 Years 5-19 
+Years 
+20-39 
+Years 
+40-59 
+Years 
+60 Years 
+and Above 
+Not 
+Stated Total 
+Dengue (A97) 
+2012 7 12 31 17 15 0 82 
+2013 93 5 0 3 0 6 107 
+2014 20 12 38 16 17 1 104 
+2015 7 25 47 27 23 0 129 
+2016 0 1 2 4 0 0 7 
+2017 48 61 86 73 80 0 348 
+2018 13 50 74 43 59 0 239 
+2019 34 44 78 62 63 0 281 
+2020 5 12 17 9 14 0 57 
+ 
+Inference: 
+ Total deaths due to dengue decreased by 30% from 82 in 2012 to 57 in 2020. However, dengue cases 
+increased by 243% from 82 in 2012 to 281 in 2019. 
+ The proportion of dengue deaths between the ages of 5 to 39 years was quite high at 43% in 2019 an d 
+51% in 2020. 
+ 
+ 
+ 
+ 
+3. Tuberculosis 
+ 
+Table 23: Number of Tuberculosis cases registered in government dispensaries and hospitals in 
+Mumbai from 2012 to 2021 
+Years 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 
+BMC dispensaries 9,377 7,976 8,191 7,828 6,961 5,881 6,236 6,997 5,718 8,071 
+BMC hospitals 23,933 30,171 32,454 31,614 37,170 45,963 40,274 30,470 21,526 22,465 
+State hospitals 760 1,388 1,445 1,935 1,841 2,727 2,220 1,363 777 1,180 
+Other government 
+dispensaries/hospitals 265 534 495 448 450 574 504 113 115 158 
+Total Cases 34,335 40,069 42,585 41,825 46,422 55,145 49,234 38,943 28,136 31,874   
+Inferences: 
+ Total TB cases decreased by 7% from 34,335 in 2012 to 31,874 in 2021. 
+ The proportion of TB cases registered in BMC hospitals increased from 70 % (23,933) in 2012 to 7 0% 
+(22,465) in 2021. 
+ However, TB cases are also registered in BMC dispensaries. The proportion of TB cases decreased from 
+27% (9,377) in 2012 to 25% (8,071) in 2021. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+=== PAGE 31 ===
+ 
+State of Health in Mumbai                                                                                                                                                31 
+ 
+ 
+ 
+RNCTP programme adopted World Health Organisation’s (WHO)  guidelines and implemented DOTS strategy 
+as the efficient and cost -effective approach for controlling TB. DOTS since its inception is trying to shift the TB 
+cure from the patient to the healthcare system. This is done through st rategies of DOTS developed by WHO: 
+sustained political and financial commitment; diagnosis by quality ensured sputum -smear microscopy; 
+Standardised short-course anti-TB treatment (SCC) given under direct and supportive observation (DOT); helps 
+to ensure the right drugs are taken at the right time for the full duration of treatment; a regular, uninterrupted 
+supply of high-quality anti-TB drugs; standardised recording and reporting; helps to keep track of each patient 
+and to monitor overall programme performance. 
+ 
+Table 24: Implementation Status of RNTCP programme in Mumbai from 2018 to 2021 
+Years (year in which case registered) 2018 2019 2020 2021 
+No. of notified cases under Nikshay (Public and Private) diagnosis17 (from 
+Nikshay Portal) 56,894 60,477 43,298 59,124 
+No. of notified cases under Nikshay (Public and Private) resident 18 (from 
+TB cell through RTI) 46,788 49,628 38,305 40,776 
+Total Cases registered and provided DOTS treatment (a) (New and 
+Retreatment Cases) 
+(from TB cell through RTI) 
+24,293 22,703 16,683 22,099 
+MDR Cases registered under RNTCP 
+(from BMC website)19 4,593 4,212 2,589 5,208 
+XDR Cases registered under RNTCP 
+(from BMC website) 429 315 51 134 
+% of TB Drug Resistance (MDR and XDR) cases 21% 20% 16% 24% 
+Defaulters from DOTS Programme 
+(from TB cell through RTI) (b) 1,769 1,285 543 557 
+Defaulter cases in % (b*100/a) 7% 6% 3% 3% 
+Number of deaths under BMC’s TB Control 
+Unit(RNTCP) (from TB cell through RTI) 1,481 1,674 1,352 1,770 
+Number of deaths under BMC’s Registration of Births and Deaths. (from 
+BMC and state government through RTI) 4,940 4,899 3,720 NA 
+ 
+NA: Data was not available from the respective sources for that year. 
+ 
+Inference: 
+ From 2018 to 2021, the average of total notified resident cases under Nikshay portal (Public and Private) 
+from Mumbai TB cell was 43,874. However, from 2018 to 2021, on average only 49% (21,444) of 43,874 
+were registered under RNTCP for DOTS treatment.  
+                                                 
+17 Total notified cases on the Nikshay portal (public and private) are referred to as ‘diagnosed’ cases, which are total 
+diagnosed cases in the city’s facilities, available on the Nikshay portal for the years 2017 and 2019. 
+18 Whereas total notified cases under Nikshay (public and private) categorised as ‘resident ’ cases, got from the TB cell, 
+Mumbai are those cases followed up by the cell for treatment, for all patients who are resident in the city, available for the 
+year 2018 and 2019.  
+19MDR and XDR data from BMC website: 
+https://portal.mcgm.gov.in/irj/go/km/docs/documents/MCGM%20Department%20List/Public%20Health%20Department
+/Docs/Tuberculosis%20Department/Updated%20RNTCP%20Website%20Data.pdf  
+
+=== PAGE 32 ===
+ 
+State of Health in Mumbai                                                                                                                                                32 
+ 
+ Of the total cases registered, the percentage of drug-resistant TB cases (MDR and XDR) increased from 
+21% in 2018 to 24% in 2021, as a result of total cases rising.  The percentage of defaulter cases decreased 
+from 7% in 2018 to 3% in 2021. 
+Table 25: Ward Wise TB Cases Registered in BMC dispensaries for the years 2012 to 2021 
+  2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 Total 
+Average 
+Cases*/ 
+1,00,000 
+Population 
+A 343 440 366 340 201 280 268 179 113 158 2,688 140.4 
+B 120 113 117 104 249 73 106  - - - 882 95.7 
+C 131 106 141 146 86 77 96 154 70 139 1,146 66.7 
+D 246 239 245 221 188 186 177 161 111 166 1,940 54.0 
+E 793 586 589 425 412 280 200 156 135 193 3,769 92.6 
+F/N 814 243 304 418 171 154 191 276 168 285 3,024 55.2 
+F/S 138 148 359 280 180 196 200 392 287 356 2,536 67.9 
+G/N 536 500 412 385 485 427 521 529 448 726 4,969 80.2 
+G/S 189 186 194 389 231 242 258 314 209 503 2,715 69.5 
+H/E 576 475 522 544 638 625 558 714 663 829 6,144 106.6 
+H/W 604 376 246 224 216 187 187 155 100 164 2,459 77.3 
+K/E 1202 678 679 538 351 264 246 317 254 292 4,821 56.5 
+K/W 355 339 271 252 176 206 169 177 124 164 2,233 28.8 
+L 1088 991 1188 1338 1406 819 768 981 734 1013 10,326 110.6 
+M/E 156 221 113 93 146 156 212 216 196 220 1,729 20.7 
+M/W 128 208 146 206 129 113 199 -  - - 1,129 37.8 
+N 148 120 206 178 116 96 139 192 142 235 1,572 24.4 
+P/N 121 179 231 228 265 236 607 843 623 752 4,085 41.9 
+P/S 50 84 69 46 22 11 16 112 108 196 714 14.9 
+R/C 168 202 206 175 196 192 221 237 239 353 2,189 37.6 
+R/N 244 90 109 157 177 179 247 179 210 228 1,820 40.8 
+R/S 579 606 555 418 475 264 78 415 488 830 4,708 65.8 
+S 404 621 557 494 327 483 425 298 296 269 4,174 54.2 
+T 244 225 366 229 118 135 147  - - - 1,464 59.2 
+*Calculated as per capita ward population 
+ 
+Inferences: 
+ The ward wise TB cases registered in BMC dispensaries stated that A (2,688), L (10,326) and H/E 
+(6,144) wards have registered some of the highest TB cases in relation to the ward’s population. 
+ Furthermore, in wards P/N, G/S and F/S, TB cases have increased by 521%, 166% and 158% from 2012 
+to 2021. 
+ 
+ 
+ 
+
+=== PAGE 33 ===
+ 
+State of Health in Mumbai                                                                                                                                                33 
+ 
+Table 26: Age-wise deaths due to TB in Mumbai for the years 2012 to 2020 
+Cause of Death Year 0-4 
+Years 
+5-19 
+Years 
+20-39 
+Years 
+40-59 
+Years 
+60 Years and 
+Above 
+Not 
+Stated Total 
+Tuberculosis (A15-
+A16, A17, A18-A19) 
+2012 78 501 2,672 3,154 1,842 0 8,247 
+2013 4,753 128 613 741 485 652 7,372 
+2014 1,602 313 1,511 1,773 1,191 199 6,589 
+2015 50 338 1,710 2,166 1,429 0 5,693 
+2016 56 428 2,051 2,251 1,874 0 6,660 
+2017 57 380 1,673 1,881 1,458 0 5,449 
+2018 39 346 1,404 1,753 1,398 0 4,940 
+2019 37 340 1,436 1,737 1,349 0 4,899 
+2020 27 325 1,126 1,280 962 0 3,720 
+Inferences: 
+ Total deaths due to TB decreased by 55% from 8247 in 2012 to 3720 in 2020.  
+ The proportion of TB deaths between the ages of 20 to 59 years was quite high at 65% in 2019 and 
+2020.  
+ 
+ 
+ 
+ 
+ 
+4. HIV 
+Table 27: Number of HIV/AIDS cases registered in government dispensaries and hospitals in 
+Mumbai from 2012 to 2021 
+Years 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 
+BMC dispensaries 163 126 133 80 121 215 228 1,301 730 1,314 
+BMC hospitals 1,250 1,443 2,330 1,010 2,478 3,814 4,376 6,198 3,923 530 
+State hospitals 305 309 295 220 218 242 1,169 1,138 391 696 
+Other government 
+dispensaries/hospitals 75 83 140 152 84 201 132 128 86 156 
+Total Cases 1,793 1,961 2,898 1,462 2,901 4,472 5,905 8,765 5,130 2,696 
+ 
+Inferences: 
+ Total HIV cases Increased by 50% from 1,793 in 2012 to 2,696 in 2021. 
+ The proportion of HIV cases registered in BMC hospitals decrease d from 70% ( 1,250) in 2012 to  20% 
+(530) in 2021. 
+ While, HIV cases are also registered in BMC dispensaries. The proportion of HIV cases increased from 
+9% (163) in 2012 to 49% (1,314) in 2021. 
+ 
+ 
+ 
+ 
+ 
+
+=== PAGE 34 ===
+ 
+State of Health in Mumbai                                                                                                                                                34 
+ 
+Table 28: Ward Wise HIV Cases Registered in BMC dispensaries for the years 2012 to 2021 
+  2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 Total 
+Average 
+Cases*/ 
+1,00,000 
+Population 
+A 69 46 40 27 10 9 10 0 0 4 215 14.0 
+B 0 0 1 0 0 0 1 0 0   2 0.8 
+C 0 0 0 1 0 0 0 0 0 3 4 1.2 
+D 0 0 0 1  0 1 7 3 2 3 17 0.8 
+E 4 6 0 0 1 1 2 1 0  1 16 0.6 
+F/N 47 25 22 12 12 16 31 56 25 33 279 5.1 
+F/S 4 7  0 2 6 9 3 5 4 10 50 1.5 
+G/N 0 0 0 0 3 5 8 9 5 4 34 0.9 
+G/S 3 2 13 3 2 5 4 3 2 1 38 1.0 
+H/E 5 8 20 4 4 5 9 237 94 225 611 10.6 
+H/W 0 0 0 0 0 0 0 12 1 2 15 1.6 
+K/E 0 0 3 0 0 3 9 8 6 26 55 1.1 
+K/W 2 1  0 0 0 1 26 11 12 8 61 1.1 
+L 0 0 0 0 5 18 17 25 11 353 429 7.7 
+M/E 0 0 2 0 0 93 15 781 446 451 1,788 35.7 
+M/W 4 1 5 4 4 3 4 0 0 0 25 0.8 
+N 0 0 0 0 2 2 2 8 7 12 33 0.9 
+P/N 0 0 0 0 1 5 21 20 3 4 54 0.9 
+P/S 0 0 0 0 0 0 0 77 74 144 295 20.5 
+R/C 0 1 7 1 8 12 11 13 8 12 73 1.4 
+R/N 0 0 0 0 5 9 16 10 15 7 62 2.3 
+R/S 6 12 0  6 23 2 5 12 8 5 79 1.2 
+S 19 17 20 19 35 12 22 10 7 6 167 2.2 
+T 0 0 0 0 0 4 5 0 0 0 9 1.3 
+*Calculated as per capita ward population 
+ 
+Inferences: 
+ The ward wise HIV cases registered in BMC dispensaries stated that M/E (1788) and P/S (295) wards 
+have registered some of the highest HIV cases in relation to the ward’s population. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+=== PAGE 35 ===
+ 
+State of Health in Mumbai                                                                                                                                                35 
+ 
+Table 29: Age-wise deaths due to HIV in Mumbai for the years 2012 to 2020 
+Cause of Death Year 0-4 
+Years 
+5-19 
+Years 
+20-39 
+Years 
+40-59 
+Years 
+60 Years 
+and 
+Above 
+Not 
+Stated Total 
+Human 
+Immunodeficiency 
+Virus (HIV) (B20-
+B24) 
+2012 10 20 273 343 52 0 698 
+2013 319 5 51 89 14 31 509 
+2014 98 14 99 132 31 5 379 
+2015 1 10 103 207 25 0 346 
+2016 3 36 273 463 77 0 852 
+2017 6 26 269 513 67 0 881 
+2018 2 32 231 486 71 0 822 
+2019 1 29 195 373 87 0 685 
+2020 2 19 160 334 66 0 581 
+Inference: 
+ Total deaths due to HIV decreased by 17% from 698 in 2012 to 581 in 2020.  
+ The proportion of TB deaths between the ages of 20 to 59 years was quite high at 83% in 2019 and 
+85% in 2020. 
+ 
+ 
+ 
+ 
+ 
+ 
+5. Diarrhoea 
+ 
+Table 30: Number of Diarrhoea cases registered in government dispensaries and hospitals in 
+Mumbai from 2012 to 2021 
+Years 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 
+BMC dispensaries 79,798 80,049 89,237 105,502 93,416 85,524 87,217 85,862 61,377 54,606 
+BMC hospitals 15,465 30,524 26,608 9,573 7,798 6,747 8,318 5,743 1,838 2,244 
+State hospitals 717 1,489 1,158 1,325 1,691 1,985 2,064 1,644 800 1,066 
+Other government 
+dispensaries/hospitals 1,107 1,623 2,245 2,046 2,018 1,944 1,845 422 174 192 
+Total Cases 97,087 113,685 119,248 118,446 104,923 96,200 99,444 93,671 64,189 58,108 
+ 
+Inference: 
+ Total diarrhoea cases decreased by 40% from 97,087 in 2012 to 58,108 in 2021. 
+ The proportion of diarrhoea cases registered in BMC dispensaries increased from 82% (79,798) in 2012 
+to 94% (54,606) in 2021. 
+ Furthermore, diarrhoea cases are al so registered in BMC ho spitals, with t he proportion of diarrhoea 
+cases decreased from 16% (15,465) in 2012 to 4% (2,244) in 2021. 
+ 
+ 
+ 
+ 
+
+=== PAGE 36 ===
+ 
+State of Health in Mumbai                                                                                                                                                36 
+ 
+Table 31: Ward Wise Diarrhoea Cases Registered in BMC dispensaries for the years 2012 to 2021 
+  2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 Total 
+Avg. 
+2012 
+to 
+2021 
+Average 
+Cases*/ 
+1,00,000 
+Population 
+A 1,362 1,576 1,858 1,442 1,123 1,496 1,995 1,526 976 1,136 14,490 1,449 756.9 
+B 1,143 1,343 1,901 1,610 1,173 1,176 1,369 1,132 696 651 12,194 1,219 925.8 
+C 2,068 2,333 2,924 2,842 2,789 2,837 3,110 2,318 1,612 2,010 24,843 2,484 1,444.9 
+D 4,886 4,685 5,048 6,262 6,795 2,521 469 99 91 141 30,997 3,100 863.6 
+E 2,584 2,336 2,586 3,245 2,931 3,755 3,806 5,561 4,087 5,118 36,009 3,601 884.8 
+F/N 1,743 1,606 1,596 1,704 2,186 2,889 2,894 2,012 1,240 1,874 19,744 1,974 360.7 
+F/S 4,423 3,941 3,682 4,016 4,967 4,337 4,088 3,391 2,323 1,717 36,885 3,689 987.5 
+G/N 3,624 2,768 2,837 3,258 5,452 6,715 5,680 5,856 3,843 3,250 43,283 4,328 698.3 
+G/S 4,089 4,330 4,792 5,215 5,567 5,540 7,842 8,529 6,370 5,017 57,291 5,729 1,465.7 
+H/E 3,740 5,665 6,938 7,433 6,371 6,462 5,039 2,797 1,613 1,572 47,630 4,763 826.0 
+H/W 1,808 1,987 1,963 2,303 1,741 1,422 1,481 934 787 880 15,306 1,531 480.9 
+K/E 6,830 5,588 9,928 8,734 5,617 5,289 5,703 3,951 2,988 2,700 57,328 5,733 672.4 
+K/W 2,839 3,822 3,048 2,504 1,876 2,312 2,216 2,492 2,431 2,365 25,905 2,591 334.4 
+L 11,755 9,894 9,832 12,046 12,009 12,026 11,505 10,915 7,530 6,125 103,637 10,364 1,110.1 
+M/E 2,719 3,064 4,462 11,562 6,396 4,561 5,758 5,806 4,466 3,967 52,761 5,276 631.2 
+M/W 2,812 2,291 1,931 1,961 1,792 1,253 1,594 1,203 970 571 16,378 1,638 384.3 
+N 5,756 6,592 8,211 9,891 8,383 4,567 4,901 7,374 5,293 4,444 65,412 6,541 1,014.9 
+P/N 3,001 3,279 3,016 3,303 3,393 1,946 3,225 4,305 4,135 3,888 33,491 3,349 343.8 
+P/S 920 1,052 1,046 688 676 688 688 1,160 897 799 8,614 861 179.6 
+R/C 2,446 3,114 3,849 3,959 2,591 3,512 3,926 4,093 2,892 2,340 32,722 3,272 562.5 
+R/N 548 812 746 2,078 1,868 2,164 1,826 1,253 777 548 12,620 1,262 282.7 
+R/S 1,855 1,366 1,244 1,458 1,389 1,001 15 2,189 948 963 12,428 1,243 173.8 
+S 3,954 3,626 3,750 5,091 4,192 5,543 6,328 5,638 3,434 1,685 43,241 4,324 561.8 
+T 2,893 2,979 2,049 2,897 2,139 1,512 1,759 1,328 978 845 19,379 1,938 548.4 
+*Calculated as per capita ward population 
+ 
+Inferences: 
+ The ward wise diarrhoea cases registered in BMC dispensaries stated that L (103,637), G/S (57,291) & 
+C (24,843) wards have registered some of the highest diarrhoea cases in relation to the ward’s 
+population. 
+ Furthermore, in wards E, P/N and G/S, diarrhoea cases have increased by 98%, 30% and 23% from 
+2012 to 2021. 
+ 
+ 
+ 
+ 
+
+=== PAGE 37 ===
+ 
+State of Health in Mumbai                                                                                                                                                37 
+ 
+Table 32: Age-wise deaths due to Diarrhoea in Mumbai for the years 2012 to 2020 
+Cause of Death Year 0-4 
+Years 
+5-19 
+Years 
+20-39 
+Years 
+40-59 
+Years 
+60 Years and 
+Above 
+Not 
+Stated Total 
+Diarrhoea (A09) 
+2012 97 13 22 33 81 0 246 
+2013 177 19 9 9 28 23 265 
+2014 114 10 25 40 69 4 262 
+2015 52 5 18 33 61 0 169 
+2016 77 14 28 59 162 0 340 
+2017 54 8 18 34 111 0 225 
+2018 62 10 19 43 117 0 251 
+2019 48 5 15 26 109 0 203 
+2020 39 9 11 43 126 0 228 
+ 
+Inference: 
+ Total deaths due to diarrhoea decreased only by 7% from 246 in 2012 to 228 in 2020.  
+ The proportion of diarrhoea deaths in children from 0 to 4 years was 24% in 2019 and 17% in 2020. 
+The deaths above 60 years was highest at 54% in 2019 and 55% in 2020. 
+ 
+ 
+ 
+6. Cholera 
+ 
+Table 33: Number of Cholera cases registered in government dispensaries and hospitals in Mumbai 
+from 2019 to 2021 
+Years 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 
+BMC dispensaries 0 16 0 0 82 19 2 3 8 3 
+BMC hospitals 48 204 27 188 22 7 15 6 0 6 
+State hospitals 13 5 11 4 8 1 1 0 0 0 
+Other government 
+dispensaries/hospitals 0 0 0 6 0 0 1 2 0 0 
+Total Cases 61 225 38 198 112 27 19 11 8 9 
+ 
+ 
+ 
+Table 34: Age-wise deaths due to Cholera in Mumbai for the years 2012 to 2020 
+Cause of Death Year 0-4 
+Years 
+5-19 
+Years 
+20-39 
+Years 
+40-59 
+Years 
+60 Years and 
+Above 
+Not 
+Stated Total 
+ 
+Cholera (A00) 
+2012 0 0 4 7 4 0 15 
+2013 7 0 0 1 0 0 8 
+2014 0 0 0 1 0 0 1 
+2015 0 1 1 2 1 0 5 
+2016 0 0 0 1 0 0 1 
+2017 0 0 0 0 0 0 0 
+2018 0 0 0 0 0 0 0 
+2019 0 1 0 0 0 0 1 
+2020 0 0 0 0 0 0 0 
+ 
+
+=== PAGE 38 ===
+ 
+State of Health in Mumbai                                                                                                                                                38 
+ 
+Inference: 
+ Total cholera cases decreased by 85% from 61 in 2012 to 9 in 2021. 
+ The proportion of cholera cases registered in BMC dispensaries increased from 0% in 2012 to 33% (3) in 
+2021. 
+ Furthermore, cholera cases are also registered in BMC ho spitals, with the proportion of cholera cases 
+decreased from 79% (48) in 2012 to 67% (6) in 2021. 
+ Total deaths due to cholera decreased only by 100% from 15 in 2012 to 0 in 2020.  
+ 
+ 
+ 
+ 
+ 
+7. Typhoid 
+ 
+Table 35: Number of Typhoid cases registered in government dispensaries and hospitals in Mumbai 
+from 2012 to 2021 
+Years 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 
+BMC dispensaries 398 435 478 513 495 301 414 1,132 1,727 2,328 
+BMC hospitals 4,137 6,201 3,718 4,114 3,033 2,500 2,748 3,694 1,490 1,264 
+State hospitals 216 244 183 273 634 820 861 1,632 435 889 
+Other government 
+dispensaries/hospitals 215 565 406 309 478 866 1,183 421 253 265 
+Total Cases 4,966 7,445 4,785 5,209 4,640 4,487 5,206 6,879 3,905 4,746 
+ 
+Inference: 
+ Total typhoid cases decreased by 4% from 4,966 in 2012 to 4,746 in 2021. 
+ The proportion of typhoid cases registered in BMC dispensaries increased from 8% (398) in 2012 to 49% 
+(2,328) in 2021. 
+ Furthermore, typhoid cases are also registered in BMC ho spitals, with the proportion of typhoid cases 
+decreased from 83% (4,137) in 2012 to 27% (1,264) in 2021. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+=== PAGE 39 ===
+ 
+State of Health in Mumbai                                                                                                                                                39 
+ 
+Table 36: Ward Wise Typhoid Cases Registered in BMC dispensaries for the years 2012 to 2021 
+  2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 Total 
+Average 
+Cases*/ 
+1,00,000 
+Population 
+A 0 0 3 1 3 0 1 67 18 28 121 9.0 
+B 21 23 7 0 0 0 0 0 5 5 61 9.3 
+C 5 1 8 4 1 7 3 15 93 184 321 18.7 
+D 0 0 1 0 0 0 0 0 0 0 1 0.3 
+E 32 32 16 27 5 3 6 60 222 434 837 20.6 
+F/N 97 109 95 77 39 1 1 8 12 75 514 9.4 
+F/S 0 0 0 0 0 0 0 45 43 137 225 20.1 
+G/N 0 0 0 1 22 52 99 152 311 323 960 22.1 
+G/S 0 0 0 0 0 0 0 19 33 76 128 10.9 
+H/E 98 99 113 120 95 78 57 213 113 102 1,088 18.9 
+H/W 1 4 0  3 1 0 0 4 2 0  15 0.8 
+K/E 0 0 0 0 0 0 0 56 175 133 364 14.2 
+K/W 12 21 33 24 21 2 7 103 99 73 395 5.1 
+L 0 3 18 34 30 52 103 44 2 27 313 3.7 
+M/E 0 4 5 23 4 1 9 8 10 18 82 1.1 
+M/W 25 39 67 86 204 59 93 0  36 92 701 18.3 
+N 24 3 9 8 3 4 0 10 10 3 74 1.3 
+P/N 16 12 6 0  1 1 0 17 47 41 141 1.8 
+P/S 35 26 22 19 11 8 3 120 156 146 546 11.4 
+R/C 11 22 17 27 32 17 28 47 234 234 669 11.5 
+R/N 0  25 43 38 22 14 2 1 41 63 249 6.2 
+R/S 1 5 0 0 0 2 2 143 51 32 236 4.7 
+S 20 4 14 19 1 0 0 0 0 6 64 1.4 
+T 0  3 1 2 0 0 0 0 14 96 116 6.6 
+*Calculated as per capita ward population 
+ 
+Inference: 
+ The ward wise typhoid cases registered in BMC dispensaries stated that G/N (960), E (837) and F/S 
+(225 wards have registered some of the highest typhoid cases in relation to the ward’s population. 
+ Furthermore, in wards C, R/S and R/C, typhoid cases have increased by 3580%, 3100% and 2027% 
+from 2012 to 2021. 
+ 
+ 
+ 
+ 
+ 
+ 
+
+=== PAGE 40 ===
+ 
+State of Health in Mumbai                                                                                                                                                40 
+ 
+Table 37: Age-wise deaths due to Typhoid in Mumbai for the years 2012 to 2020 
+Cause of Death Year 0-4 
+Years 
+5-19 
+Years 
+20-39 
+Years 
+40-59 
+Years 
+60 Years 
+and 
+Above 
+Not 
+Stated Total 
+Typhoid Fever (A01) 
+2012 1 0 3 2 2 0 8 
+2013 8 0 0 0 3 0 11 
+2014 2 0 1 0 0 0 3 
+2015 2 0 3 2 1 0 8 
+2016 0 1 3 2 2 0 8 
+2017 1 3 2 1 1 0 8 
+2018 0 3 1 0 2 0 6 
+2019 0 1 3 1 6 0 11 
+2020 1 1 9 15 16 0 42 
+ 
+Inference: 
+ Total deaths due to typhoid increased by 425% from 8 in 2012 to 42 in 2020.  
+ The proportion of typhoid deaths in adults from 40 to 60 years and above was 74% in 2020. The 
+deaths due to typhoid increased greatly from 2019 to 2020 (11 deaths to 42 deaths). 
+ 
+  
+
+=== PAGE 41 ===
+ 
+State of Health in Mumbai                                                                                                                                                41 
+ 
+B. Non-Communicable Diseases20 
+Table 38: Number of Diabetes cases registered in government dispensaries and hospitals in 
+Mumbai from 2012 to 2021 
+Years 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 
+BMC dispensaries 11,036 15,697 15,492 16,001 17,635 14,652 14,132 19,803 17,848 22,681 
+BMC hospitals 11,303 15,010 25,454 10,885 4,412 4,494 5,260 8,390 5,934 5,862 
+State hospitals 697 782 1,063 846 907 2,918 3,654 3,301 1,852 3,042 
+Other government 
+dispensaries/hospitals 3,652 5,333 3,648 7,366 9,912 9,241 8,434 3,781 3,224 5,031 
+Total Cases 26,688 36,822 45,657 35,098 32,866 31,305 31,480 35,275 28,858 36,616 
+ 
+Inferences: 
+ Total diabetes cases increased by 37% from 26,688 in 2012 to 36,616 in 2021. 
+ The proportion of diabetes cases registered in BMC dispensaries increased from 41% (11,036) in 2012 
+to 62% (22,681) in 2021. 
+ Furthermore, diabetes cases are also registered in BMC hospitals, while the proportion of diabetes cases 
+decreased from 42% (11,303) in 2012 to 16% (5,862) in 2021. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                 
+20 Non-communicable diseases, are those which cannot be transmitted from one person to another, these  tend to be 
+of long duration and are the result of a combination of genetic, physiological, environmental and behavioural factors. 
+
+=== PAGE 42 ===
+ 
+State of Health in Mumbai                                                                                                                                                42 
+ 
+Table 39: Ward Wise Diabetes Cases Registered in BMC dispensaries for the years 2012 to 2021 
+  2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 Total 
+Avg. 
+2012 
+to 
+2021 
+Average 
+Cases*/ 
+1,00,000 
+Population 
+A 156 136 120 143 104 115 169 1,692 2,489 2,504 7,628 763 398 
+B 921 518 374 711 750 832 544 514 443 360 5,967 597 453 
+C 66 123 117 116 367 426 863 1,076 819 3,169 7,142 714 415 
+D 194 130 65 55 164 156 96 161 127 158 1,306 131 36 
+E 542 379 555 726 735 907 765 254 262 315 5,440 544 134 
+F/N 223 221 560 387 421 515 446 1,350 602 1,106 5,831 583 107 
+F/S 249 77 61 110 303 220 166 159 216 400 1,961 196 52 
+G/N 676 1,189 1,695 2,638 1,417 852 582 699 500 904 11,152 1,115 180 
+G/S 320 48 24 59 313 190 303 981 824 1,155 4,217 422 108 
+H/E 121 302 286 481 1,017 1,014 1,211 376 215 444 5,467 547 95 
+H/W 168 255 104 194 157 176 179 121 227 283 1,864 186 59 
+K/E 1,297 1,538 657 531 777 494 560 2,450 1,914 2,161 12,379 1,238 145 
+K/W 797 2,130 1,012 570 1,391 1,436 776 728 645 926 10,411 1,041 134 
+L 882 1,020 1,036 1,190 1,261 1,219 1,607 1,929 1,690 1,880 13,714 1,371 147 
+M/E 591 412 419 1,487 1,979 1,259 1,243 1,421 1,645 1,192 11,648 1,165 139 
+M/W 320 312 150 217 253 220 265 205 201 220 2,363 236 55 
+N 234 584 418 471 2,014 702 385 1,777 2,008 2,134 10,727 1,073 166 
+P/N 179 183 105 506 472 567 730 997 1,032 974 5,745 575 59 
+P/S 312 278 118 158 125 80 81 84 138 222 1,596 160 33 
+R/C 389 380 187 393 1,160 1,089 1,179 599 320 313 6,009 601 103 
+R/N 175 110 134 1,093 400 380 337 331 348 273 3,581 358 80 
+R/S 1,409 4,230 6,764 2,154 732 878 963 1,037 532 687 19,386 1,939 271 
+S 611 850 287 1,475 1,192 792 590 653 525 657 7,632 763 99 
+T 204 292 244 136 131 133 92 209 126 244 1,811 181 51 
+*Calculated as per capita ward population 
+ 
+Inference: 
+ The ward wise diabetes cases registered in BMC dispensaries stated that B (5,967), C (7,142) and A 
+(7,628) wards have registered some of the highest diabetes cases in relation to the ward’s population. 
+ Furthermore, in wards C, A and N, diabetes cases have increased by 4702%, 1505% and 812% from 
+2012 to 2021. 
+ 
+ 
+ 
+ 
+ 
+
+=== PAGE 43 ===
+ 
+State of Health in Mumbai                                                                                                                                                43 
+ 
+Table 40: Age-wise deaths due to Diabetes in Mumbai for the years 2012 to 2020 
+Cause of Death Year 0-4 
+Years 
+5-19 
+Years 
+20-39 
+Years 
+40-59 
+Years 
+60 Years 
+and 
+Above 
+Not 
+Stated Total 
+Diabetes Mellitus (E10-
+E14) 
+2012 3 6 44 591 1,908 1 2,553 
+2013 1,612 6 12 154 530 146 2,460 
+2014 556 7 24 383 1,393 65 2,428 
+2015 2 4 59 594 1,885 0 2,544 
+2016 3 6 96 1,772 7,211 0 9,088 
+2017 5 11 112 1,884 7,513 0 9,525 
+2018 8 7 122 2,109 8,212 0 10,458 
+2019 3 11 121 2,325 9,029 2 11,491 
+2020 5 19 193 3,555 12,249 0 16,021 
+ 
+ 
+Inference: 
+ Total deaths due to diabetes increased by 528% from 2,553 in 2012 to 16,021 in 2020.  
+ The proportion of diabetes deaths in adults from 40 to 60 years and above was 97% in 2020. The 
+deaths due to diabetes increased greatly by 257% from 2015 to 2016 (2,544 deaths to 9,088 deaths). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Table 41: Number of Hypertension cases registered in government dispensaries and hospitals in 
+Mumbai from 2012 to 2021 
+Years 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 
+BMC dispensaries 15,338 14,449 13,914 16,903 19,921 15,546 15,052 18,619 14,969 17,689 
+BMC hospitals 7,501 10,015 16,462 8,114 4,534 5,152 5,919 9,480 7,435 6,727 
+State hospitals 890 922 889 949 1,087 3,055 3,734 3,499 2,051 3,432 
+Other government 
+dispensaries/hospitals 4,866 8,376 5,096 10,307 12,376 10,920 9,265 1,743 2,023 2,163 
+Total Cases 28,595 33,762 36,361 36,273 37,918 34,673 33,970 33,341 26,478 30,011 
+ 
+Inference: 
+ Total hypertension cases increased by 5% from 28,595 in 2012 to 30,011 in 2021. 
+ The proportion of hypertension cases registered in BMC dispensaries increased from 54% (15,338) in 
+2012 to 59% (17,689) in 2021. 
+ Furthermore, hypertension cases are al so registered in BMC ho spitals, while t he proportion of 
+hypertension cases decreased from 26% (7,501) in 2012 to 22% (6,727) in 2021. 
+ 
+ 
+
+=== PAGE 44 ===
+ 
+State of Health in Mumbai                                                                                                                                                44 
+ 
+Table 42: Ward Wise Hypertension Cases Registered in BMC dispensaries for the years 2012 to 2021 
+  2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 Total 
+Avg. 
+2012 
+to 
+2021 
+Average 
+Cases*/ 
+1,00,000 
+Population 
+A 610 881 782 555 445 231 155 1,709 1,202 1,068 7,638 764 399 
+B 740 540 295 223 465 313 505 555 374 344 4,354 435 331 
+C 70 119 425 517 530 618 1,100 1,228 1,044 2,995 8,646 865 503 
+D 61 72 91 190 220 360 199 192 151 143 1,679 168 47 
+E 1,420 734 545 1,480 1,621 597 810 320 298 404 8,229 823 202 
+F/N 428 397 397 554 1,045 721 576 594 583 743 6,038 604 110 
+F/S 740 224 167 245 585 324 247 253 215 302 3,302 330 88 
+G/N 785 1,184 1,266 1,843 1,342 1,018 936 2,136 1,611 2,234 14,355 1,436 232 
+G/S 1,073 185 80 96 269 276 390 1,343 961 867 5,540 554 142 
+H/E 445 405 378 1,017 1,192 982 955 432 338 418 6,562 656 114 
+H/W 267 237 136 158 145 165 157 99 168 205 1,737 174 55 
+K/E 1,550 1,068 629 1,015 1,058 661 654 1,306 923 1,147 10,011 1,001 117 
+K/W 699 1,497 1,196 1,258 2,260 2,154 1,126 919 650 924 12,683 1,268 164 
+L 975 1,066 1,953 1,750 1,489 1,278 1,554 2,212 2,349 2,096 16,722 1,672 179 
+M/E 1,018 656 681 1,216 2,113 1,527 1,499 1,059 1,206 803 11,778 1,178 141 
+M/W 707 657 239 271 278 177 298 208 175 132 3,142 314 74 
+N 176 436 541 480 671 745 304 782 548 576 5,259 526 82 
+P/N 201 265 113 238 418 543 543 831 672 690 4,514 451 46 
+P/S 265 233 154 134 104 76 76 49 84 104 1,279 128 27 
+R/C 1,264 828 601 737 1,217 1,060 1,151 687 358 272 8,175 818 141 
+R/N 180 200 105 540 237 230 237 140 165 181 2,215 222 50 
+R/S 856 1,892 2,378 1,150 597 662 838 713 439 600 10,125 1,013 142 
+S 467 460 536 995 1,350 646 574 687 348 328 6,391 639 83 
+T 341 213 226 241 270 182 168 165 107 113 2,026 203 57 
+*Calculated as per capita ward population 
+Inference: 
+ The ward wise hypertension cases registered in BMC dispensaries stated that B (5,967), C (7,142) and 
+A (7,628) wards have registered some of the highest hypertension cases in relation to the ward’s 
+population. 
+ Furthermore, in wards C, P/N and N, hypertension cases have increased by 4179%, 243% and 227% 
+from 2012 to 2021. 
+ 
+ 
+ 
+ 
+
+=== PAGE 45 ===
+ 
+State of Health in Mumbai                                                                                                                                                45 
+ 
+Table 43: Age-wise deaths due to Hypertension in Mumbai for the years 2012 to 2020 
+Cause of Death Year 0-4 
+Years 
+5-19 
+Years 
+20-39 
+Years 
+40-59 
+Years 
+60 Years 
+and 
+Above 
+Not 
+Stated Total 
+Hypertension (I10-I15) 
+2012 19 5 89 694 3,256 0 4,063 
+2013 3,041 4 18 173 953 260 4,449 
+2014 1,276 14 81 597 2,942 120 5,030 
+2015 15 4 77 776 3,614 0 4,486 
+2016 2 9 124 540 2,882 0 3,557 
+2017 4 6 97 585 3,001 0 3,693 
+2018 1 4 106 554 3,066 0 3,731 
+2019 2 10 90 649 3,315 0 4,066 
+2020 4 5 146 1,098 4,712 0 5,965 
+ 
+Inference: 
+ Total deaths due to hypertension increased by 528% from 2,553 in 2012 to 16,021 in 2020.  
+ The proportion of hypertension deaths in adults from 40 to 60 years and above was 97% in 2020. The 
+deaths due to hypertension increased greatly by 257% from 2015 to 2016 (2,544 deaths to 9,088 
+deaths). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+=== PAGE 46 ===
+ 
+State of Health in Mumbai                                                                                                                                                46 
+ 
+C. Diseases Causing Infant and Children Deaths 
+Table 44: Total deaths from Age 0 to 19 in Mumbai from 2012 to 2019 
+Year Up to 1 year 1-4 years 5 - 9 years 10 -14 years 15 -19 years Total 0-19 years 
+2012 3,889 612 453 578 1,264 6,796 
+2013 24,097 36,444 601 360 535 62,037 
+2014 11,221 13,147 554 566 1,220 26,708 
+2015 4,105 753 496 580 1,338 7,272 
+2016 4,025 929 540 690 1,578 7,762 
+2017 3,838 969 510 658 1,614 7,589 
+2018 3,564 806 521 636 1,549 7,076 
+2019 3,262 799 464 694 1,403 6,622 
+2020 2,508 478 344 460 1,137 4,927 
+ 
+Inference: 
+ Total deaths in age 0 to 19 decreased from 6,796 in 2012 to 4,927 in 2020. 
+ The proportion of total deaths in infants up to 1 year was 49% in 2019 and 51% in 2020.  
+ 
+ 
+Table 45: Some Causes of deaths from Age 0 to 19 from 2012 to 2020 
+Causes of Death Year Up to 1 
+year 
+1-4 
+years 
+5 - 9 
+years 
+10 -14 
+years 
+15 -19 
+years 
+Total 0-
+19 years 
+Hypoxia, Birth Asphyxia and 
+Other Respiratory Conditions 
+(P20-P28) 
+2012 716 8 2 1 0 727 
+2013 561 34 15 3 0 613 
+2014 587 17 5 5 0 614 
+2015 517 0 0 0 0 517 
+2016 972 0 0 0 0 972 
+2017 1072 0 0 0 0 1072 
+2018 923 0 0 0 0 923 
+2019 964 0 0 0 0 964 
+2020 733 1 0 0 0 734 
+All Other Conditions Originating 
+in the Perinatal Period (P00-
+P04, P29-P54, P56-P57, P60-
+P96) 
+2012 215 7 5 2 2 231 
+2013 240 79 7 5 0 331 
+2014 172 17 3 2 0 194 
+2015 178 0 0 0 0 178 
+2016 641 0 0 0 0 641 
+2017 758 0 0 0 0 758 
+2018 698 0 0 0 0 698 
+2019 667 2 0 0 0 669 
+2020 623 0 0 0 0 623 
+2019 331 59 15 14 10 429 
+2020 260 29 4 14 8 315 
+
+=== PAGE 47 ===
+ 
+State of Health in Mumbai                                                                                                                                                47 
+ 
+Pneumonia (J12-J18) 
+2012 610 143 61 46 63 923 
+2013 895 1,132 108 42 37 2,214 
+2014 632 489 58 38 67 1,284 
+2015 528 140 57 39 61 825 
+2016 459 95 31 36 48 669 
+2017 199 94 38 24 33 388 
+2018 273 84 26 28 26 437 
+2019 151 75 26 19 33 304 
+2020 80 28 18 20 22 168 
+Dengue Fever (A90) 
+2012 6 1 3 3 6 19 
+2013 38 55 3 0 2 98 
+2014 10 10 5 4 3 32 
+2015 2 5 6 7 12 32 
+2016 0 0 0 0 1 1 
+2017 21 27 20 21 20 109 
+2018 2 11 18 15 17 63 
+2019 19 15 12 11 21 78 
+2020 2 3 5 4 3 17 
+Other protein-energy 
+malnutrition (E42-E46) 
+2012 0 1 1 0 0 2 
+2013 0 5 0 1 0 6 
+2014 6 1 0 1 0 8 
+2015 1 2 1 0 0 4 
+2016 18 16 4 1 0 39 
+2017 17 9 0 3 0 29 
+2018 11 14 3 1 2 31 
+2019 5 11 5 3 0 24 
+2020 5 10 3 0 1 19 
+Other Anaemias (D50-D55, D57-
+D64) 
+2012 32 17 2 13 14 78 
+2013 163 261 5 3 3 435 
+2014 66 113 7 11 8 205 
+2015 18 12 4 8 5 47 
+2016 35 21 11 12 21 100 
+2017 23 19 11 12 25 90 
+2018 19 15 12 11 23 80 
+2019 7 15 11 13 12 58 
+2020 15 5 12 15 15 62 
+ 
+Inferences: 
+• COD data shows an increase in protein-energy malnutrition in new-borns by 850% from 2 deaths in 2012 
+to 9 deaths in 2020. 
+• Furthermore, deaths conditions originating in the perinatal period increased by 170% from 231 in 2012 
+to 623 in 2020. 
+• Deaths due to Hypoxia, Birth Asphyxia and Other Respiratory Conditions in new-borns remained almost 
+same with a 1% increase from 727 in 2012 to 734in 2021. 
+ 
+
+=== PAGE 48 ===
+ 
+State of Health in Mumbai                                                                                                                                                48 
+ 
+D. Key Mortality Rates 
+Table 46: Births and Deaths Rate in Mumbai from 2017 to 2021  
+Indicators 2017 2018 2019 2020 2021 
+M.Y.E.P Population21 1,27,36,036 1,27,82,429 1,28,28,821 1,28,75,213 1,29,21,605 
+Live Births 1,55,386 1,51,187 1,48,898 1,20,188 1,13,778 
+Birth Rate  
+(Births per 1000 population) 12.20 11.83 11.61 9.33 8.81 
+Still Births 1,684 1,396 904 1,131 1,072 
+Total Deaths 89,037 88,852 91,223 1,11,942 1,08,113 
+Death Rate 
+(Deaths per 1000 population) 6.99 6.95 7.11 8.69 8.37 
+ 
+ 
+Table 47: Mother and Child Death Indicators in Mumbai from 2017 to 202122 
+Indicators 2017 2018 2019 2020 2021 
+Neo-Natal Deaths  
+(less than 28 days) 2,563 2,239 2,186 1,858 1,675 
+Neo-Natal Mortality Rate 
+(deaths per 1000 live births) 16.49 14.81 14.68 15.46 14.72 
+Infant Deaths 
+(Less than 1 year) 4,079 3,723 3,430 2,649 2.601 
+Infant Mortality Rate 
+(deaths per 1000 live births ) 26.25 24.63 23.04 22.04 22.86 
+Under 5 Mortality/Child Deaths 
+(less than 5 years) 5,020 4,529 4,221 3,123 3,280 
+Under 5 Morality rate  
+(deaths per 1000 live births) 32.31 29.96 28.35 25.98 28.82 
+Maternal Deaths 236 218 257 197 95 
+Maternal Mortality Rate 
+(per 1,00,000 live births) 152 144 173 164 83 
+ 
+Inference: 
+ In 2021, the numbers of still births reported decreased by 36% from 1,684 in 2017 to 1,072 in 2021. 
+ Similarly, Sustainable Development Goal’s (SDG) National MMR target for 2030 is 70 and Mumbai can 
+achieve this target soon as the MMR has decreased from 152 in 2017 to 83 in 2021. 
+ Similarly, the Under- 5 mortality rate (U5MR) National target under SDGs is 11 as adopted, however, the 
+U5MR increased from 26 in 2020 to 29 in 2021. 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                 
+21 MYEP Population – Mid Year Election List of Population 
+22 Neo-natal mortality rate, Infant Mortality Rate, and Under 5 Mortality Rates are calculated based on number of 
+deaths of a calendar year by number of live births in that year. 
+
+=== PAGE 49 ===
+ 
+State of Health in Mumbai                                                                                                                                                49 
+ 
+E. Recommendations 
+ 
+1. Data Management at Ward Level 
+Ward level data on occurrences of diseases, COD and facilities provided under various schemes should 
+be maintained wards wise. This will allow the BMC to decentralised health management and make 
+targeted interventions to handle health issues of the citizens at ward level.  
+ 
+2. Achieving the SDG Goals 
+As we move closer to 2030, stringent measures need to be taken to meet the SDG targets adopted by 
+the country. BMC needs to regularly monitor its performance on the SDG indicators to meet the targets 
+by 2030. Data driven decisions, effective framing and utilisation of the budget, appropriate allotment of 
+infrastructure and human resources need to be ensured to strengthen the primary and preventive 
+healthcare systems and meet the healthcare requirements of the city. 
+ 
+3. Strengthen and Equip Dispensaries and Maternity Homes 
+There is a need to improve dispensary facilities for preventive and primary care by including beds and 
+equipment to provide proper care to patients. The primary health care should be able to p rovide 
+integrated primary care with specialist services for disease s including mental health and nutrition 
+counselling and diagnostic services. Additionally, primary health care units (dispensaries) can act as local 
+level agencies to monitor health in the community/locality. 
+ 
+
+=== PAGE 50 ===
+ 
+State of Health in Mumbai                                                                                                                                                50 
+ 
+IV. Ward Wise Factsheet 
+ 
+The factsheet provides health data information on all 24 BMC wards from 2012 to 2021 which was 
+collected through RTIs.  
+ 
+The data includes; 
+• Occurrences of sensitive diseases collected from BMC dispensaries from the year 2012 to 2021.  
+• Ward-wise data of vacancies within BMC dispensaries personnel from 2015 to 2021. 
+• Data of Aapli Chikitsa scheme initiated in municipal dispensaries by BMC from the year 2017.  
+• Deliberations done by BMC councillors in all committees from 2012 to 2021. 
+ 
+The factsheet shows the trend of sensitive diseases occurred in each ward over the past 10 years. It 
+also analyses how the trend of ward-wise vacancies within BMC dispensaries personnel has changed 
+over the year. Moreover, the deliberations on specific diseases can be correlated with the trend in 
+cases to understand the need to carry out citizen-centric deliberations and precautionary measures 
+can be taken to improve the health system. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+=== PAGE 51 ===
+ 
+State of Health in Mumbai                                                                                                                                                51 
+ 
+1. A Ward 
+Population: 1,85,014 
+Area: Colaba 
+Average timing of the Dispensaries: 8.5 Hours 
+Summary: Total registered diseases in A ward increased by 71% from 3,182 in 2012 to 5,450 in 2021. In 2021, 
+the highest disease registered were Diabetes (2,504), Hypertension (1,136) and Diarrhoea (1,068). The 
+personnel vacancy in BMC dispensaries in A ward increased from 11% in 2015 to 29% in 2021. Under, the Aapli 
+Chikitsa scheme that was initiated in 2017, 5,310 diagnostic tests were conducted in A ward in 2021. From 2012 
+to 2021, councillor deliberations on health data showed no questions were raised on diabetes , hypertension 
+and Tb, which contribute to some of the maximum deaths in Mumbai city.  
+ 
+Year 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 
+Occurrence of Sensitive Diseases in BMC Dispensary 
+Malaria 642 334 199 160 134 248 430 372 383 309 
+Dengue - - 47 137 42 36 19 71 3 4 
+Tuberculosis 343 440 366 340 201 280 268 179 113 158 
+HIV 69 46 40 27 10 9 10 - - 4 
+Diarrhoea 1,362 1,576 1,858 1,442 1,123 1,496 1,995 1,526 976 1,136 
+Cholera - - - - - - - - - - 
+Typhoid - - 3 1 3 - 1 67 18 28 
+Diabetes 156 136 120 143 104 115 169 1,692 2,489 2,504 
+Hypertension 610 881 782 555 445 231 155 1,709 1,202 1,068 
+Other Disease - - 25 - 2 - - 6 122 239 
+Total Disease 3,182 3,413 3,440 2,805 2,064 2,415 3,047 5,622 5,306 5,450 
+Dispensary Personnel (Vacant %) 
+Medical - - - 14% 14% 0% 0% - 22%   15% 
+Para-Medical - - - 11% 11% 22% 22% -  56%  44% 
+Nursing - - - 0% 0% 0% 0% -  0%  0% 
+Administrator - - - 0% 0% 0% 0% -  100%  34% 
+Labour - - - 9% 9% 42% 50% -  42%  50% 
+Overall - - - 11% 11% 27% 29% -  44%  35% 
+Aapli Chikitsa_No. of Samples (From July 2019) 
+No. of Test Conducted - - - - - - - 1,958 708 5,310 
+Councilor Deliberation (All Committees) 
+Total Questions - 1 1 9 18 4 2 5 0 1 
+Diabetic/Hypertension - - - - - - - - - - 
+Diarrhoea/Typhoid/Cholera - - - - 2 - - - - - 
+Malaria/Dengue - - - 1 3 - - 1 - - 
+Tuberculosis - - - - - - - - - - 
+  
+
+=== PAGE 52 ===
+ 
+State of Health in Mumbai                                                                                                                                                52 
+ 
+2. B Ward 
+Population: 127,290,  
+Area: Sandhurst Road 
+Average timing of the Dispensaries: 8.4 hours 
+Summary: Total registered diseases in B ward increased by 13% from 3,050 in 2012  to 3,464 in 2021 . In 2021, 
+the highest disease registered were Diarrhoea (651), Diabetes (360), Hypertension (344) and . The personnel 
+vacancy in BMC dispensaries in B ward increased from 19% in 2015 to 28% in 2021. Under, the  Aapli Chikitsa 
+scheme that was initiated in 2017, 3,410 diagnostic tests were conducted in B ward in 2021. From 2012 to 2021, 
+councillor deliberations on health data showed no questions were raised on diabetes, hypertension and Tb, 
+which contribute to some of the maximum deaths in Mumbai city. 
+ 
+Year 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 
+Occurrence of Sensitive Diseases in BMC Dispensary 
+Malaria 102 50 31 26 31 27 80 20 28 24 
+Dengue 0 26 52 42 25 25 27 21 1 15 
+Tuberculosis 120 113 117 104 249 73 106 0 0 0 
+HIV 0 0 1 0 0 0 1 0 0 0 
+Diarrhoea 1,143 1,343 1,901 1,610 1,173 1,176 1,369 1,132 696 651 
+Cholera 0 0 0 0 0 0 0 0 0 0 
+Typhoid 21 23 7 0 0 0 0 0 5 5 
+Diabetes 921 518 374 711 750 832 544 514 443 360 
+Hypertension 740 540 295 223 465 313 505 555 374 344 
+Other Sensitive Diseases 3 2 4 1 4 0 0 6 2168 2065 
+Total Sensitive Diseases 3,050 2,615 2,782 2,717 2,697 2,446 2,632 2,248 3,715 3,464 
+Dispensary Personnel  (Vacant %) 
+Medical - - - 20% 20% 20% 20% - 20% 25% 
+Para-Medical - - - 33% 33% 40% 30% - 40% 33% 
+Nursing - - - 0% 0% 0% 0% - 0% 0% 
+Administrator - - - 0% 0% 0% 0% - 0% 0% 
+Labour - - - 8% 0% 7% 20% - 27% 27% 
+Overall - - - 19% 15% 20% 23% - 30% 28% 
+Aapli Chikitsa_No. of Samples (From July 2019) 
+No. of Test Conducted - - - - - - - 920 1,754 3,410 
+Councilor Deliberation (All Committees) 
+Total Questions - - 2 3 2 - - - - 2 
+Diabetic/Hypertension - - - - - - - - - - 
+Diarrhoea/Typhoid/Cholera - - - - - - - - - - 
+Malaria/Dengue - - - - - - - - - - 
+Tuberculosis - - - - - - - - - - 
+ 
+ 
+
+=== PAGE 53 ===
+ 
+State of Health in Mumbai                                                                                                                                                53 
+ 
+3. C Ward 
+Population: 166,161 
+Area: Marine Line 
+Average timing of the Dispensaries: 7 hours 
+Summary: Total registered diseases in C ward increased by 251% from in 2,499 in 2012 to 8,717 in 2021. In 2021, 
+the highest disease registered were Diabetes (3,169), Hypertension (2,995) and Diarrhoea (2,010). The 
+personnel vacancy in BMC dispensaries in C ward increased from 26% in 2015 to 41% in 2021. Under, the Aapli 
+Chikitsa scheme that was initiated in 2017, 4,639 diagnostic tests were conducted in C ward in 2021. From 2012 
+to 2021, councillor deliberations on health data showed no questions were raised on diab etes, hypertension, 
+which contribute to some of the maximum deaths in Mumbai city, while only 1 question for TB. 
+ 
+Year 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 
+Occurrence of Sensitive Diseases in BMC Dispensary 
+Malaria 159 110 119 86 84 168 137 87 159 77 
+Dengue 0 2 18 14 26 45 52 25 5 14 
+Tuberculosis 131 106 141 146 86 77 96 154 70 139 
+HIV 0 0 0 1 0 0 0 0 0 3 
+Diarrhoea 2,068 2,333 2,924 2,842 2,789 2,837 3,110 2,318 1,612 2,010 
+Cholera 0 0 0 0 0 0 0 0 0 0 
+Typhoid 5 1 8 4 1 7 3 15 93 184 
+Diabetes 66 123 117 116 367 426 863 1,076 819 3,169 
+Hypertension 70 119 425 517 530 618 1,100 1,228 1,044 2,995 
+Other Sensitive Diseases 0 0 6 4 3 1 0 3 213 182 
+Total Sensitive Diseases 2,499 2,794 3,758 3,730 3,886 4,179 5,361 4,906 4,015 8,773 
+Dispensary Personnel  (Vacant %) 
+Medical  -  -  - 14% 0% 0% 0% - 0% 29% 
+Para-Medical  -  -  - 38% 25% 25% 29% - 13% 63% 
+Nursing  -  -  - 0% 0% 0% 0% - 0% 0% 
+Administrator  -  -  - 0% 0% 0% 0% - 0% 34% 
+Labour  -  -  - 25% 20% 20% 30% - 10% 50% 
+Overall  -  -  - 26% 15% 15% 19% - 7% 41% 
+Aapli Chikitsa_No. of Samples (From July 2019) 
+No. of Test Conducted - - - - - - - 2,160 3,142 4,639 
+Councillor Deliberation (All Committees) 
+Total Questions  - 3 3  2 1 1 3 3 2 1 
+Diabetic/Hypertension  -  -  -  -  -  - 1   -  -  - 
+Diarrhoea/Typhoid/Cholera  -  -  -  -  -  -  -  -  -  - 
+Malaria/Dengue  -  -  -  -  -  -  - 1 1  -  
+Tuberculosis  -  -  -  -  -  -  -  1  -  - 
+ 
+ 
+
+=== PAGE 54 ===
+ 
+State of Health in Mumbai                                                                                                                                                54 
+ 
+4. D Ward 
+Population: 346,866 
+Area: Grant Road 
+Average timing of the Dispensaries: 8.2 hours 
+Summary: Summary: Total registered diseases in D ward decreased by 50% from in 5,525 in 2012 to 2,758 in 
+2021. Hypertension cases in D ward increased by 134% from 61 in 2012 to 143 in 2021. The personnel vacancy 
+in BMC dispensaries in D ward increased from  19% in 2015 to 38% in 2021. Under, the  Aapli Chikitsa scheme 
+that was initiated in 2017, 7,664 diagnostic tests were conducted in D ward in 2021. From 2012 to 2021, 
+councillor deliberations on health data showed only one question was raised on diabetes, hypertension, and no 
+question was raised on TB, which contribute to some of the maximum deaths in Mumbai city. 
+ 
+Year 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 
+Occurrence of Sensitive Diseases in BMC Dispensary 
+Malaria 138 108 88 103 60 46 33 22 45 91 
+Dengue 0 0 33 53 89 32 25 61 1 0 
+Tuberculosis 246 239 245 221 188 186 177 161 111 166 
+HIV 0 0 0 1 0 1 7 3 2 3 
+Diarrhoea 4,886 4,685 5,048 6,262 6,795 2,521 469 99 91 141 
+Cholera 0 0 0 0 0 0 0 0 0 0 
+Typhoid 0 0 1 0 0 0 0 0 0 0 
+Diabetes 194 130 65 55 164 156 96 161 127 158 
+Hypertension 61 72 91 190 220 360 199 192 151 143 
+Other Sensitive Diseases 0 0 1 0 0 0 0 7 227 2,056 
+Total Sensitive Diseases 5,525 5,234 5,572 6,885 7,516 3,302 1,006 706 755 2,758 
+Dispensary Personnel  (Vacant %) 
+Medical  - - - 22% 33% 25% 20% - 44% 50% 
+Para-Medical  - - - 27% 0% 30% 36% - 20% 36% 
+Nursing  - - - 0% 0% 0% 0% - 0% 0% 
+Administrator  - - - 0% 0% 0% 0% - 0% 0% 
+Labour  - - - 13% 45% 21% 31% - 17% 39% 
+Overall  - - - 19% 32% 25% 30% - 28% 38% 
+Aapli Chikitsa_No. of Samples (From July 2019) 
+No. of Test Conducted - - - - - - - 2,217 5,446 7,644 
+Councilor Deliberation (All Committees) 
+Total Questions  2 7 9 9 4 5 1 10 2 1 
+Diabetic/Hypertension  - - -  - -  1  - - -  - 
+Diarrhoea/Typhoid/Cholera  - - -  - - -  - - -  - 
+Malaria/Dengue  1 1 5 2 2  - - - -  - 
+Tuberculosis  - - -  - - -  - - -  - 
+ 
+ 
+
+=== PAGE 55 ===
+ 
+State of Health in Mumbai                                                                                                                                                55 
+ 
+5. E Ward 
+Population: 393,286 
+Area: Byculla 
+Average timing of the Dispensaries: 7 hours 
+Summary: Total registered diseases in E ward increased by 34% from in 5,687 in 2012 to 7,637 in 2021. Diarrhoea 
+cases in E ward increased by 98% from 2,584 in 2012 to 5,118 in 2021. The personnel vacancy in BMC 
+dispensaries in E ward increased from 4% in 2015 to 37 % in 2021. Under, the  Aapli Chikitsa scheme that was 
+initiated in 2017, 13,323 diagnostic tests were conducted in E ward in 2021. From 2012 to 2021, councillor 
+deliberations on health data showed 3 questions were raised on diabetes, hypertension, and 2 que stion was 
+raised on TB, which contribute to some of the maximum deaths in Mumbai city. 
+ 
+Year 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 
+Occurrence of Sensitive Diseases in BMC Dispensary 
+Malaria 278 151 118 43 93 107 148 210 398 368 
+Dengue 0 1 25 42 3 6 11 31 21 62 
+Tuberculosis 793 586 589 425 412 280 200 156 135 193 
+HIV 4 6 0 0 1 1 2 1 0 1 
+Diarrhoea 2,584 2,336 2,586 3,245 2,931 3,755 3,806 5,561 4,087 5,118 
+Cholera 0 2 0 0 79 19 2 0 0 3 
+Typhoid 32 32 16 27 5 3 6 60 222 434 
+Diabetes 542 379 555 726 735 907 765 254 262 315 
+Hypertension 1,420 734 545 1,480 1,621 597 810 320 298 404 
+Other Sensitive Diseases 34 61 11 14 1 0 0 5 125 739 
+Total Sensitive Diseases 5,687 4,288 4,445 6,002 5,881 5,675 5,750 6,598 5,548 7,637 
+Dispensary Personnel  (Vacant %) 
+Medical -  - - 0% 0% 27% 0% - 60% 20% 
+Para-Medical -  - - 6% 27% 27% 30% - 36% 35% 
+Nursing -  - - 0% 0% 0% 100% - 100% 100% 
+Administrator -  - - 0% 0% 0% 100% - 50% 50% 
+Labour -  - - 4% 23% 19% 29% - 50% 45% 
+Overall -  - - 4% 19% 23% 25% - 49% 37% 
+Aapli Chikitsa_No. of Samples (From July 2019) 
+No. of Test Conducted - - - - - - - 4,107 7,879 13,323 
+Councilor Deliberation (All Committees) 
+Total Questions 5 8 14 11 4 18 19 3 7 10 
+Diabetic/Hypertension -  - - -  - - -  - - 3  
+Diarrhoea/Typhoid/Cholera -  - - -  - - -  - -   
+Malaria/Dengue -  - 2  - 1 3 2 -  - - 
+Tuberculosis -   1 -  - - 1  -  - - -  
+ 
+ 
+
+=== PAGE 56 ===
+ 
+State of Health in Mumbai                                                                                                                                                56 
+ 
+6. F/N Ward 
+Population: 529,034 
+Area: Matunga 
+Average timing of the Dispensaries: 9 hours 
+Summary: Total registered diseases in F/N ward increased by 40% from in 3,806 in 2012 to 5,335 in 2021. 
+Diabetes cases in F/N ward increased by 396% from 223 in 2012 to 1,106 in 2021. The personnel vacancy in BMC 
+dispensaries in F/N ward increased from 7% in 2015 to 32% in 2021. Under, the Aapli Chikitsa scheme that was 
+initiated in 2017, 10,266 diagnostic tests were conducted in F/N ward in 2021. From 2012 to 2021, councillor 
+deliberations on health data showed no questions were raised on diabetes, hypertension, and only 3 questions 
+were raised on diarrhoea, which contribute to some of the maximum cases in this ward. 
+ 
+Year 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 
+Occurrence of Sensitive Diseases in BMC Dispensary 
+Malaria 423 222 190 168 147 113 84 71 116 123 
+Dengue 3 2 53 28 35 45 45 72 18 93 
+Tuberculosis 814 243 304 418 171 154 191 276 168 285 
+HIV 47 25 22 12 12 16 31 56 25 33 
+Diarrhoea 1,743 1,606 1,596 1,704 2,186 2,889 2,894 2,012 1,240 1,874 
+Cholera 0 0 0 0 0 0 0 0 0 0 
+Typhoid 97 109 95 77 39 1 1 8 12 75 
+Diabetes 223 221 560 387 421 515 446 1,350 602 1,106 
+Hypertension 428 397 397 554 1,045 721 576 594 583 743 
+Other Sensitive Diseases 28 17 14 13 1 2  7 324 1,003 
+Total Sensitive Diseases 3,806 2,842 3,231 3,361 4,057 4,456 4,268 4,446 3,088 5,335 
+Dispensary Personnel  (Vacant %) 
+Medical - - - 17% 0% 0% 0% - 0% 25% 
+Para-Medical - - - 0% 0% 0% 20% - 0% 46% 
+Nursing - - - 0% 0% 0% 0% - 0% 0% 
+Administrator - - - 0% 0% 0% 0% - 0% 31% 
+Labour - - - 7% 7% 0% 13% - 0% 33% 
+Overall - - - 7% 3% 0% 13% - 0% 32% 
+Aapli Chikitsa_No. of Samples (From July 2019) 
+No. of Test Conducted - - - - - - - 5,062 4,851 10,266 
+Councilor Deliberation (All Committees) 
+Total Questions  4 6 12 14 10 10 22 30 4 16 
+Diabetic/Hypertension - - - - - - - - - - 
+Diarrhoea/Typhoid/Cholera - - 1  1  - - - 1 - - 
+Malaria/Dengue  2 2 5 2 2 - 1  1 - - 
+Tuberculosis - - - - 1 - 2 5 - - 
+ 
+ 
+
+=== PAGE 57 ===
+ 
+State of Health in Mumbai                                                                                                                                                57 
+ 
+7. F/S Ward 
+Population: 360,972 
+Area: Parel 
+Average timing of the Dispensaries: 7 hours 
+Summary: Total registered diseases in F/S ward decreased by 31% from in 6,471 in 2012 to 4,491 in 2021. 
+Diabetes cases in F/S ward increased by 61% from 249 in 2012 to 400 in 2021. The personnel vacancy in BMC 
+dispensaries in F/S ward decreased from 20% in 2015 to no vacancy ( -6%) in 2021. Under, the  Aapli Chikitsa 
+scheme that was initiated in 2017, 6,895 diagnostic tests were conducted in F/S ward in 2021. From 2012 to 
+2021, councillor deliberations on health data showed no questions were raised on diabetes, hypertension, which 
+contribute to some of the maximum cases in this ward. 
+ 
+Year 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 
+Occurrence of Sensitive Diseases in BMC Dispensary 
+Malaria 914 565 986 842 481 838 679 421 710 528 
+Dengue 0 0 34 22 11 20 7 31 3 89 
+Tuberculosis 138 148 359 280 180 196 200 392 287 356 
+HIV 4 7 0 2 6 9 3 5 4 10 
+Diarrhoea 4,423 3,941 3,682 4,016 4,967 4,337 4,088 3,391 2,323 1,717 
+Cholera 0 0 0 0 0 0 0 0 0 0 
+Typhoid 0 0 0 0 0 0 0 45 43 137 
+Diabetes 249 77 61 110 303 220 166 159 216 400 
+Hypertension 740 224 167 245 585 324 247 253 215 302 
+Other Sensitive Diseases 3 4 1 0 0 0 0 9 217 952 
+Total Sensitive Diseases 6,471 4,966 5,290 5,517 6,533 5,944 5,390 4,706 4,018 4,491 
+Dispensary Personnel  (Vacant %) 
+Medical -  -  -  8% 0% 0% 7% - 0% 0% 
+Para-Medical -  -  -  31% 15% 40% 27% - 30% -11% 
+Nursing -  -  -  0% 0% 0% 0% - 0% 0% 
+Administrator -  -  -  0% 0% 0% 0% - 0% 0% 
+Labour -  -  -  20% 14% 27% 24% - 14% -8% 
+Overall -  -  -  20% 11% 21% 19% - 13% -6% 
+Aapli Chikitsa_No. of Samples (From July 2019) 
+No. of Test Conducted - - - - - - - 2,474 4,607 6,895 
+Councillor Deliberation (All Committees) 
+Total Questions  8 4 6 7 11 11 11 12 4 17 
+Diabetic/Hypertension -  -  -  -  -  -  -  -  -  -  
+Diarrhoea/Typhoid/Cholera -  -  -  -  -  -  -  -  -  -  
+Malaria/Dengue 2  2 1 -   1 -  -  1 -  -  
+Tuberculosis  1 1 1 1 -  -  -   1 -  -  
+ 
+ 
+
+=== PAGE 58 ===
+ 
+State of Health in Mumbai                                                                                                                                                58 
+ 
+8. G/N Ward 
+Population: 599,039 
+Area: Dadar 
+Average timing of the Dispensaries: 7 hours 
+Summary: Total registered diseases in G/N ward increased by 42% from in 5,973 in 2012 to 8,485 in 2021. 
+Hypertension cases in G/N ward increased by 185% from 785 in 2012 to 2,234 in 2021. The personnel vacancy 
+in BMC dispensaries in F/S ward decreased from 9% in 20 15 to 32% in 2021. Under, the  Aapli Chikitsa scheme 
+that was initiated in 2017, 9,657 diagnostic tests were conducted in G/N ward in 2021. From 2012 to 2021, 
+councillor deliberations on health data showed only 2 questions were raised on diabetes, hypertens ion, which 
+contribute to some of the maximum cases in this ward. 
+ 
+Year 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 
+Occurrence of Sensitive Diseases in BMC Dispensary 
+Malaria 352 304 284 165 170 121 117 119 180 277 
+Dengue 0 10 64 32 9 17 19 112 28 92 
+Tuberculosis 536 500 412 385 485 427 521 529 448 726 
+HIV 0 0 0 0 3 5 8 9 5 4 
+Diarrhoea 3,624 2,768 2,837 3,258 5,452 6,715 5,680 5,856 3,843 3,250 
+Cholera 0 0 0 0 0 0 0 0 0 0 
+Typhoid 0 0 0 1 22 52 99 152 311 323 
+Diabetes 676 1,189 1,695 2,638 1,417 852 582 699 500 904 
+Hypertension 785 1,184 1,266 1,843 1,342 1,018 936 2,136 1,611 2,234 
+Other Sensitive Diseases 0 0 0 0 26 16 0 25 167 675 
+Total Sensitive Diseases 5,973 5,955 6,558 8,322 8,926 9,223 7,962 9,637 7,093 8,485 
+Dispensary Personnel  (Vacant %) 
+Medical - - - 0% 17% 9% 9% - 42% 40% 
+Para-Medical - - - 0% 13% 7% 13% - 43% 28% 
+Nursing - - - 0% 0% 0% 0% - 0% 0% 
+Administrator - - - 0% 0% 0% 0% - 36% 0% 
+Labour - - - 18% 24% 14% 8% - 32% 30% 
+Overall - - - 9% 19% 10% 10% - 36% 32% 
+Aapli Chikitsa_No. of Samples (From July 2019) 
+No. of Test Conducted - - - - - - - 2,810 5,925 9,657 
+Councillor Deliberation (All Committees) 
+Total Questions 7 5 5 7 11 10 23 16 12 18 
+Diabetic/Hypertension  - 1  - - 1 -  - - - - 
+Diarrhoea/Typhoid/Cholera  1 - - - - - - - - - 
+Malaria/Dengue 2  -  1   2 2 - 1 1 - 
+Tuberculosis - - - - - - 3  1  2 - 
+ 
+ 
+
+=== PAGE 59 ===
+ 
+State of Health in Mumbai                                                                                                                                                59 
+ 
+9. G/S Ward 
+Population: 377,749 
+Area: Elphinston 
+Average timing of the Dispensaries: 7.5 hours 
+Summary: Total registered diseases in G/S ward increased by 61% from in 5,953 in 2012 to 9,612 in 2021. 
+Diabeties cases in G/S ward increased by 261% from 320 in 2012 to 1,155 in 2021. The personnel vacancy in 
+BMC dispensaries in G/S ward increased from 20% in 2015 to 32% in 2021. Under, the A apli Chikitsa scheme 
+that was initiated in 2017, 10,844 diagnostic tests were conducted in G/S ward in 2021. From 2012 to 2021, 
+councillor deliberations on health data showed only 1 question were raised on diabetes, hypertension, which 
+contribute to some of the maximum cases in this ward. 
+ 
+Year 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 
+Occurrence of Sensitive Diseases in BMC Dispensary 
+Malaria 277 127 66 74 152 83 416 312 940 655 
+Dengue 0 0 0 1 9 13 46 120 12 22 
+Tuberculosis 189 186 194 389 231 242 258 314 209 503 
+HIV 3 2 13 3 2 5 4 3 2 1 
+Diarrhoea 4,089 4,330 4,792 5,215 5,567 5,540 7,842 8,529 6,370 5,017 
+Cholera 0 0 0 0 0 0 0 0 0 0 
+Typhoid 0 0 0 0 0 0 0 19 33 76 
+Diabetes 320 48 24 59 313 190 303 981 824 1,155 
+Hypertension 1,073 185 80 96 269 276 390 1,343 961 867 
+Other Sensitive Diseases 2 0 0 1 0 0 0 5 182 1316 
+Total Sensitive Diseases 5,953 4,878 5,169 5,838 6,543 6,349 9,259 11,626 9,533 9,612 
+Dispensary Personnel  (Vacant %) 
+Medical - - - 0% 0% 6% 13% - 27% 32% 
+Para-Medical - - - 35% 28% 17% 17% - 16% 38% 
+Nursing - - - 0% 0% 0% 0% - 0% 0% 
+Administrator - - - 0% 0% 0% 0% - 0% 35% 
+Labour - - - 20% 10% 17% 20% - 24% 29% 
+Overall - - - 20% 13% 14% 17% - 22% 32% 
+Aapli Chikitsa_No. of Samples (From July 2019) 
+No. of Test Conducted - - - - - - - 2,442 6,485 10,844 
+Councilor Deliberation (All Committees) 
+Total Questions 15  11 13 13 8 23 37 25 5 9 
+Diabetic/Hypertension - 1 - - - - - - - - 
+Diarrhoea/Typhoid/Cholera - - -  1 - - - - - - 
+Malaria/Dengue  2 1 1 3 2 3 2 1   - 1 
+Tuberculosis - - 1 - - - 1 - - - 
+ 
+ 
+
+=== PAGE 60 ===
+ 
+State of Health in Mumbai                                                                                                                                                60 
+ 
+10. H/E Ward 
+Population: 557,239 
+Area: Khar 
+Average timing of the Dispensaries: 8 hours 
+Summary: Total registered diseases in H/E ward decreased by 22% from in 5,264 in 2012 to 4,118 in 2021. 
+Diabetes cases in H/E ward increased by 267% from 121 in 2012 to 444 in 2021. The personnel vacancy in BMC 
+dispensaries in H/E ward decreased from 24% in 2015 to 18% in 2021. Under, the Aapli Chikitsa scheme that was 
+initiated in 2017, 6,940 diagnostic tests were conducted in H/E ward in 2021. From 2012 to 2021, councillor 
+deliberations on health data showed only 2 questions were raised on diabetes, hypertension, which contribute 
+to some of the maximum cases in this ward. 
+ 
+Year 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 
+Occurrence of Sensitive Diseases in BMC Dispensary 
+Malaria 246 151 199 138 146 103 90 44 33 46 
+Dengue 0 0 22 67 0 21 59 90 24 30 
+Tuberculosis 576 475 522 544 638 625 558 714 663 829 
+HIV 5 8 20 4 4 5 9 237 94 225 
+Diarrhoea 3,740 5,665 6,938 7,433 6,371 6,462 5,039 2,797 1,613 1,572 
+Cholera 0 0 0 0 0 0 0 0 0 0 
+Typhoid 98 99 113 120 95 78 57 213 113 102 
+Diabetes 121 302 286 481 1,017 1,014 1,211 376 215 444 
+Hypertension 445 405 378 1,017 1,192 982 955 432 338 418 
+Other Sensitive Diseases 33 6 20 14 14  6 6 298 452 
+Total Sensitive Diseases 5,264 7,111 8,498 9,818 9,477 9,290 7,984 4,909 3,391 4,118 
+Dispensary Personnel  (Vacant %) 
+Medical  -  -  - 0% 0% 0% 0% - 0% 0% 
+Para-Medical  -  -  - 20% 27% 27% 13% - 0% 30% 
+Nursing  -  -  - 0% 0% 0% 0% - 0% 0% 
+Administrator  -  -  - 0% 0% 0% 0% - 0% 0% 
+Labour  -  -  - 38% 37% 39% 25% - 9% 20% 
+Overall  -  -  - 24% 26% 26% 15% - 3% 18% 
+Aapli Chikitsa_No. of Samples (From July 2019) 
+No. of Test Conducted - - - - - - - 3,138 5,090 6,940 
+Councilor Deliberation (All Committees) 
+Total Questions  7 10 6 22 15 10 15 15 5 12 
+Diabetic/Hypertension - - -  2 - - - - - - 
+Diarrhoea/Typhoid/Cholera - - - - - - - - - - 
+Malaria/Dengue 1   - 1 - 3 2 -  2 - - 
+Tuberculosis - - - - - - -  1 - - 
+ 
+ 
+
+=== PAGE 61 ===
+ 
+State of Health in Mumbai                                                                                                                                                61 
+ 
+11. H/W Ward 
+Population: 307,581 
+Area: Bandra 
+Average timing of the Dispensaries: 8.4 hours 
+Summary: Total registered diseases in H/W ward decreased by 37% from in 3,047 in 2012 to 1,911 in 2021. 
+Diabetes cases in H/W ward increased by 68% from 168 in 2012 to 283 in 2021. The personnel vacancy in BMC 
+dispensaries in H/W ward has remained unchanged from 31% in 2015 to 31% in 2021. Under, the Aapli Chikitsa 
+scheme that was initiated in 2017, 2,786 diagnostic tests were conducted in H/W ward in 2021. From 2012 to 
+2021, councillor deliberations on health data showed no questions were raised on diabetes, hypertension and 
+which contribute to some of the maximum deaths in Mumbai. 
+ 
+Year 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 
+Occurrence of Sensitive Diseases in BMC Dispensary 
+Malaria 196 196 193 123 120 100 114 76 48 42 
+Dengue 0 2 12 13 16 73 30 45 3 5 
+Tuberculosis 604 376 246 224 216 187 187 155 100 164 
+HIV 0 0 0 0 0 0 0 12 1 2 
+Diarrhoea 1,808 1,987 1,963 2,303 1,741 1,422 1,481 934 787 880 
+Cholera 0 0 0 0 0 0 0 0 0 0 
+Typhoid 1 4 0 3 1 0 0 4 2 0 
+Diabetes 168 255 104 194 157 176 179 121 227 283 
+Hypertension 267 237 136 158 145 165 157 99 168 205 
+Other Sensitive Diseases 3 0 0 0 1 0 0 4 109 330 
+Total Sensitive Diseases 3,047 3,057 2,654 3,018 2,397 2,123 2,148 1,450 1,445 1,911 
+Dispensary Personnel  (Vacant %) 
+Medical - - - 0% 25% 22% 22% - 11% 23% 
+Para-Medical - - - 33% 55% 55% 55% - 9% 73% 
+Nursing - - - 0% 0% 0% 0% - 0% 0% 
+Administrator - - - 0% 0% 0% 0% - 0% 15% 
+Labour - - - 43% 53% 33% 33% - 13% 38% 
+Overall - - - 31% 47% 37% 37% - 11% 31% 
+Aapli Chikitsa_No. of Samples (From July 2019) 
+No. of Test Conducted - - - - - - - 1,858 1,861 2,786 
+Councilor Deliberation (All Committees) 
+Total Questions 1 1 2 4 3 3 - 4 3 2 
+Diabetic/Hypertension - - - - - - - - - - 
+Diarrhoea/Typhoid/Cholera - - - - - - - - - - 
+Malaria/Dengue - - - - - - - - - - 
+Tuberculosis - - - - - - - - - - 
+ 
+ 
+
+=== PAGE 62 ===
+ 
+State of Health in Mumbai                                                                                                                                                62 
+ 
+12. K/E Ward 
+Population: 823,885 
+Area: Andheri E 
+Average timing of the Dispensaries: 7 hours 
+Summary: Total registered diseases in K/E ward has remained almost same, with a slight decreased by 3% from 
+in 11,590 in 2012 to 11,310 in 2021. Diabetes cases in K/E Ward increased by 67% from 1,297 in 2012 to 2,161 
+in 2021. The personnel vacancy in BMC dispensaries in K/E ward has increased from 22% in 2015 to 37% in 2021. 
+Under, the Aapli Chikitsa scheme that was initiated in 2017, 20,203 diagnostic tests were conducted in K/E ward 
+in 2021. From 2012 to 2021, Councillor deliberations on health data showed no que stions were raised on 
+diabetes, hypertension and which contribute to some of the maximum cases in the ward. 
+ 
+Year 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 
+Occurrence of Sensitive Diseases in BMC Dispensary 
+Malaria 711 330 322 325 142 156 130 95 70 99 
+Dengue 0 12 52 164 193 144 180 233 6 130 
+Tuberculosis 1,202 678 679 538 351 264 246 317 254 292 
+HIV 0 0 3 0 0 3 9 8 6 26 
+Diarrhoea 6,830 5,588 9,928 8,734 5,617 5,289 5,703 3,951 2,988 2,700 
+Cholera 0 0 0 0 0 0 0 0 0 0 
+Typhoid 0 0 0 0 0 0 0 56 175 133 
+Diabetes 1,297 1,538 657 531 777 494 560 2,450 1,914 2,161 
+Hypertension 1,550 1,068 629 1,015 1,058 661 654 1,306 923 1,147 
+Other Sensitive Diseases 0 0 0 0 0 0 0 21 957 4622 
+Total Sensitive Diseases 11,590 9,214 12,270 11,307 8,138 7,011 7,482 8,437 7,293 11,310 
+Dispensary Personnel  (Vacant %) 
+Medical - - - 9% 9% 10% 10% - 17% 38% 
+Para-Medical - - - 40% 33% 27% 27% - 19% 44% 
+Nursing - - - 0% 0% 0% 0% - 33% 0% 
+Administrator - - - 0% 0% 0% 0% - 0% 33% 
+Labour - - - 17% 24% 28% 28% - 21% 38% 
+Overall - - - 22% 24% 24% 24% - 21% 37% 
+Aapli Chikitsa_No. of Samples (From July 2019) 
+No. of Test Conducted - - - - - - - 4,650 10,181 20,203 
+Councilor Deliberation (All Committees) 
+Total Questions  5 14 9 14 8 12 16 18 8 19 
+Diabetic/Hypertension - - - - - - - - - - 
+Diarrhoea/Typhoid/Cholera - - - - - - - 1  - - 
+Malaria/Dengue -  1 - 2 1 1 1  1   1 
+Tuberculosis - - - -  1 - - - - - 
+ 
+ 
+
+=== PAGE 63 ===
+ 
+State of Health in Mumbai                                                                                                                                                63 
+ 
+13. K/W Ward 
+Population: 748,688 
+Area: Andheri W 
+Average timing of the Dispensaries: 8 hours 
+Summary: Total registered diseases in K/W ward has increased by 18% from in 5,139 in 2012 to 6,049 in 2021. 
+Hypertension cases in K/W ward increased by 32% from 699 in 2012 to 924 in 2021. The personnel vacancy in 
+BMC dispensaries in K/W ward has increased from 18% in 2015 to 52% in 2021. Under, the Aapli Chikitsa scheme 
+that was initiated in 2017, 12,809 diagnostic tests were conducted in K/W ward in 2021. From 2012 to 2021, 
+councillor deliberations on health data showed no questions were raised on diabetes, hyper tension and which 
+contribute to some of the maximum cases in the ward. 
+ 
+Year 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 
+Occurrence of Sensitive Diseases in BMC Dispensary 
+Malaria 421 225 139 139 165 268 235 198 106 64 
+Dengue 0 3 34 11 2 0 0 8 4 2 
+Tuberculosis 355 339 271 252 176 206 169 177 124 164 
+HIV 2 1 0 0 0 1 26 11 12 8 
+Diarrhoea 2,839 3,822 3,048 2,504 1,876 2,312 2,216 2,492 2,431 2,365 
+Cholera 0 12 0 0 3 0 0 3 8 0 
+Typhoid 12 21 33 24 21 2 7 103 99 73 
+Diabetes 797 2,130 1,012 570 1,391 1,436 776 728 645 926 
+Hypertension 699 1,497 1,196 1,258 2,260 2,154 1,126 919 650 924 
+Other Sensitive Diseases 14 3    4 3 3 942 1523 
+Total Sensitive Diseases 5,139 8,053 5,733 4,758 5,894 6,383 4,558 4,642 5,021 6,049 
+Dispensary Personnel  (Vacant %) 
+Medical - - - 10% 20% 20% 0% - 8% 8% 
+Para-Medical - - - 25% 67% 70% 0% - 52% 68% 
+Nursing - - - 0% 0% 0% 0% - 0% 0% 
+Administrator - - - 0% 0% 33% 0% - 0% 100% 
+Labour - - - 19% 22% 48% 0% - 9% 57% 
+Overall - - - 18% 37% 49% 0% - 24% 52% 
+Aapli Chikitsa_No. of Samples (From July 2019) 
+No. of Test Conducted - - - - - - - 3,842 7,886 12,809 
+Councilor Deliberation (All Committees) 
+Total Questions  12 9 12 8 12 25 26 28 10 45 
+Diabetic/Hypertension - - - - - - - - - - 
+Diarrhoea/Typhoid/Cholera 1 1 - - - - -  1 - - 
+Malaria/Dengue  1  3 1 -  1 - -  1 -  2 
+Tuberculosis - -  1 1 - - - - - - 
+ 
+ 
+
+=== PAGE 64 ===
+ 
+State of Health in Mumbai                                                                                                                                                64 
+ 
+14. L Ward 
+Population: 902,225 
+Area: Kurla 
+Average timing of the Dispensaries: 7.5 hours 
+Summary: Total registered diseases in L ward has decreased by 7% from in 15,145 in 2012 to 14,052 in 2021. 
+Hypertension cases in L ward increased by 115% from 975 in 2012 to 2,096 in 2021. The personnel vacancy in 
+BMC dispensaries in L ward has increased from 7% in  2015 to 22% in 2021. Under, the Aapli Chikitsa scheme 
+that was initiated in 2017, 12,626 diagnostic tests were conducted in L ward in 2021. From 2012 to 2021, 
+councillor deliberations on health data showed only 7 questions were raised on diabetes, hyperte nsion, when 
+the cases have increased in the ward. 
+ 
+Year 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 
+Occurrence of Sensitive Diseases in BMC Dispensary 
+Malaria 435 336 271 213 130 119 78 43 14 24 
+Dengue 0 2 9 31 125 14 15 253 9 11 
+Tuberculosis 1,088 991 1,188 1,338 1,406 819 768 981 734 1,013 
+HIV 0 0 0 0 5 18 17 25 11 353 
+Diarrhoea 11,755 9,894 9,832 12,046 12,009 12,026 11,505 10,915 7,530 6,125 
+Cholera 0 0 0 0 0 0 0 0 0 0 
+Typhoid 0 3 18 34 30 52 103 44 2 27 
+Diabetes 882 1,020 1,036 1,190 1,261 1,219 1,607 1,929 1,690 1,880 
+Hypertension 975 1,066 1,953 1,750 1,489 1,278 1,554 2,212 2,349 2,096 
+Other Sensitive Diseases 10 0 4 7 13 11 6 8 440 2,523 
+Total Sensitive Diseases 15,145 13,312 14,311 16,609 16,468 15,556 15,653 16,410 12,779 14,052 
+Dispensary Personnel  (Vacant %) 
+Medical - - - 0% 0% 8% 0% - 7% 7% 
+Para-Medical - - - 12% 0% 0% 0% - 0% 13% 
+Nursing - - - 0% 0% 0% 0% - 20% 0% 
+Administrator - - - 0% 0% 0% 0% - 0% 40% 
+Labour - - - 6% 0% 0% 0% - 0% 20% 
+Overall - - - 7% 0% 2% 0% - 3% 22% 
+Aapli Chikitsa_No. of Samples (From July 2019) 
+No. of Test Conducted - - - - - - - 5,304 5,306 12,626 
+Councilor Deliberation (All Committees) 
+Total Questions  34 93 109 117 97 80 90 56 16 42 
+Diabetic/Hypertension -  2 -  1 -   - 1  1 2 -  
+Diarrhoea/Typhoid/Choler
+a  1 1  2 - -  1 1 1 -  -  
+Malaria/Dengue  4 2 9 6 1 1 1  1   2 
+Tuberculosis  -  2 5 1 2 2 5  -  - -  
+ 
+ 
+
+=== PAGE 65 ===
+ 
+State of Health in Mumbai                                                                                                                                                65 
+ 
+15. M/E Ward 
+Population: 807,720 
+Area: Chembur E 
+Average timing of the Dispensaries: 7 hours 
+Summary: Total registered diseases in M/E ward has increased by 53% from in 5,055 in 2012 to 7,736 in 2021. 
+Diabetes cases in M/E ward increased by 102% from 591 in 2012 to 1,192 in 2021. The personnel vacancy in 
+BMC dispensaries in M/E ward has increased from 3% in 2015 to 37% in 2021. Under, the Aapli Chikitsa scheme 
+that was initiated in 2017, 10,327 diagnostic tests were conducted in M/E ward in 2021. From 2012 to 2021, 
+councillor deliberations on health data showed only 4 questions were raised on diabetes, hype rtension, when 
+the cases have increased in the ward. 
+ 
+Year 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 
+Occurrence of Sensitive Diseases in BMC Dispensary 
+Malaria 570 119 155 87 204 62 70 72 52 60 
+Dengue 0 0 24 2 0 21 23 311 35 30 
+Tuberculosis 156 221 113 93 146 156 212 216 196 220 
+HIV 0 0 2 0 0 93 15 781 446 451 
+Diarrhoea 2,719 3,064 4,462 11,562 6,396 4,561 5,758 5,806 4,466 3,967 
+Cholera 0 2 0 0 0 0 0 0 0 0 
+Typhoid 0 4 5 23 4 1 9 8 10 18 
+Diabetes 591 412 419 1,487 1,979 1,259 1,243 1,421 1,645 1,192 
+Hypertension 1,018 656 681 1,216 2,113 1,527 1,499 1,059 1,206 803 
+Other Sensitive Diseases 1 3  4    10 122 995 
+Total Sensitive Diseases 5,055 4,481 5,861 14,474 10,842 7,680 8,829 9,684 8,178 7,736 
+Dispensary Personnel  (Vacant %) 
+Medical - - - 0% 0% 0% 0% - 0% 25% 
+Para-Medical - - - 0% 0% 20% 0% - 10% 38% 
+Nursing - - - 0% 0% 0% 0% - 0% 0% 
+Administrator - - - 0% 0% 0% 0% - 0% 0% 
+Labour - - - 8% 7% 7% 7% - 0% 45% 
+Overall - - - 3% 3% 9% 3% - 3% 37% 
+Aapli Chikitsa_No. of Samples (From July 2019) 
+No. of Test Conducted - - - - - - - 4,046 5,313 10,327 
+Councilor Deliberation (All Committees) 
+Total Questions  5 21 25 17 8 22 20 19 11 12 
+Diabetic/Hypertension - - - - -  3 1 - - - 
+Diarrhoea/Typhoid/Cholera - - - - - - - - - - 
+Malaria/Dengue 1 3 3 2 4 - -  2 - 1 
+Tuberculosis -  1 2 - - 2 3 - - - 
+ 
+ 
+
+=== PAGE 66 ===
+ 
+State of Health in Mumbai                                                                                                                                                66 
+ 
+16. M/W Ward 
+Population: 411,893 
+Area: Chembur W 
+Average timing of the Dispensaries: 7 hours 
+Summary:   Total registered diseases in M/W ward has increased by 330% from in 4,158 in 2012 to 17,874 in 
+2021. The personnel vacancy in BMC dispensaries in M/W ward has decreased from 17% in 2015 to 13% in 2021. 
+Under, the Aapli Chikitsa scheme that was initiated in 2017, 5,962 diagnostic tests were conducted in M/W ward 
+in 2021. From 2012 to 2021, councillor deliberations on health decreased by 33% from 6 questions in 2012 to 4 
+in 2021. 
+ 
+Year 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 
+Occurrence of Sensitive Diseases in BMC Dispensary 
+Malaria 155 81 62 55 36 45 33 42 25 42 
+Dengue 1 14 3 3 27   6 5 1 6 
+Tuberculosis 128 208 146 206 129 113 199 0 0 0 
+HIV 4 1 5 4 4 3 4 0 0 0 
+Diarrhoea 2,812 2,291 1,931 1,961 1,792 1,253 1,594 1,203 970 571 
+Cholera 0 0 0 0 0 0 0 0 0 0 
+Typhoid 25 39 67 86 204 59 93 0 36 92 
+Diabetes 320 312 150 217 253 220 265 205 201 220 
+Hypertension 707 657 239 271 278 177 298 208 175 132 
+Other Sensitive Diseases 6 9 0 22 11 4 1 27 8,844 16,811 
+Total Sensitive Diseases 4,158 3,612 2,603 2,825 2,734 1,874 2,493 1,690 10,252 17,874 
+Dispensary Personnel  (Vacant %) 
+Medical - - - 0% 13% 0% 0% - 0% 10% 
+Para-Medical - - - 17% 0% 0% 0% - 22% 0% 
+Nursing - - - 0% 0% 0% 0% - 33% 0% 
+Administrator - - - 0% 0% 0% 0% - 23% 21% 
+Labour - - - 27% 0% 10% 10% - 8% 13% 
+Overall - - - 17% 4% 5% 5% - 15% 13% 
+Aapli Chikitsa_No. of Samples (From July 2019) 
+No. of Test Conducted - - - - - - - 2,096 4,542 5,962 
+Councilor Deliberation (All Committees) 
+Total Questions  6 11 12 13 8 16 17 15 9 4 
+Diabetic/Hypertension - - - - - - - - - - 
+Diarrhoea/Typhoid/Cholera - - - - - 2  - - - - 
+Malaria/Dengue  2 3 3 1 2 1 1 1   2 
+Tuberculosis - -  1 - - - 1 - - - 
+ 
+ 
+ 
+
+=== PAGE 67 ===
+ 
+State of Health in Mumbai                                                                                                                                                67 
+ 
+17. N Ward 
+Population: 622,853 
+Area: Ghatkopar 
+Average timing of the Dispensaries: 8 hours 
+Summary: Total registered diseases in N ward has increased by 34% from in 6,592 in 2012 to 8,865 in 2021. 
+Diabetes cases in N ward increased by 812% from 234 in 2012 to 2,134 in 2021. The personnel vacancy in BMC 
+dispensaries in N ward has increased from 13% in 201 5 to 26% in 2021. Under, the Aapli Chikitsa scheme that 
+was initiated in 2017, 8,408 diagnostic tests were conducted in N ward in 2021. From 2012 to 2021, councillor 
+deliberations on health data showed only 1 question were raised on diabetes, hypertension,  when these cases 
+have increased in the ward. 
+ 
+Year 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 
+Occurrence of Sensitive Diseases in BMC Dispensary 
+Malaria 245 212 162 149 97 89 56 44 36 39 
+Dengue 0 2 26 155 64 6 56 267 10 91 
+Tuberculosis 148 120 206 178 116 96 139 192 142 235 
+HIV 0 0 0 0 2 2 2 8 7 12 
+Diarrhoea 5,756 6,592 8,211 9,891 8,383 4,567 4,901 7,374 5,293 4,444 
+Cholera 0 0 0 0 0 0 0 0 0 0 
+Typhoid 24 3 9 8 3 4 0 10 10 3 
+Diabetes 234 584 418 471 2,014 702 385 1,777 2,008 2,134 
+Hypertension 176 436 541 480 671 745 304 782 548 576 
+Other Sensitive Diseases 9 0 0 1 0 0 0 173 141 1,331 
+Total Sensitive Diseases 6,592 7,949 9,573 11,333 11,350 6,211 5,843 10,627 8,195 8,865 
+Dispensary Personnel  (Vacant %) 
+Medical - - - 11% 10% 0% 9% - 0% 18% 
+Para-Medical - - - 9% 0% 9% 9% - 0% 18% 
+Nursing - - - 0% 0% 0% 0% - 0% 0% 
+Administrator - - - 0% 0% 0% 0% - 0% 0% 
+Labour - - - 16% 17% 6% 19% - 0% 38% 
+Overall - - - 13% 11% 6% 13% - 0% 26% 
+Aapli Chikitsa_No. of Samples (From July 2019) 
+No. of Test Conducted - - - - - - - 2,765 4,575 8,408 
+Councilor Deliberation (All Committees) 
+Total Questions 5  9 12 20 8 6 16 12 5 11 
+Diabetic/Hypertension - - - 1  - - - - - - 
+Diarrhoea/Typhoid/Cholera - - - -  - - - - - - 
+Malaria/Dengue  - 1  3 3 1 1  - 1 - - 
+Tuberculosis - - - - - - 1 3 - - 
+ 
+ 
+
+=== PAGE 68 ===
+ 
+State of Health in Mumbai                                                                                                                                                68 
+ 
+18. P/N Ward 
+Population: 941,366 
+Area: Malad 
+Average timing of the Dispensaries: 7.41 hours 
+Summary: Total registered diseases in P/N ward has increased by 117% from in 3,667 in 2012 to 7,971 in 2021. 
+Diabetes cases in P/N ward increased by 444% from 179 in 2012 to 974 in 2021. The personnel vacancy in BMC 
+dispensaries in P/N ward has increased from 23% in 2015 to 44% in 2021. Under, the Aapli Chikitsa scheme that 
+was initiated in 2017, 14,766 diagnostic tests were conducted in P/N ward in 2021. From 2012 to 2021, councillor 
+deliberations on health data showed only 2 questions were raised on diabetes, hypertension, when these cases 
+have increased in the ward. 
+ 
+Year 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 
+Occurrence of Sensitive Diseases in BMC Dispensary 
+Malaria 141 78 88 87 166 170 90 56 67 66 
+Dengue 0 0 12 56 3 12 62 201 22 82 
+Tuberculosis 121 179 231 228 265 236 607 843 623 752 
+HIV 0 0 0 0 1 5 21 20 3 4 
+Diarrhoea 3,001 3,279 3,016 3,303 3,393 1,946 3,225 4,305 4,135 3,888 
+Cholera 0 0 0 0 0 0 0 0 0 0 
+Typhoid 16 12 6 0 1 1 0 17 47 41 
+Diabetes 179 183 105 506 472 567 730 997 1,032 974 
+Hypertension 201 265 113 238 418 543 543 831 672 690 
+Other Sensitive Diseases 8 0 0 0 0 0 0 42 524 1,474 
+Total Sensitive Diseases 3,667 3,996 3,571 4,418 4,719 3,480 5,278 7,312 7,125 7,971 
+Dispensary Personnel  (Vacant %) 
+Medical - - - 18% 0% 0% 0% - 17% 8% 
+Para-Medical - - - 23% 23% 29% 32% - 50% 50% 
+Nursing - - - 0% 0% 0% 0% - 0% 0% 
+Administrator - - - 0% 0% 0% 0% - 0% 0% 
+Labour - - - 25% 33% 39% 39% - 57% 57% 
+Overall - - - 23% 23% 28% 27% - 46% 44% 
+Aapli Chikitsa_No. of Samples (From July 2019) 
+No. of Test Conducted - - - - - - - 5,146 11,217 14,766 
+Councilor Deliberation (All Committees) 
+Total Questions 10  26 48 28 20 32 28 25 6 14 
+Diabetic/Hypertension -   1  -  1 - - - - - - 
+Diarrhoea/Typhoid/Cholera - - - - - - - 1 - - 
+Malaria/Dengue  1 4 2 2 -  1  -  2 - 2 
+Tuberculosis - - 3 - - - 4 -  -  - 
+ 
+ 
+
+=== PAGE 69 ===
+ 
+State of Health in Mumbai                                                                                                                                                69 
+ 
+19. P/S Ward 
+Population: 463,507 
+Area: Goregaon 
+Average timing of the Dispensaries: 7 hours 
+Summary:  Total registered diseases in P/S ward has increased by 90% from in 1,652 in 2012 to 3,139 in 2021. 
+Typhoid cases in P/S ward increased by 317% from 35 in 2012 to 146 in 2021. The personnel vacancy in BMC 
+dispensaries in P/S ward has increased from 50% in 2015 to 62% in 2021. Under, the Aapli Chikitsa scheme that 
+was initiated in 2017, 4,396 diagnostic tests were conducted in P/S ward in 2021. From 2012 to 2021, councillor 
+deliberations on health data showed only 1 question were raised on typhoid, when its cases have increased in 
+the ward. 
+ 
+Year 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 
+Occurrence of Sensitive Diseases in BMC Dispensary 
+Malaria 69 41 50 52 26 34 24 135 153 528 
+Dengue 1 11 2 15 3 2 0 46 67 84 
+Tuberculosis 50 84 69 46 22 11 16 112 108 196 
+HIV 0 0 0 0 0 0 0 77 74 144 
+Diarrhoea 920 1,052 1,046 688 676 688 688 1,160 897 799 
+Cholera 0 0 0 0 0 0 0 0 0 0 
+Typhoid 35 26 22 19 11 8 3 120 156 146 
+Diabetes 312 278 118 158 125 80 81 84 138 222 
+Hypertension 265 233 154 134 104 76 76 49 84 104 
+Other Sensitive Diseases 0 0 0 0 0 0 0 32 776 916 
+Total Sensitive Diseases 1,652 1,725 1,461 1,112 967 899 888 1,815 2,453 3,139 
+Dispensary Personnel  (Vacant %) 
+Medical - - - 33% 0% 33% 33% - 17% 33% 
+Para-Medical - - - 50% 33% 50% 75% - 43% 67% 
+Nursing - - - 0% 0% 0% 0% - 0% 0% 
+Administrator - - - 100% 100% 0% 0% - 21% 0% 
+Labour - - - 50% 50% 57% 57% - 24% 83% 
+Overall - - - 50% 38% 50% 57% - 24% 62% 
+Aapli Chikitsa_No. of Samples (From July 2019) 
+No. of Test Conducted - - - - - - - 1,237 3,379 4,396 
+Councilor Deliberation (All Committees) 
+Total Questions 3  7 6 19 18 12 10 12 2 12 
+Diabetic/Hypertension - - - - - - - - - - 
+Diarrhoea/Typhoid/Cholera - - - 1 - - - - - - 
+Malaria/Dengue -  1  - 4 1 - - - - - 
+Tuberculosis - - - -  1 - - - - - 
+ 
+ 
+
+=== PAGE 70 ===
+ 
+State of Health in Mumbai                                                                                                                                                70 
+ 
+20. R/C Ward 
+Population: 562,162 
+Area: Borivali 
+Average timing of the Dispensaries: 7.57 hours 
+Summary: Total registered diseases in R/C ward has increased by 11% from in 4,409 in 2012 to 4,896 in 2021. 
+Typhoid cases in R/C ward increased by 2027% from 11 in 2012 to 234 in 2021. The personnel vacancy in BMC 
+dispensaries in R/C ward has increased from 22% in 2015 to 23% in 2021. Under, the Aapli Chikitsa scheme that 
+was initiated in 2017, 8,011 diagnostic tests were conducted in R/C ward in 2021. From 2012 to 2021, councillor 
+deliberations on health data showed no question were raised on typhoid, when its case s have increased in the 
+ward. 
+ 
+Year 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 
+Occurrence of Sensitive Diseases in BMC Dispensary 
+Malaria 131 83 105 95 90 54 34 30 45 32 
+Dengue 0 0 19 31 53 37 33 68 2 17 
+Tuberculosis 168 202 206 175 196 192 221 237 239 353 
+HIV 0 1 7 1 8 12 11 13 8 12 
+Diarrhoea 2,446 3,114 3,849 3,959 2,591 3,512 3,926 4,093 2,892 2,340 
+Cholera 0 0 0 0 0 0 0 0 0 0 
+Typhoid 11 22 17 27 32 17 28 47 234 234 
+Diabetes 389 380 187 393 1,160 1,089 1,179 599 320 313 
+Hypertension 1,264 828 601 737 1,217 1,060 1,151 687 358 272 
+Other Sensitive Diseases 0 0 0 0 0 0 0 3 868 1,323 
+Total Sensitive Diseases 4,409 4,630 4,991 5,418 5,347 5,973 6,583 5,777 4,966 4,896 
+Dispensary Personnel  (Vacant %) 
+Medical - - - 0% 0% 11% 18% - 0% 29% 
+Para-Medical - - - 22% 0% 11% 11% - 0% 33% 
+Nursing - - - 0% 0% 0% 0% - 0% 0% 
+Administrator - - - 0% 0% 0% 0% - 0% 6% 
+Labour - - - 33% 15% 27% 33% - 27% 32% 
+Overall - - - 22% 7% 18% 23% - 12% 23% 
+Aapli Chikitsa_No. of Samples (From July 2019) 
+No. of Test Conducted - - - - - - - 2,849 5,765 8,011 
+Councilor Deliberation (All Committees) 
+Total Questions  8 9 7 13 14 14 15 10 6 7 
+Diabetic/Hypertension - - - - - - - - - - 
+Diarrhoea/Typhoid/Cholera - - - - - - - - - - 
+Malaria/Dengue - 2 - - 2 2 1 2 - - 
+Tuberculosis -  1 - - - - - - - - 
+ 
+ 
+
+=== PAGE 71 ===
+ 
+State of Health in Mumbai                                                                                                                                                71 
+ 
+21. R/N Ward 
+Population: 431,368 
+Area: Dahisar 
+Average timing of the Dispensaries: 7 hours 
+Summary:  Total registered diseases in R/N ward has increased by 102% from in 1,254 in 2012 to 2,532 in 2021. 
+Diabetes cases in R/N ward increased by 56% from 175 cases in 2012 to 273 in 2021. The personnel vacancy in 
+BMC dispensaries in R/N ward has decreased from 55% in 2015 to 24% in 2021. Under, the Aapli Chikitsa scheme 
+that was initiated in 2017, 5,254 diagnostic tests were conducted in R/N ward in 2021. From 2012 to 2021, 
+councillor deliberations on health data showed no question were raised on diabetes, hyper tension, when its 
+cases have increased in the ward. 
+ 
+Year 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 
+Occurrence of Sensitive Diseases in BMC Dispensary 
+Malaria 107 67 74 84 69 45 28 18 1 14 
+Dengue 0 0 23 131 111 106 154 222 11 140 
+Tuberculosis 244 90 109 157 177 179 247 179 210 228 
+HIV 0 0 0 0 5 9 16 10 15 7 
+Diarrhoea 548 812 746 2,078 1,868 2,164 1,826 1,253 777 548 
+Cholera 0 0 0 0 0 0 0 0 0 0 
+Typhoid 0 25 43 38 22 14 2 1 41 63 
+Diabetes 175 110 134 1,093 400 380 337 331 348 273 
+Hypertension 180 200 105 540 237 230 237 140 165 181 
+Other Sensitive Diseases 0 0 0 0 0 0 0 3 781 1,078 
+Total Sensitive Diseases 1,254 1,304 1,234 4,121 2,889 3,127 2,847 2,157 2,349 2,532 
+Dispensary Personnel  (Vacant %) 
+Medical - - - 0% 0% 100% 0% - 50% 0% 
+Para-Medical - - - 71% 25% 100% 40% - 67% 20% 
+Nursing - - - 0% 0% 0% 0% - 0% 0% 
+Administrator - - - 0% 0% 0% 0% - 92% 0% 
+Labour - - - 64% 13% 100% 70% - 87% 43% 
+Overall - - - 55% 15% 100% 45% - 81% 24% 
+Aapli Chikitsa_No. of Samples (From July 2019) 
+No. of Test Conducted - - - - - - - 3,655 4,802 5,254 
+Councilor Deliberation (All Committees) 
+Total Questions  4 25 16 43 23 25 24 18 16 21 
+Diabetic/Hypertension - - - - - - - - - - 
+Diarrhoea/Typhoid/Cholera - - - - - - - - - - 
+Malaria/Dengue - 2 1 5 - 2 2 - 2 1 
+Tuberculosis - - -  1 -  - 2 - - - 
+ 
+ 
+
+=== PAGE 72 ===
+ 
+State of Health in Mumbai                                                                                                                                                72 
+ 
+22. R/S Ward 
+Population: 691,229 
+Area: Kandivali 
+Average timing of the Dispensaries: 7 hours 
+Summary:  Total registered diseases in R/S ward has decreased by 0.75% from in 4,871 in 2012 to 4,834 in 2021. 
+Typhoid cases in R/S ward increased from 1 cases in 2012 to 32 in 2021. The personnel vacancy in BMC 
+dispensaries in R/S ward has decreased from 17% in 2015 to 8% in 2021. Under, the Aapli Chikitsa scheme that 
+was initiated in 2017, 8,235 diagnostic tests were conducted in R/S ward in 2021. From 2012 to 2021, councillor 
+deliberations on health data showed only 2 question were raised on typhoid, when its case s have increased in 
+the ward. 
+ 
+Year 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 
+Occurrence of Sensitive Diseases in BMC Dispensary 
+Malaria 164 82 70 79 70 87 32 20 22 32 
+Dengue 0 3 58 9 0 0 75 191 6 60 
+Tuberculosis 579 606 555 418 475 264 78 415 488 830 
+HIV 6 12 0 6 23 2 5 12 8 5 
+Diarrhoea 1,855 1,366 1,244 1,458 1,389 1,001 15 2,189 948 963 
+Cholera 0 0 0 0 0 0 0 0 0 0 
+Typhoid 1 5 0 0 0 2 2 143 51 32 
+Diabetes 1,409 4,230 6,764 2,154 732 878 963 1,037 532 687 
+Hypertension 856 1,892 2,378 1,150 597 662 838 713 439 600 
+Other Sensitive Diseases 1 7 0 0 0 1 0 116 1076 1625 
+Total Sensitive Diseases 4,871 8,203 11,069 5,274 3,286 2,897 2,008 4,836 3,570 4,834 
+Dispensary Personnel  (Vacant %) 
+Medical - - - 0% 0% 17% 0% - 0% 0% 
+Para-Medical - - - 33% 33% 33% 22% - 29% -13% 
+Nursing - - - 0% 0% 0% 0% - 0% 0% 
+Administrator - - - 0% 0% 0% 0% - 0% 0% 
+Labour - - - 17% 8% 8% 7% - 17% 25% 
+Overall - - - 17% 13% 17% 10% - 15% 8% 
+Aapli Chikitsa_No. of Samples (From July 2019) 
+No. of Test Conducted - - - - - - - 3,098 4,658 8,235 
+Councilor Deliberation (All Committees) 
+Total Questions 9  36 26 43 36 30 33 10 4 15 
+Diabetic/Hypertension - - - - - - - - - 1  
+Diarrhoea/Typhoid/Cholera - - -  1  - 1  - - -  - 
+Malaria/Dengue  1 5 2 10 1 4 1 1  -  2 
+Tuberculosis - - -  1 - - - - - - 
+ 
+ 
+
+=== PAGE 73 ===
+ 
+State of Health in Mumbai                                                                                                                                                73 
+ 
+23. S Ward 
+Population: 743,783 
+Area: Bhandup 
+Average timing of the Dispensaries: 7.87 hours 
+Summary:  Total registered diseases in S ward has decreased by 21% from in 5,689 in 2012 to 4,507 in 2021. 
+Dengue cases in S ward increased from 1 cases in 2012 to 103 in 2021. The personnel vacancy in BMC 
+dispensaries in S ward has increased from 0% in 2015 to 23% in 2021. Under, the Aapli Chikitsa scheme that was 
+initiated in 2017, 8,498 diagnostic tests were conducted in S ward in 2021. From 2012 to 2021, councillor 
+deliberations on health data showed no  questions were raised on diarrhoea, when its cases contribut e to 
+maximum cases registered in the ward. 
+ 
+Year 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 
+Occurrence of Sensitive Diseases in BMC Dispensary 
+Malaria 207 148 122 121 132 90 50 44 39 38 
+Dengue 1 0 28 308 95 52 115 56 39 103 
+Tuberculosis 404 621 557 494 327 483 425 298 296 269 
+HIV 19 17 20 19 35 12 22 10 7 6 
+Diarrhoea 3,954 3,626 3,750 5,091 4,192 5,543 6,328 5,638 3,434 1,685 
+Cholera 0 0 0 0 0 0 0 0 0 0 
+Typhoid 20 4 14 19 1 0 0 0 0 6 
+Diabetes 611 850 287 1,475 1,192 792 590 653 525 657 
+Hypertension 467 460 536 995 1,350 646 574 687 348 328 
+Other Sensitive Diseases 6 0 2 5 0 0 0 4 318 1,415 
+Total Sensitive Diseases 5,689 5,726 5,316 8,527 7,324 7,618 8,104 7,390 5,006 4,507 
+Dispensary Personnel  (Vacant %) 
+Medical - - - 0% 0% 0% 9% - 27% 11% 
+Para-Medical - - - 0% 0% 17% 29% - 47% 27% 
+Nursing - - - 0% 0% 0% 0% - 0% 0% 
+Administrator - - - 0% 0% 0% 0% - 0% 0% 
+Labour - - - 0% 19% 5% 18% - 24% 26% 
+Overall - - - 0% 10% 8% 19% - 32% 23% 
+Aapli Chikitsa_No. of Samples (From July 2019) 
+No. of Test Conducted - - - - - - - 1,928 2,914 8,498 
+Councilor Deliberation (All Committees) 
+Total Questions  6 11 11 23 12 11 17 8 14 18 
+Diabetic/Hypertension - - - - -  1 - - - - 
+Diarrhoea/Typhoid/Cholera - - - - - - - - - - 
+Malaria/Dengue 2  2 2 3  - 1 1 - - - 
+Tuberculosis - - - - - -  1   4 3 -  
+ 
+ 
+
+=== PAGE 74 ===
+ 
+State of Health in Mumbai                                                                                                                                                74 
+ 
+24. T Ward 
+Population: 341,463 
+Area: Mulund 
+Average timing of the Dispensaries: 7 hours 
+Summary:  Total registered diseases in T ward has increased by 525% from in 3,838 in 2012 to 24,002 in 2021. 
+Typhoid cases in T ward increased from 0 cases in 2012 to 96 in 2021. The personnel vacancy in BMC dispensaries 
+in T ward has increased from 0% in 2015 to 12 % in 2021. Under, the Aapli Chikitsa scheme that was initiated in 
+2017, 2,659 diagnostic tests were conducted in T ward in 2021. From 2012 to 2021, councillor deliberations on 
+health data showed no question were raised on typhoid, when its cases have increased in the ward. 
+ 
+Year 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 
+Occurrence of Sensitive Diseases in BMC Dispensary 
+Malaria 156 104 38 39 52 50 34 25 11 31 
+Dengue 0 6 1 4 0 5 26 4 1 18 
+Tuberculosis 244 225 366 229 118 135 147 0 0 0 
+HIV 0 0 0 0 0 4 5 0 0 0 
+Diarrhoea 2,893 2,979 2,049 2,897 2,139 1,512 1,759 1,328 978 845 
+Cholera 0 0 0 0 0 0 0 0 0 0 
+Typhoid 0 3 1 2 0 0 0 0 14 96 
+Diabetes 204 292 244 136 131 133 92 209 126 244 
+Hypertension 341 213 226 241 270 182 168 165 107 113 
+Other Sensitive Diseases 0 0 0 1 0 0 0 11 14,574 22,655 
+Total Sensitive Diseases 3,838 3,822 2,925 3,549 2,710 2,021 2,231 1,742 15,811 24,002 
+Dispensary Personnel  (Vacant %) 
+Medical - - - 0% 0% 0% 0% - 0% 0% 
+Para-Medical - - - 0% 0% 0% 0% - 0% 25% 
+Nursing - - - 0% 0% 0% 0% - 0% 0% 
+Administrator - - - 0% 0% 0% 0% - 0% 0% 
+Labour - - - 0% 17% 33% 50% - 33% 28% 
+Overall - - - 0% 7% 14% 23% - 14% 12% 
+Aapli Chikitsa_No. of Samples (From July 2019) 
+No. of Test Conducted - - - - - - - 746 814 2,659 
+Councilor Deliberation (All Committees) 
+Total Questions  1 4 8 9 11 12 15 9 1 9 
+Diabetic/Hypertension  - - - 1 - - - - - - 
+Diarrhoea/Typhoid/Cholera  -  -  -  -  -  -  -  -  -  - 
+Malaria/Dengue 1  2 4 2 3 1 1  -  - 1 
+Tuberculosis  -  -  -  -  -  - 1  -  -  - 
+  
+
+=== PAGE 75 ===
+ 
+State of Health in Mumbai                                                                                                                                                75 
+ 
+V. Annexures 
+ 
+1. List of Government dispensaries/hospitals 
+Sr. 
+No.  Government Hospitals Sr. 
+No.  Government Hospitals 
+1 Central Railway Hospital 5 E.S.I.S. Hospital, Worli 
+2 Western Railway Hospital 6 E.S.I.S. Hospital, Mulund 
+3 Mumbai Port Trust Hospital, Wadala 7 E.S.I.S. Hospital, Kandivali 
+4 Nagpada and Naigaon Police Hospital 8 ESIC Model Hospital, Marol 
+Sr. 
+No. Police Dispensaries Sr. 
+No. Police Dispensaries 
+1 Police Headquarters Awar Dispensary 7 Santacruz Police Dispensary 
+2 Police Dispensary, Tardeo   8 Andheri Police Dispensary 
+3 Dr. D.B. Marg Police Dispensary 9 Marol Police Dispensary 
+4 Dadar Police Dispensary 10 Kandivali Police Dispensary 
+5 LA-II HQ Police Dispensary, Worli 11 Police Dispensary, Neharu Nagar  
+6 Mahim Police Dispensary 12 Pant Nagar Dispensary 
+Sr. 
+No.  Municipal Hospitals Sr. 
+No.  Municipal Hospitals 
+1 Acworth Municipal Hospital 14 M.W. Desai Hospital 
+2 B.Y. L. Nair Charitable Hospital 15 Maa Hospital, Diwalabai Mohanlal Mehta Hospital 
+3 Centenary Hospital, Govandi 16 Mahatma Jyotiba Phule Hospital 
+4 Dr. Babasaheb Ambedkar Hospital 
+Kandivali (W) (Centenary Hospital) 17 Municipal Group of T.B. Hospital 
+5 Dr. R.N. Cooper Hospital 18 S. V. D. Sawarkar Hospital 
+6 E.N.T Hospital 19 S.K Patil Hospital 
+7 Eye Hospital 20 Sant Muktabai Hospital 
+8 K. B. Bhabha Hospital, Bandra 21 Seth V.C. Gandhi and M. A. Vora Rajawadi Hospital 
+9 K.B. Bhabha Hospital 22 Shri  Harilal Bhagwati Hospital  
+10 Kasturba Hospital 23 Siddarth Hospital 
+11 Kasturba X (Cross) Road Hospital 
+(Borivali) 24 Smt. Mansadevi T. Agarwal Hospital 
+12 King Edward Memorial Hospital 25 Trauma Care Hospital Jogeshwari East 
+13 Lokmanya Tilak Hospital 26 V. N. Desai Hospital 
+Sr. 
+No.  State Hospitals Sr. 
+No.  State Hospitals 
+1 Gokuldas Tejpal Hospital 4 St. George's Hospital 
+2 Cama and Albless Hospital 5 General Hospital (Malwani)  
+3 Sir J.J. Group of Hospitals     
+ 
+ 
+For list of BMC Municipal dispensaries refer to the link below: 
+https://portal.mcgm.gov.in/irj/go/km/docs/documents/HomePage%20Data/Whats%20New/NON-
+%20COVID%20FACILITIES/MUNICIPAL%20DISPENSARIES.pdf 
+
+=== PAGE 76 ===
+ 
+State of Health in Mumbai                                                                                                                                                76 
+ 
+2. Aapli Chikitsa 
+ 
+ 
+
+
+=== PAGE 77 ===
+ 
+State of Health in Mumbai                                                                                                                                                77 
+ 
+3. List of Basic and Advanced Tests under Aapli Chikitsa scheme 
+Sr 
+no Type Test TAT Sr 
+no Type Test TAT 
+1 Basic HB. CBC, Platelet count 
+& ESR 6 Hrs 36 Basic S. Triglycerides 6 Hrs 
+2 Basic PS for MP 6 Hrs 37 Basic S.HDL 6 Hrs 
+3 Basic Blood Grouping 6 Hrs 38 Basic S.LDL 6 Hrs 
+4 Basic Urine Routine & 
+Microscopy 6 hrs 39 Basic S. VLDL 6 Hrs 
+5 Basic Stool routine & 
+Microscopy 6 hrs 40 Basic S. Amylase 6 Hrs 
+6 Basic Stool Hanging drop 6 hrs 41 Basic U. Micro albumin 6 Hrs 
+7 Basic G6PD 36-48 
+hrs 42 Basic S. Acid Phosphatase 6 Hrs 
+8 Basic Blood Glucose 6 Hrs 43 Basic T3 6 Hrs 
+9 Basic S. Total Bilirubin 6 Hrs 44 Basic T4 6 Hrs 
+10 Basic S. Direct Bilirubin 6 his 45 Basic TSH 6 Hrs 
+11 Basic SGPT/ALT 6 hrs 46 Basic FT3 6 Hrs 
+12 Basic SGOT/AST 6 hrs 47 Basic FT4 6 Hrs 
+13 Basic VDRL 6 hrs 48 Basic ELISA for IgM to HEV 8 Hrs 
+14 Basic WIDAL tube test 24 hrs 49 Basic ELISA for HBsAg 8 Hrs 
+15 Basic 
+Rapid test for 
+Leptospirosis IgM 
+Antibody 
+6 hrs 50 Basic TORCH Panel 24 hrs 
+16 Basic Rapid test for Dengue 
+NS1 Antigen 6 hrs 51 Basic ASLO 6 Hrs. 
+17 Basic Rapid test for Malaria 
+Antigen 6 hrs 52 Basic HbA1C 8 hrs 
+18 Basic Sputum for AFB 6 hrs 53 Basic RA qualitative 6 hrs 
+19 Basic S. BUN 6 hrs 54 Basic HCV Rapid 8 hrs 
+20 Basic S. Creatinine 6 hrs 55 Basic HBsAg Rapid 8 hrs 
+21 Basic BT.CT 6 Hrs 56 Basic PT/INR 6 hrs 
+22 Basic Cross Matching 6 Hrs 57 Basic Reticulocyte Count 6 hrs 
+23 Basic PAP smear Cytology 24-48 
+Hrs 58 Basic Sickling Test 6 hrs 
+24 Basic FNAC 24-48 
+Hrs 59 Basic Body fluid Routine & 
+Microscopy 6 Hrs 
+25 Basic ALP 6 Hrs 60 Basic Rapid test for Dengue IgM 
+Antibody 6 Hrs 
+26 Basic GGT 6 Hrs 61 Basic ELISA for Dengue IgM 
+Antibody 6 Hrs 
+27 Basic S. Total Proteins 6 Hrs 62 Basic CSF Routine & Microscopy 6 hrs 
+28 Basic S. Albumin 6 Hrs 63 Basic Semen examination 24-48 
+Hrs 
+29 Basic S. Globulins 6 Hrs 64 Basic APTT 6 hrs 
+
+=== PAGE 78 ===
+ 
+State of Health in Mumbai                                                                                                                                                78 
+ 
+Sr 
+no Type Test TAT Sr 
+no Type Test TAT 
+30 Basic S. A:G Ratio 6 Hrs 65 Basic Biopsy 24-48 
+Hrs 
+31 Basic S. Urea 6 Hrs 66 Basic HPE small specimens 24-48 
+Hrs 
+32 Basic S. Total Calcium 6 Hrs 67 Basic HPE big specimens 3-5 
+days 
+33 Basic S. Phosphorus 6 Hrs 68 Basic S. Ionic Calcium 6 Hrs 
+34 Basic S. Uric acid 6 Hrs 69 Basic S. Electrolytes 6 Hrs 
+35 Basic S. Cholesterol 6Hrs 70 Basic U. Electrolytes 6 Hrs 
+71 Basic Urea Clearance 6 Hrs 5 Advanced Anti ds DNA 36-48 
+hrs 
+72 Basic Creatinine Clearance 6 Hrs 6 Advanced Blood Culture & AST By 6 
+days 
+73 Basic S. Lipase 6 Hrs 7 Advanced AFB Culture & sensitivity 10-12 
+weeks 
+74 Basic S. Troponin 1 6 Hrs 8 Advanced Bacterial culture & 
+sensitivity 
+2-4 
+days 
+75 Basic S. Adenosine 
+Deaminase 6 Hrs 9 Advanced Liquid (MGIT) & DST for TB 6 
+days 
+76 Basic FSH 6 Hrs 10 Advanced ELISA for Amoebic liver 
+abscess 8 hrs 
+77 Basic LH 6 Hrs 11 Advanced ELISA for Hydatid Cyst 8 hrs 
+78 Basic Prolactin 6 Hrs 12 Advanced S. C Peptide 4 
+days 
+79 Basic Testosterone 6 Hrs 13 Advanced Anti phospholipid antibody 4 
+days 
+80 Basic Estragon E2 2 
+days 14 Advanced Anti thyroid antibodies 4 
+days 
+81 Basic Beta HCG 2 
+davs 15 Advanced D Dimer 6 hrs 
+82 Basic Total PSA 2 
+davs 16 Advanced S. Insulin 4 
+days 
+83 Basic Total CPK 6 Hrs 17 Advanced S. Digoxin 2 
+days 
+84 Basic CPK MB 6 Hrs 18 Advanced S. Carbamazepine 2 
+days 
+85 Basic S. Iron 8 Hrs 19 Advanced S. Phenytoin Sodium 2 
+days 
+86 Basic S. Ferritin 8 Hrs 20 Advanced Anti Pro BNP 6 hrs 
+87 Basic S. T1BC 8 Hrs 21 Advanced PTH 4 
+days 
+88 Basic 24 Hrs urinary Proteins 6 Hrs 22 Advanced Blood Acetylcholinesterase 6 hrs 
+89 Basic CRP quantitative 6 Hrs 23 Advanced Blood Ammonia 
+ 6 hrs 
+
+=== PAGE 79 ===
+ 
+State of Health in Mumbai                                                                                                                                                79 
+ 
+Sr 
+no Type Test TAT Sr 
+no Type Test TAT 
+90 Basic Vitamin D2 8 Hrs 24 Advanced S Cortisol 4 
+days 
+91 Basic Vitamin D3 8 Hrs 25 Advanced CA 125 4 
+days 
+92 Basic Folic acid 4 
+days 26 Advanced CA 19-9 4 
+days 
+93 Basic Vitamin BI2 8 Hrs 27 Advanced CEA 4 
+days 
+94 Basic LDH 6 Hrs 28 Advanced ACTH 4 
+days 
+95 Basic ELISA for IgM to 
+Leptospirosis 8 Hrs 29 Advanced AFP 4 
+days 
+96 Basic ELISA for NS1 for 
+Dengue 8 Hrs 30 Advanced Growth Hormone 4 
+days 
+97 Basic ELISA for IgM lo HCV 8 Hrs 31 Advanced CCP antibody 36-48 
+hrs 
+98 Basic ELISA for IgM to HAV 8 Hrs 32 Advanced HLA B 27 2-3 
+days 
+99 Basic Coombs Test 8 Hrs 33 Advanced FDP 6 hrs 
+100 Basic RA quantitative 6 hrs 34 Advanced CSF latex aggulitimation for 
+Crytococcsis 6 hrs 
+101 Basic Chickengunya IgM 
+antibody 8 Hrs 35 Advanced CSF latex aggulitimation for 
+bacterial pathogens 6 hrs 
+1 Advanced S. Ionic Calcium 6 Hrs 36 Advanced Fungal Culture & AST 14 
+days 
+2 Advanced Hb Variants 24-48 
+Hrs 37 Advanced Insulin antibodies 4 
+days 
+3 Advanced HPE with IHC 3-5 
+days 38 Advanced 17 OHP 5 
+days 
+4 Advanced ANA 36-48 
+hrs         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+=== PAGE 80 ===
+ 
+State of Health in Mumbai                                                                                                                                                80 
+ 
+4. Causes of deaths from Age 0 to 19 from 2012 to 2020 
+Causes of Death Year Up to 1 
+year 
+1-4 
+years 
+5 - 9 
+years 
+10 -14 
+years 
+15 -19 
+years 
+Total 0-19 
+years 
+Congenital Malformations of the 
+Circulatory System (Q20-Q28, Q31) 
+2012 252 46 14 6 5 323 
+2013 120 56 30 8 3 217 
+2014 181 38 16 8 3 246 
+2015 144 19 8 2 0 173 
+2016 385 54 23 14 14 490 
+2017 456 72 17 11 14 570 
+2018 421 77 21 20 15 554 
+2019 331 59 15 14 10 429 
+2020 260 29 4 14 8 315 
+Cleft Lip and Cleft Palate (Q35-Q37) 
+2012 4 0 0 0 0 4 
+2013 1 2 1 0 1 5 
+2014 1 0 0 0 0 1 
+2015 2 0 0 0 0 2 
+2016 4 0 0 0 0 4 
+2017 6 0 0 0 0 6 
+2018 1 0 0 0 0 1 
+2019 3 1 0 0 0 4 
+2020 3 0 0 0 0 3 
+Event of undetermined Intent (Y10-
+Y34) 
+2012 1 0 3 27 108 139 
+2013 193 298 2 8 22 523 
+2014 53 81 2 8 46 190 
+2015 1 2 2 8 59 72 
+2016 16 52 34 65 272 439 
+2017 21 79 39 57 322 518 
+2018 0 0 1 0 0 1 
+2019 0 0 0 0 1 1 
+2020 0 0 0 0 2 2 
+All Other Congenital Malformations, 
+Deformations and Chromosomal 
+Abnormalities Not Elsewhere ( Q18, 
+Q32-Q34, Q38-Q99) 
+2012 165 7 4 3 4 183 
+2013 84 33 15 3 5 140 
+2014 131 32 7 3 0 173 
+2015 102 8 3 3 0 116 
+2016 286 14 6 12 4 322 
+2017 327 27 9 5 5 373 
+2018 248 25 7 5 3 288 
+2019 228 24 9 9 1 271 
+2020 171 13 3 3 5 195 
+Other injuries of Specified, 
+Unspecified and Multiple Body 
+Regions (SOO-SOI, S05, S09-S11, S1S-
+S16, S19- S21,S25,S29,S31,S35, S39-
+S41, S45-S46,S49-S51, S55-SS6, S59-
+S61, S65-S66, S69 S71, S75-S76, S79-
+S81, S8S-S86, S89-S91, S95 S96, S99, 
+T00, T01, T06-T07, T09, T11 and T13-
+T14) 
+2012 16 28 30 40 256 370 
+2013 700 1142 9 13 62 1926 
+2014 185 319 13 23 147 687 
+2015 14 16 30 28 175 263 
+2016 16 39 19 40 197 311 
+2017 0 0 0 0 0 0 
+2018 18 26 20 33 164 261 
+2019 8 30 11 30 145 224 
+2020 4 15 12 15 84 130 
+
+=== PAGE 81 ===
+ 
+State of Health in Mumbai                                                                                                                                                81 
+ 
+Causes of Death Year Up to 1 
+year 
+1-4 
+years 
+5 - 9 
+years 
+10 -14 
+years 
+15 -19 
+years 
+Total 0-19 
+years 
+All other diseases of the nervous 
+system (G10-G25, G31, G35-G37, 
+G43-G98) 
+2012 40 13 14 13 19 99 
+2013 212 343 9 6 4 574 
+2014 100 160 10 9 10 289 
+2015 49 10 15 11 12 97 
+2016 50 43 38 36 35 202 
+2017 49 55 43 26 45 218 
+2018 56 37 32 34 42 201 
+2019 45 41 32 33 59 210 
+2020 28 29 21 28 33 139 
+Septicaemia(A40-A41) 
+2012 540 80 61 69 105 855 
+2013 1572 2315 63 35 33 4018 
+2014 831 748 52 52 96 1779 
+2015 390 67 45 33 98 633 
+2016 125 37 12 11 18 203 
+2017 116 43 12 11 20 202 
+2018 106 35 10 7 13 171 
+2019 132 22 10 10 17 191 
+2020 51 22 13 7 15 108 
+Other Viral Hepatitis (B15, B17-B19) 
+2012 4 4 3 2 11 24 
+2013 28 40 2 1 1 72 
+2014 10 14 2 2 3 31 
+2015 2 3 0 0 3 8 
+2016 2 8 3 2 14 29 
+2017 4 8 5 5 11 33 
+2018 0 2 3 5 5 15 
+2019 0 2 1 4 2 9 
+2020 1 2 3 1 5 12 
+Acute Myocardial infarction (I21-I22) 
+2012 0 0 0 0 0 0 
+2013 2475 4245 4 2 3 6729 
+2014 896 1556 7 11 6 2476 
+2015 0 6 3 3 9 21 
+2016 0 0 0 0 0 0 
+2017 0 0 0 1 2 3 
+2018 0 1 0 1 3 5 
+2019 0 0 1 1 6 8 
+2020 1 0 0 1 4 6 
+Nutritional marasmus (E41) 
+2012 0 0 0 0 0 0 
+2013 1 0 0 0 0 1 
+2014 1 0 0 0 0 1 
+2015 0 0 0 0 0 0 
+2016 0 1 0 0 0 1 
+2017 2 0 0 1 0 3 
+2018 0 0 0 0 0 0 
+2019 0 0 0 0 1 1 
+2020 0 0 0 0 0 0 
+
+=== PAGE 82 ===
+ 
+State of Health in Mumbai                                                                                                                                                82 
+ 
+Causes of Death Year Up to 1 
+year 
+1-4 
+years 
+5 - 9 
+years 
+10 -14 
+years 
+15 -19 
+years 
+Total 0-19 
+years 
+All other nutritional deficiencies 
+(E50-E64) 
+2012 2 0 0 0 0 2 
+2013 1 4 0 0 1 6 
+2014 0 2 0 0 0 2 
+2015 0 0 0 0 0 0 
+2016 1 0 0 0 1 2 
+2017 1 0 0 0 0 1 
+2018 0 1 0 0 0 1 
+2019 0 2 0 0 0 2 
+2020 2 2 1 0 1 6 
+Acute Poliomyelitis (A80) 
+2012 0 0 0 0 0 0 
+2013 0 0 0 0 0 0 
+2014 0 0 0 0 0 0 
+2015 0 0 1 0 0 1 
+2016 0 0 0 0 0 0 
+2017 0 0 0 0 0 0 
+2018 0 0 0 1 0 1 
+2019 0 0 0 0 0 0 
+2020 0 0 0 0 0 0 
+Kwashiorkor (E40) 
+2012 0 1 0 0 0 1 
+2013 0 1 0 0 0 1 
+2014 0 0 0 0 0 0 
+2015 1 1 0 0 0 2 
+2016 2 0 1 0 0 3 
+2017 0 0 0 0 0 0 
+2018 0 0 0 0 0 0 
+2019 0 0 0 0 0 0 
+2020 0 0 0 1 0 1 
+Acute Hepatitis B (B16) 
+2012 0 0 0 0 1 1 
+2013 15 24 0 0 0 39 
+2014 4 15 0 0 0 19 
+2015 0 0 1 1 2 4 
+2016 0 0 0 0 0 0 
+2017 0 0 0 0 0 0 
+2018 0 0 0 0 1 1 
+2019 0 0 0 0 0 0 
+2020 0 0 0 0 0 0 
+Acute rheumatic fever and chronic 
+rheumatic heart diseases (I00-I09) 
+2012 4 0 4 5 6 19 
+2013 60 108 0 1 1 170 
+2014 26 32 2 2 4 66 
+2015 4 0 1 4 6 15 
+2016 3 0 0 6 7 16 
+2017 0 0 2 5 11 18 
+2018 1 0 1 5 10 17 
+2019 0 1 1 10 8 20 
+2020 1 0 1 2 4 8 
+
+=== PAGE 83 ===
+ 
+State of Health in Mumbai                                                                                                                                                83 
+ 
+Causes of Death Year Up to 1 
+year 
+1-4 
+years 
+5 - 9 
+years 
+10 -14 
+years 
+15 -19 
+years 
+Total 0-19 
+years 
+Convulsions not Elsewhere Classified 
+(R56) 
+2012 1 1 1 1 0 4 
+2013 2 4 0 0 1 7 
+2014 3 4 0 0 2 9 
+2015 2 2 0 0 1 5 
+2016 2 3 0 1 1 7 
+2017 1 0 0 1 0 2 
+2018 1 0 0 0 0 1 
+2019 0 0 1 1 0 2 
+2020 0 0 0 0 0 0 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+=== PAGE 84 ===
+ 
+State of Health in Mumbai                                                                                                                                                84 
+ 
+5. Deaths Due to Other Non-Communicable Diseases 
+ 
+Table 48: Age-wise Deaths due Other Non-Communicable Diseases in Mumbai from 2012 to 2020 
+Cause of Death Year 0-4 
+Years 
+5-19 
+Years 
+20-39 
+Years 
+40-59 
+Years 
+60 Years 
+and 
+Above 
+Not 
+Stated Total 
+Disease Of The 
+Circulatory System (I00-
+I99) 
+2012 654 382 1,528 7,011 21,222 4 30,801 
+2013 20,184 211 391 1,824 5,944 1,838 30,392 
+2014 7,929 267 1,252 5,044 16,574 738 31,804 
+2015 595 264 1,383 6,214 20,625 0 29,081 
+2016 145 129 1,364 5,715 18,714 0 26,067 
+2017 110 116 1,008 5,251 18,582 0 25,067 
+2018 92 118 1,071 5,346 19,335 0 25,962 
+2019 96 103 1,037 5,651 20,185 0 27,072 
+2020 49 69 1,031 6,107 22,759 0 30,015 
+Neoplasms (Cancer) 
+(C00-D48) 
+2012 60 181 556 2345 3739 1 6882 
+2013 4499 50 151 599 936 356 6591 
+2014 1568 134 346 1471 2664 136 6319 
+2015 57 141 504 2001 3742 0 6445 
+2016 112 246 695 2950 5522 0 9525 
+2017 126 269 769 3218 5694 0 10076 
+2018 116 292 704 3,165 5,796 0 10,073 
+2019 116 289 728 3,168 6,002 0 10,303 
+2020 84 186 544 2,663 5,345 0 8,822 
+Diseases Of the 
+Respiratory System 
+(J00-J98) 
+2012 1437 418 1084 2174 6612 4 11729 
+2013 7131 351 247 544 1804 644 10721 
+2014 3248 377 803 1480 4945 238 11091 
+2015 1167 358 926 1915 5974 1 10341 
+2016 915 261 607 1204 5451 0 8438 
+2017 478 198 489 1228 5342 0 7735 
+2018 488 177 466 1,191 5,632 0 7,954 
+2019 360 170 480 1,316 5,591 0 7,917 
+2020 195 125 488 1,455 5,253 0 7,516 
+Diseases of the Nervous 
+system (G00-G98) 
+2012 118 100 161 252 695 0 1326 
+2013 840 45 40 69 217 87 1298 
+2014 389 77 128 179 512 26 1311 
+2015 107 65 125 222 594 0 1113 
+2016 148 167 255 375 1382 0 2327 
+2017 165 155 250 432 1424 0 2426 
+2018 147 165 249 440 1,536 0 2,537 
+2019 134 166 237 396 1,609 0 2,542 
+2020 92 126 178 363 1,483 0 2,242 
+ 
+ 
+ 
+ 
+ 
+
+=== PAGE 85 ===
+ 
+State of Health in Mumbai                                                                                                                                                85 
+ 
+6. Mumbai MLA Deliberations 
+ 
+Table 49: Questions asked on health issues by MLAs from Winter 2019 to Budget 2021 
+MLA Name Constituency 
+No. 
+Winter 
+2019 
+Budget 
+2020 
+Monsoon 
+2020 
+Winter 
+2019 to 
+Budget 
+2021 
+Abu Asim Azmi 171 9 23 4 52 
+Ajay Vinayak  Choudhari 183 1 4 1 10 
+Ameet Bhaskar Satam 165 1 19 6 35 
+Amin Amir Ali Patel 186 3 23 3 72 
+Ashish Babaji Shelar 177 2 22 14 38 
+Aslam Ramazan Ali Shaikh 162 3 0 0 26 
+Atul Dattatray Bhatkhalkar 160 2 22 9 49 
+Bharati Hemant Lavekar 164 0 12 4 22 
+Dilip Bhausaheb Lande 168 0 8 3 11 
+Kalidas Nilkanth Kolambkar  180 4 5 4 22 
+Mangal Prabhat Lodha 185 0 5 0 18 
+Mangesh Anant Kudalkar 174 0 6 3 15 
+Manisha Ashok Chaudhari 153 1 14 3 29 
+Mihir Chandrakant Kotecha 155 2 7 3 12 
+Parag Kishor Shah 170 0 0 5 5 
+Parag Madhusudan Alavani 167 4 13 8 33 
+Prakash Rajaram Surve 154 0 2 1 5 
+Prakash Vaikunth Phaterpekar 173 1 8 3 19 
+Rahul Suresh Narwekar 187 1 5 2 8 
+Ramchandra Shivaji Kadam  169 0 3 4 9 
+Ramesh Gajanan Korgaonkar 157 0 3 4 7 
+Ramesh Kondiram Latke 166 0 1 0 1 
+Ravindra Dattaram Waikar  158 1 0 1 2 
+Sadanand Shankar Sarvankar 181 0 7 3 12 
+Sanjay Govind Potnis 175 0 8 4 17 
+Selvan R Tamil 179 2 9 10 28 
+Sunil Dattatraya Rane 152 0 3 2 5 
+Sunil Rajaram Raut 156 0 5 3 11 
+Sunil Vaman Prabhu  159 6 19 5 43 
+Vidya Jayprakash Thakur 163 0 0 0 0 
+Yamini Yashwant Jadhav 184 3 11 3 17 
+Yogesh Amritlal Sagar  161 4 19 4 27 
+Zeeshan Ziauddin Siddique 176 1 3 0 4 
+Total   51 289 119 721 
+ 
+ 
+ 
+
+=== PAGE 86 ===
+ 
+State of Health in Mumbai                                                                                                                                                86 
+ 
+7. Note on BMCs Public Health Committee 
+ 
+a) The Corporation under Section 38A (1) of the M.M.C. (Mumbai Municipal Corporation) Act, appoints the 
+Public Health Committee out of its own body consisting of 36 members in their meeting after general elections 
+and delegate any of their power and duties to such Committee and also define the sphere of business of 
+Committee so appointed and direct that all matters and questions included in any such sphere shall be submitted 
+to the Corporation with such Committee’s recommendation. 
+ 
+b) Sphere of Business 
+Sphere of Business of Special Committees defined by the Corporation vide Corporation Resolution No.46, dated 
+11th May 1999 in exercise of the powers vested in them by S ub-Section (1) of Section 38A of the Mumbai 
+Municipal Corporation Act, 1888, as amended up to date. 
+b. i) All questions relating to the King Edward VII Memorial Hospital and Seth Gordhandas Sunderdas 
+Medical College, Kasturba Hospital for infectious diseas es, Medical Relief in the Municipal outdoor 
+dispensaries, Medical and Nursing assistance to the poor in their homes, Venereal Diseases 
+Dispensaries, Anti Tuberculosis League and any Medical Institution to which monetary assistance is 
+given by the Corporation. 
+b. ii) Health Department (including Street Cleaning, Conservancy, etc.) with the exception of questions 
+pertaining to the Mechanical Branch so far as they fall within the province of the Works Committee. 
+At present, there are 36 members in the Public Health Committee. 

@@ -1,0 +1,114 @@
+{
+  "chosen_model": "random_forest",
+  "training_rows": 2880,
+  "training_date_start": "2009-01-01",
+  "training_date_end": "2018-12-01",
+  "walk_forward_selection": {
+    "random_forest": {
+      "folds": [
+        {
+          "fold": "2015",
+          "mae_cases": 59.63065297837804,
+          "rmse_cases": 102.5138245978738,
+          "correlation": 0.936662031897392,
+          "within_25pct": 0.75
+        },
+        {
+          "fold": "2016",
+          "mae_cases": 50.55367939965482,
+          "rmse_cases": 77.27185741032912,
+          "correlation": 0.9521493377016172,
+          "within_25pct": 0.78125
+        },
+        {
+          "fold": "2017",
+          "mae_cases": 48.45778738754607,
+          "rmse_cases": 86.44069535775509,
+          "correlation": 0.9311609095074566,
+          "within_25pct": 0.7673611111111112
+        },
+        {
+          "fold": "2018",
+          "mae_cases": 46.952009513481286,
+          "rmse_cases": 72.13529987687893,
+          "correlation": 0.9531914665777799,
+          "within_25pct": 0.7048611111111112
+        }
+      ],
+      "mean_mae_cases": 51.39853231976505,
+      "mean_rmse_cases": 84.59041931070924
+    },
+    "gradient_boosting": {
+      "folds": [
+        {
+          "fold": "2015",
+          "mae_cases": 61.896247877990795,
+          "rmse_cases": 108.55257200166926,
+          "correlation": 0.9320794872310776,
+          "within_25pct": 0.7465277777777778
+        },
+        {
+          "fold": "2016",
+          "mae_cases": 50.87616395877278,
+          "rmse_cases": 77.00017596297545,
+          "correlation": 0.951530799588615,
+          "within_25pct": 0.7847222222222222
+        },
+        {
+          "fold": "2017",
+          "mae_cases": 51.47446765869503,
+          "rmse_cases": 88.89317043137021,
+          "correlation": 0.9261043711095696,
+          "within_25pct": 0.7847222222222222
+        },
+        {
+          "fold": "2018",
+          "mae_cases": 44.05668514194538,
+          "rmse_cases": 67.24490179307674,
+          "correlation": 0.9602175072486073,
+          "within_25pct": 0.7569444444444444
+        }
+      ],
+      "mean_mae_cases": 52.075891159351,
+      "mean_rmse_cases": 85.42270504727291
+    }
+  },
+  "holdout_2017_2018": {
+    "mae_cases": 47.73170983410678,
+    "rmse_cases": 77.4158171350136,
+    "correlation": 0.9446000498998247,
+    "within_25pct": 0.7378472222222222,
+    "seasonal_naive_baseline": {
+      "mae_cases": 102.38020833333333,
+      "rmse_cases": 164.01715378615467,
+      "correlation": 0.7656477076135527,
+      "within_25pct": 0.5173611111111112
+    },
+    "risk_label_accuracy": 0.7743055555555556,
+    "n_rows": 576
+  },
+  "top_feature_importance": {
+    "remainder__cases_lag_1": 0.7077395250254397,
+    "remainder__cases_roll_3": 0.10856054634788961,
+    "remainder__cases_lag_2": 0.046068167078387276,
+    "remainder__cases_roll_6": 0.02297121527602579,
+    "remainder__tmin_lag_1": 0.021537493613438114,
+    "remainder__rain_3m_lag": 0.017273069823221056,
+    "remainder__month_cos": 0.009216338274829924,
+    "remainder__cases_lag_12": 0.008486914381155388,
+    "remainder__humidity_lag_1": 0.008101183785027288,
+    "remainder__cases_lag_3": 0.007657740748761823,
+    "remainder__slum_pct_imputed": 0.006587684805387042,
+    "remainder__tmax_lag_1": 0.005625007490510806,
+    "remainder__vulnerability_index": 0.005354866618038632,
+    "remainder__population_density_per_km2": 0.0043894627910184,
+    "remainder__oni_lag_1": 0.004227673678825623,
+    "remainder__population_2019": 0.0034201484196468993,
+    "remainder__elevation_m": 0.003180299222960417,
+    "remainder__rain_lag_1": 0.002966752683978325,
+    "remainder__rainy_days_lag_1": 0.0012444798826458186,
+    "ward_onehot__ward_R/S": 0.0011093976501071494
+  },
+  "climate_source": "Copernicus ERA5 hourly time-series at nearest Mumbai grid point, aggregated to Mumbai-local daily/monthly features",
+  "target_note": "BMC dispensary reported diarrhoea cases; zero-filled ward-months may include incomplete reporting."
+}
